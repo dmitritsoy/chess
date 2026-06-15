@@ -1,3 +1,5 @@
+const DATA_URL = new URL("data/tournament.json", document.baseURI).href;
+
 const state = {
   data: null,
   filter: "all",
@@ -38,12 +40,12 @@ sortSelect.addEventListener("change", () => {
   render();
 });
 
-document.getElementById("refreshBtn").addEventListener("click", () => {
+document.getElementById("refreshBtn")?.addEventListener("click", () => {
   window.location.reload();
 });
 
 async function loadData() {
-  const response = await fetch("../data/tournament.json");
+  const response = await fetch(DATA_URL);
   if (!response.ok) {
     throw new Error("Kon tournament.json niet laden. Voer eerst scripts/fetch_data.py uit.");
   }
@@ -364,8 +366,8 @@ function renderTeamCard(team) {
     <article class="team-card" data-team-id="${team.id}">
       <div class="team-card-header">
         <div>
-          <p class="team-rank">#${team.rank} in ${semifinalLabel(team)}</p>
           <h2 class="team-name">${team.name}</h2>
+          <p class="team-rank">#${team.rank} in ${semifinalLabel(team)}</p>
         </div>
       </div>
       <div class="team-metrics">

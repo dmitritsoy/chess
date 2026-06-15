@@ -10,6 +10,8 @@
   --border: #ddd4c6;
   --shadow: 0 12px 30px rgba(31, 26, 20, 0.08);
   --radius: 16px;
+  --font-serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
 
 * {
@@ -18,7 +20,7 @@
 
 body {
   margin: 0;
-  font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  font-family: var(--font-serif);
   color: var(--ink);
   background:
     radial-gradient(circle at top left, #efe4cf 0, transparent 35%),
@@ -189,15 +191,26 @@ h1 {
   align-items: start;
 }
 
-.team-rank {
-  font-size: 2rem;
-  line-height: 1;
-  color: var(--muted);
-}
-
+.team-card-header h2.team-name,
 .team-name {
   margin: 0;
-  font-size: 1.15rem;
+  font-family: var(--font-sans);
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: var(--ink);
+}
+
+.team-rank {
+  margin: 0.35rem 0 0;
+  font-family: var(--font-serif);
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.4;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
 }
 
 .badges {
