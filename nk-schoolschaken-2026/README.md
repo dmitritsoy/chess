@@ -35,10 +35,11 @@ python scripts/fetch_games.py
 ## Website bekijken
 
 ```bash
+cd nk-schoolschaken
 python3 -m http.server 8080
 ```
 
-Open daarna [http://localhost:8080/web/](http://localhost:8080/web/).
+Open daarna [http://localhost:8080/](http://localhost:8080/).
 
 ## Bronnen
 
