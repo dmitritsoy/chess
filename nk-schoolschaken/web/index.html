@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NK Schoolschaak 2026 — Finale</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div>
+        <p class="eyebrow">Team composition tool</p>
+        <h1>NK Schoolschaak 2026</h1>
+        <p class="subtitle">Finale — finalisten, spelers en ratings</p>
+      </div>
+      <div class="header-actions">
+        <button id="refreshBtn" class="btn btn-secondary" type="button">Data vernieuwen</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="summary" class="summary-grid" aria-label="Overzicht"></section>
+
+    <section class="controls">
+      <label class="search-field">
+        <span class="sr-only">Zoeken</span>
+        <input id="searchInput" type="search" placeholder="Zoek team of speler…" autocomplete="off">
+      </label>
+      <div class="filter-group" role="group" aria-label="Filters">
+        <button class="chip chip-active" data-filter="all" type="button">Alle finalisten (24)</button>
+        <button class="chip" data-filter="arnhem" type="button">Arnhem</button>
+        <button class="chip" data-filter="kruiningen" type="button">Kruiningen</button>
+        <button class="chip" data-filter="almere" type="button">Almere</button>
+      </div>
+      <label class="sort-field">
+        Sorteer
+        <select id="sortSelect">
+          <option value="rank">Plaats halve finale</option>
+          <option value="avg_best">Gem. rating</option>
+          <option value="top_best">Hoogste rating</option>
+          <option value="name">Naam</option>
+        </select>
+      </label>
+    </section>
+
+    <section id="teamGrid" class="team-grid" aria-live="polite"></section>
+    <p id="emptyState" class="empty-state hidden">Geen teams gevonden voor deze zoekopdracht.</p>
+  </main>
+
+  <dialog id="teamModal" class="modal">
+    <div class="modal-content">
+      <button class="modal-close" type="button" aria-label="Sluiten">&times;</button>
+      <div id="modalBody"></div>
+    </div>
+  </dialog>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>
+        Bronnen:
+        <a href="https://knsb.netstand.nl/divisions/view/647" target="_blank" rel="noopener">Arnhem</a>,
+        <a href="https://knsb.netstand.nl/divisions/view/645" target="_blank" rel="noopener">Kruiningen</a>,
+        <a href="https://uitslagen.schakenalmere.nl/schoolschaak-halve-finale-nk-2026/Grp1-Layout1.html" target="_blank" rel="noopener">Almere</a>
+      </p>
+      <p id="fetchedAt" class="muted"></p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
