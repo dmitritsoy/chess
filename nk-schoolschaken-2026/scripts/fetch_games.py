@@ -22,9 +22,10 @@ from games_parser import (
     pairing_url,
     sevilla_parse_team_games,
 )
+from ratings_data import TOURNAMENT_PATH
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA_PATH = ROOT / "data" / "tournament.json"
+DATA_PATH = TOURNAMENT_PATH
 REQUEST_DELAY = 0.12
 
 PARSER_BY_SEMIFINAL = {

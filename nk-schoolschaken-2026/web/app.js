@@ -1,7 +1,9 @@
-const DATA_URL = new URL("data/tournament.json", document.baseURI).href;
+const TOURNAMENT_URL = new URL("data/tournament.json", document.baseURI).href;
+const RATINGS_URL = new URL("data/ratings.json", document.baseURI).href;
 
 const state = {
   data: null,
+  ratings: null,
   filter: "all",
   search: "",
   sort: "rank",
@@ -44,14 +46,85 @@ document.getElementById("refreshBtn")?.addEventListener("click", () => {
   window.location.reload();
 });
 
+function playerStorageKey(player) {
+  if (player.player_id != null && String(player.player_id) !== "") {
+    return String(player.player_id);
+  }
+  return `name:${player.name}`;
+}
+
+function applyRatingsToTeam(team, ratings) {
+  const teamStats = ratings.team_stats?.[team.id];
+  if (teamStats) {
+    Object.assign(team, teamStats);
+  }
+  for (const player of team.players) {
+    const entry = ratings.players?.[playerStorageKey(player)];
+    if (!entry) continue;
+    if (entry.knsb_relatienummer != null) player.knsb_relatienummer = entry.knsb_relatienummer;
+    if (entry.knsb_classic != null) player.knsb_classic = entry.knsb_classic;
+    if (entry.knsb_rapid != null) player.knsb_rapid = entry.knsb_rapid;
+    if (entry.ratingviewer_url) player.ratingviewer_url = entry.ratingviewer_url;
+    if (entry.resolved_name) player.resolved_name = entry.resolved_name;
+  }
+}
+
+function mergeRatings(tournament, ratings) {
+  if (!ratings) return tournament;
+
+  if (ratings.summary) {
+    tournament.summary = { ...tournament.summary, ...ratings.summary };
+  }
+
+  for (const semifinal of tournament.semifinals) {
+    const semiSummary = ratings.semifinal_summaries?.[semifinal.id];
+    if (semiSummary) {
+      semifinal.summary = { ...semifinal.summary, ...semiSummary };
+    }
+    for (const team of semifinal.teams) {
+      applyRatingsToTeam(team, ratings);
+    }
+  }
+
+  for (const team of tournament.finalists) {
+    applyRatingsToTeam(team, ratings);
+  }
+
+  if (ratings.fetched_at) {
+    tournament.ratings_fetched_at = ratings.fetched_at;
+  }
+
+  return tournament;
+}
+
+function formatPlayerName(player) {
+  if (player.resolved_name && player.name !== player.resolved_name) {
+    return `${player.name} (${player.resolved_name})`;
+  }
+  return player.name;
+}
+
 async function loadData() {
-  const response = await fetch(DATA_URL);
-  if (!response.ok) {
+  const [tournamentResponse, ratingsResponse] = await Promise.all([
+    fetch(TOURNAMENT_URL),
+    fetch(RATINGS_URL),
+  ]);
+
+  if (!tournamentResponse.ok) {
     throw new Error("Kon tournament.json niet laden. Voer eerst scripts/fetch_data.py uit.");
   }
-  state.data = await response.json();
+
+  const tournament = await tournamentResponse.json();
+  state.ratings = ratingsResponse.ok ? await ratingsResponse.json() : null;
+  state.data = mergeRatings(tournament, state.ratings);
   playerLookup = null;
-  fetchedAtEl.textContent = `Laatst opgehaald: ${formatDate(state.data.fetched_at)}`;
+
+  const fetchedParts = [`Toernooi: ${formatDate(state.data.fetched_at)}`];
+  if (state.data.ratings_fetched_at) {
+    fetchedParts.push(`Ratings: ${formatDate(state.data.ratings_fetched_at)}`);
+  }
+  fetchedAtEl.textContent = `Laatst opgehaald — ${fetchedParts.join(" · ")}`;
+
   renderSummary();
   render();
 }
@@ -309,7 +382,7 @@ function filteredTeams() {
       const haystack = [
         team.name,
         team.semifinal_name,
-        ...team.players.map((player) => player.name),
+        ...team.players.flatMap((player) => [player.name, player.resolved_name].filter(Boolean)),
       ]
         .join(" ")
         .toLowerCase();
@@ -390,7 +463,7 @@ function renderTeamCard(team) {
             ({ player, index }) => `
               <li>
                 <button type="button" class="link-button player-preview-link" data-player-index="${index}">
-                  ${player.name}
+                  ${formatPlayerName(player)}
                 </button>
                 <span class="rating">${formatPlayerRating(player)}</span>
               </li>
@@ -494,7 +567,7 @@ function wireOpponentLinks() {
 
 function openPlayerModal(team, player) {
   modalBody.innerHTML = `
-    <h2>${player.name}</h2>
+    <h2>${formatPlayerName(player)}</h2>
     <p class="muted">${team.name} · #${team.rank} in ${semifinalLabel(team)}</p>
     <p>
       <strong>Rating:</strong> ${formatPlayerRating(player)}
@@ -534,7 +607,7 @@ function openTeamModal(team) {
             ({ player, index }) => `
               <tr class="player-row" data-player-index="${index}">
                 <td>
-                  <button type="button" class="link-button player-link">${player.name}</button>
+                  <button type="button" class="link-button player-link">${formatPlayerName(player)}</button>
                   ${
                     player.ratingviewer_url
                       ? `<a href="${player.ratingviewer_url}" target="_blank" rel="noopener" class="ratingviewer-link" title="RatingViewer">↗</a>`

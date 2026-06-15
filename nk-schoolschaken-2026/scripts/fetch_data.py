@@ -16,8 +16,10 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 
+from ratings_data import TOURNAMENT_PATH
+
 ROOT = Path(__file__).resolve().parents[1]
-DATA_PATH = ROOT / "data" / "tournament.json"
+DATA_PATH = TOURNAMENT_PATH
 
 QUALIFIERS_PER_SEMIFINAL = 8
 REQUEST_DELAY = 0.15

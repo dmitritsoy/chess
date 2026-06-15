@@ -11,10 +11,7 @@
     "player_count": 105,
     "rated_player_count": 67,
     "avg_rating": 1401.8,
-    "max_rating": 1967,
-    "knsb_classic_count": 36,
-    "avg_knsb_classic": 1545.2,
-    "avg_knsb_rapid": 1436.9
+    "max_rating": 1967
   },
   "semifinals": [
     {
@@ -28,10 +25,7 @@
         "player_count": 110,
         "rated_player_count": 28,
         "avg_rating": 1558.2,
-        "max_rating": 1967,
-        "knsb_classic_count": 28,
-        "avg_knsb_classic": 1558.2,
-        "avg_knsb_rapid": 1379.4
+        "max_rating": 1967
       },
       "teams": [
         {
@@ -120,11 +114,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 8974757,
-              "knsb_classic": 1935,
-              "knsb_rapid": 1908,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8974757"
+              ]
             },
             {
               "name": "Nair, P. (Pranav Prasobh)",
@@ -200,11 +190,7 @@
                 3,
                 4,
                 5
-              ],
-              "knsb_relatienummer": 9062295,
-              "knsb_classic": 1912,
-              "knsb_rapid": 1835,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9062295"
+              ]
             },
             {
               "name": "Ma, Y. (Yuan Li)",
@@ -280,11 +266,7 @@
                 3,
                 4,
                 6
-              ],
-              "knsb_relatienummer": 9041120,
-              "knsb_classic": 1579,
-              "knsb_rapid": 1757,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9041120"
+              ]
             },
             {
               "name": "Dellen van, T. (Thijmen)",
@@ -350,11 +332,7 @@
                 3,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 8964791,
-              "knsb_classic": 1579,
-              "knsb_rapid": 1706,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8964791"
+              ]
             },
             {
               "name": "NO",
@@ -418,10 +396,6 @@
           ],
           "avg_rating": 1751.2,
           "top_rating": 1935,
-          "avg_knsb_classic": 1751.2,
-          "avg_knsb_rapid": 1801.5,
-          "top_knsb_classic": 1935,
-          "top_knsb_rapid": 1908,
           "player_count": 4
         },
         {
@@ -512,11 +486,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8973723,
-              "knsb_classic": 1967,
-              "knsb_rapid": 2040,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8973723"
+              ]
             },
             {
               "name": "Mutta, S. (Sevya Sonit)",
@@ -604,11 +574,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9047258,
-              "knsb_classic": 1765,
-              "knsb_rapid": 1940,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9047258"
+              ]
             },
             {
               "name": "Jawahar, D. (Dhruvith)",
@@ -696,11 +662,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9060579,
-              "knsb_classic": 1715,
-              "knsb_rapid": 1760,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9060579"
+              ]
             },
             {
               "name": "Suthan, A. (Asthik)",
@@ -788,19 +750,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9017404,
-              "knsb_classic": 1409,
-              "knsb_rapid": 1467,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9017404"
+              ]
             }
           ],
           "avg_rating": 1714.0,
           "top_rating": 1967,
-          "avg_knsb_classic": 1714.0,
-          "avg_knsb_rapid": 1801.8,
-          "top_knsb_classic": 1967,
-          "top_knsb_rapid": 2040,
           "player_count": 4
         },
         {
@@ -901,11 +855,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9054606,
-              "knsb_classic": 1538,
-              "knsb_rapid": 1663,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9054606"
+              ]
             },
             {
               "name": "Chaudhuri, A. (Aarini)",
@@ -993,11 +943,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9091962,
-              "knsb_classic": 1402,
-              "knsb_rapid": 1472,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9091962"
+              ]
             },
             {
               "name": "Shiralkar, R. (Rudhra)",
@@ -1085,11 +1031,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169776,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169776"
+              ]
             },
             {
               "name": "Karun, D. (Darshil)",
@@ -1177,19 +1119,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9107406,
-              "knsb_classic": null,
-              "knsb_rapid": 1321,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9107406"
+              ]
             }
           ],
           "avg_rating": 1470.0,
           "top_rating": 1538,
-          "avg_knsb_classic": 1470.0,
-          "avg_knsb_rapid": 1485.3,
-          "top_knsb_classic": 1538,
-          "top_knsb_rapid": 1663,
           "player_count": 4
         },
         {
@@ -1290,11 +1224,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9116426,
-              "knsb_classic": 1599,
-              "knsb_rapid": 1641,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9116426"
+              ]
             },
             {
               "name": "Zheng, Y. (Yu Huan)",
@@ -1382,11 +1312,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9170062,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170062"
+              ]
             },
             {
               "name": "Hoogt van der, T. (Timo)",
@@ -1464,11 +1390,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9120144,
-              "knsb_classic": null,
-              "knsb_rapid": 1602,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120144"
+              ]
             },
             {
               "name": "Jaspers, R. (Raf)",
@@ -1513,11 +1435,7 @@
                 2,
                 4,
                 6
-              ],
-              "knsb_relatienummer": 9009517,
-              "knsb_classic": null,
-              "knsb_rapid": 1160,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9009517"
+              ]
             },
             {
               "name": "Tran, O. (Olivier)",
@@ -1562,19 +1480,11 @@
                 3,
                 5,
                 7
-              ],
-              "knsb_relatienummer": 9120155,
-              "knsb_classic": null,
-              "knsb_rapid": 1000,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120155"
+              ]
             }
           ],
           "avg_rating": 1599.0,
           "top_rating": 1599,
-          "avg_knsb_classic": 1599.0,
-          "avg_knsb_rapid": 1350.8,
-          "top_knsb_classic": 1599,
-          "top_knsb_rapid": 1641,
           "player_count": 5
         },
         {
@@ -1675,11 +1585,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9061789,
-              "knsb_classic": 1512,
-              "knsb_rapid": 1767,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9061789"
+              ]
             },
             {
               "name": "Veluwenkamp, R. (Robin)",
@@ -1745,11 +1651,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9086341,
-              "knsb_classic": 1268,
-              "knsb_rapid": 1237,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9086341"
+              ]
             },
             {
               "name": "Melle van, W. (Walden)",
@@ -1826,11 +1728,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9008021,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9008021"
+              ]
             },
             {
               "name": "Stornebrink, N.T. (Nolan)",
@@ -1897,11 +1795,7 @@
                 4,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9043485,
-              "knsb_classic": null,
-              "knsb_rapid": 1064,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9043485"
+              ]
             },
             {
               "name": "Jansen, S.E.E. (Schelte)",
@@ -1967,19 +1861,11 @@
                 4,
                 5,
                 7
-              ],
-              "knsb_relatienummer": 8996779,
-              "knsb_classic": null,
-              "knsb_rapid": 1216,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8996779"
+              ]
             }
           ],
           "avg_rating": 1390.0,
           "top_rating": 1512,
-          "avg_knsb_classic": 1390.0,
-          "avg_knsb_rapid": 1321.0,
-          "top_knsb_classic": 1512,
-          "top_knsb_rapid": 1767,
           "player_count": 5
         },
         {
@@ -2078,11 +1964,7 @@
                 3,
                 4,
                 5
-              ],
-              "knsb_relatienummer": 9121376,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9121376"
+              ]
             },
             {
               "name": "Çinar Sahin, A. (Aren)",
@@ -2168,11 +2050,7 @@
                 3,
                 4,
                 5
-              ],
-              "knsb_relatienummer": 9169809,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169809"
+              ]
             },
             {
               "name": "Lenselink, T. (Tom)",
@@ -2258,11 +2136,7 @@
                 3,
                 4,
                 5
-              ],
-              "knsb_relatienummer": 9156851,
-              "knsb_classic": null,
-              "knsb_rapid": 1418,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9156851"
+              ]
             },
             {
               "name": "Park, N. (Noah)",
@@ -2348,19 +2222,11 @@
                 3,
                 4,
                 5
-              ],
-              "knsb_relatienummer": 9121354,
-              "knsb_classic": null,
-              "knsb_rapid": 1223,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9121354"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1320.5,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1418,
           "player_count": 4
         },
         {
@@ -2460,11 +2326,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9011574,
-              "knsb_classic": 1381,
-              "knsb_rapid": 1479,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9011574"
+              ]
             },
             {
               "name": "Hemanth Kumar, P. (Purvik)",
@@ -2551,11 +2413,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9066827,
-              "knsb_classic": 1372,
-              "knsb_rapid": 1186,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9066827"
+              ]
             },
             {
               "name": "Sathish Kumar, S. (Sidhiksha)",
@@ -2621,11 +2479,7 @@
                 3,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9015149,
-              "knsb_classic": 1308,
-              "knsb_rapid": 1148,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9015149"
+              ]
             },
             {
               "name": "Anand, S.R. (Saket Ram)",
@@ -2702,11 +2556,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9078223,
-              "knsb_classic": 1254,
-              "knsb_rapid": 1520,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9078223"
+              ]
             },
             {
               "name": "Sathish, A. (Adithya)",
@@ -2739,19 +2589,11 @@
               "boards": [
                 1,
                 4
-              ],
-              "knsb_relatienummer": 8983964,
-              "knsb_classic": null,
-              "knsb_rapid": 865,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8983964"
+              ]
             }
           ],
           "avg_rating": 1328.8,
           "top_rating": 1381,
-          "avg_knsb_classic": 1328.8,
-          "avg_knsb_rapid": 1239.6,
-          "top_knsb_classic": 1381,
-          "top_knsb_rapid": 1520,
           "player_count": 5
         },
         {
@@ -2852,11 +2694,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9068653,
-              "knsb_classic": 1538,
-              "knsb_rapid": 1684,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9068653"
+              ]
             },
             {
               "name": "Broersma, C.G.A. (Carolina)",
@@ -2944,11 +2782,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9043474,
-              "knsb_classic": 1418,
-              "knsb_rapid": 1513,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9043474"
+              ]
             },
             {
               "name": "Aydinli, E. (Edin)",
@@ -3036,11 +2870,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9111267,
-              "knsb_classic": null,
-              "knsb_rapid": 1715,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9111267"
+              ]
             },
             {
               "name": "Roemers, L. (Lizenoor)",
@@ -3128,19 +2958,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9133278,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9133278"
+              ]
             }
           ],
           "avg_rating": 1478.0,
           "top_rating": 1538,
-          "avg_knsb_classic": 1478.0,
-          "avg_knsb_rapid": 1637.3,
-          "top_knsb_classic": 1538,
-          "top_knsb_rapid": 1715,
           "player_count": 4
         },
         {
@@ -3231,11 +3053,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9170007,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170007"
+              ]
             },
             {
               "name": "Kozlov, T. (Timofei)",
@@ -3323,11 +3141,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8910110,
-              "knsb_classic": null,
-              "knsb_rapid": 1672,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8910110"
+              ]
             },
             {
               "name": "Sobota, T. (Tytus)",
@@ -3415,11 +3229,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9152231,
-              "knsb_classic": null,
-              "knsb_rapid": 1434,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9152231"
+              ]
             },
             {
               "name": "Bitterling, J. (Jones)",
@@ -3507,19 +3317,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169996,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169996"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1553.0,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1672,
           "player_count": 4
         },
         {
@@ -3620,11 +3422,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9073636,
-              "knsb_classic": 1449,
-              "knsb_rapid": 1667,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9073636"
+              ]
             },
             {
               "name": "Le, L.V.C. (Lucas)",
@@ -3701,11 +3499,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9125556,
-              "knsb_classic": null,
-              "knsb_rapid": 1317,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9125556"
+              ]
             },
             {
               "name": "Wisse, J. (Jens)",
@@ -3782,11 +3576,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9169963,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169963"
+              ]
             },
             {
               "name": "Alagöz, R. (Roni)",
@@ -3842,11 +3632,7 @@
                 4,
                 5,
                 7
-              ],
-              "knsb_relatienummer": 9036280,
-              "knsb_classic": null,
-              "knsb_rapid": 993,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9036280"
+              ]
             },
             {
               "name": "Bashi, D. (Daan)",
@@ -3880,11 +3666,7 @@
                 1,
                 4,
                 7
-              ],
-              "knsb_relatienummer": 9156477,
-              "knsb_classic": null,
-              "knsb_rapid": 937,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9156477"
+              ]
             },
             {
               "name": "Anuk, R. (Rohat)",
@@ -3928,19 +3710,11 @@
                 1,
                 3,
                 6
-              ],
-              "knsb_relatienummer": 9163253,
-              "knsb_classic": null,
-              "knsb_rapid": 836,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9163253"
+              ]
             }
           ],
           "avg_rating": 1449.0,
           "top_rating": 1449,
-          "avg_knsb_classic": 1449.0,
-          "avg_knsb_rapid": 1150.0,
-          "top_knsb_classic": 1449,
-          "top_knsb_rapid": 1667,
           "player_count": 6
         },
         {
@@ -4040,11 +3814,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9109408,
-              "knsb_classic": 1346,
-              "knsb_rapid": 1500,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9109408"
+              ]
             },
             {
               "name": "Udhaya Kumar, M. (Medhini)",
@@ -4131,11 +3901,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 8999111,
-              "knsb_classic": null,
-              "knsb_rapid": 1136,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8999111"
+              ]
             },
             {
               "name": "Yerramilli, A. (Aisha)",
@@ -4222,11 +3988,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 8965638,
-              "knsb_classic": null,
-              "knsb_rapid": 1179,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8965638"
+              ]
             },
             {
               "name": "Shi, T. (Terry)",
@@ -4303,19 +4065,11 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 8969763,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8969763"
+              ]
             }
           ],
           "avg_rating": 1346.0,
           "top_rating": 1346,
-          "avg_knsb_classic": 1346.0,
-          "avg_knsb_rapid": 1271.7,
-          "top_knsb_classic": 1346,
-          "top_knsb_rapid": 1500,
           "player_count": 4
         },
         {
@@ -4416,11 +4170,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9074857,
-              "knsb_classic": 1446,
-              "knsb_rapid": 1551,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9074857"
+              ]
             },
             {
               "name": "Alobaid, Z. (Zahed)",
@@ -4508,11 +4258,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9076309,
-              "knsb_classic": null,
-              "knsb_rapid": 1176,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9076309"
+              ]
             },
             {
               "name": "Overmeer, M. (Merijn)",
@@ -4600,19 +4346,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9056927,
-              "knsb_classic": null,
-              "knsb_rapid": 1221,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9056927"
+              ]
             }
           ],
           "avg_rating": 1446.0,
           "top_rating": 1446,
-          "avg_knsb_classic": 1446.0,
-          "avg_knsb_rapid": 1316.0,
-          "top_knsb_classic": 1446,
-          "top_knsb_rapid": 1551,
           "player_count": 3
         },
         {
@@ -4713,11 +4451,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9025478,
-              "knsb_classic": 1659,
-              "knsb_rapid": 1596,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9025478"
+              ]
             },
             {
               "name": "Wijk van, D. (Diaz)",
@@ -4805,11 +4539,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9126722,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9126722"
+              ]
             },
             {
               "name": "Özkent, K. (Kaan)",
@@ -4876,11 +4606,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9119968,
-              "knsb_classic": null,
-              "knsb_rapid": 994,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9119968"
+              ]
             },
             {
               "name": "Tigrinate, L. (Lucas)",
@@ -4957,11 +4683,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9159029,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9159029"
+              ]
             },
             {
               "name": "Ye, E. (Evi)",
@@ -4995,19 +4717,11 @@
                 1,
                 3,
                 4
-              ],
-              "knsb_relatienummer": 9160723,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9160723"
+              ]
             }
           ],
           "avg_rating": 1659.0,
           "top_rating": 1659,
-          "avg_knsb_classic": 1659.0,
-          "avg_knsb_rapid": 1295.0,
-          "top_knsb_classic": 1659,
-          "top_knsb_rapid": 1596,
           "player_count": 5
         },
         {
@@ -5108,11 +4822,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9068708,
-              "knsb_classic": 1641,
-              "knsb_rapid": 1604,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9068708"
+              ]
             },
             {
               "name": "Gafurov, D. (Damir)",
@@ -5190,11 +4900,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8966474,
-              "knsb_classic": 1627,
-              "knsb_rapid": 1594,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8966474"
+              ]
             },
             {
               "name": "Kevin, K. (Kevin)",
@@ -5282,11 +4988,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9170887,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170887"
+              ]
             },
             {
               "name": "Aishu, A. (Aishu)",
@@ -5374,19 +5076,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9170898,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170898"
+              ]
             }
           ],
           "avg_rating": 1634.0,
           "top_rating": 1641,
-          "avg_knsb_classic": 1634.0,
-          "avg_knsb_rapid": 1599.0,
-          "top_knsb_classic": 1641,
-          "top_knsb_rapid": 1604,
           "player_count": 4
         },
         {
@@ -5466,11 +5160,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8998253,
-              "knsb_classic": 1690,
-              "knsb_rapid": 1612,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8998253"
+              ]
             },
             {
               "name": "Grguric, K. (Kaya)",
@@ -5547,11 +5237,7 @@
                 4,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8985350,
-              "knsb_classic": null,
-              "knsb_rapid": 1376,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8985350"
+              ]
             },
             {
               "name": "Borsboom, M. (Matthias)",
@@ -5639,11 +5325,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9122080,
-              "knsb_classic": null,
-              "knsb_rapid": 1165,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9122080"
+              ]
             },
             {
               "name": "Borsboom, F. (Frederik)",
@@ -5720,11 +5402,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9122069,
-              "knsb_classic": null,
-              "knsb_rapid": 1458,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9122069"
+              ]
             },
             {
               "name": "Kievit, J.G.S. (Jaap)",
@@ -5779,19 +5457,11 @@
                 3,
                 4,
                 5
-              ],
-              "knsb_relatienummer": 9169974,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169974"
+              ]
             }
           ],
           "avg_rating": 1690.0,
           "top_rating": 1690,
-          "avg_knsb_classic": 1690.0,
-          "avg_knsb_rapid": 1402.8,
-          "top_knsb_classic": 1690,
-          "top_knsb_rapid": 1612,
           "player_count": 5
         },
         {
@@ -5881,11 +5551,7 @@
                 4,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9095086,
-              "knsb_classic": 1750,
-              "knsb_rapid": 1774,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9095086"
+              ]
             },
             {
               "name": "Flim, L. (Lucas)",
@@ -5951,11 +5617,7 @@
                 4,
                 5,
                 7
-              ],
-              "knsb_relatienummer": 9169402,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169402"
+              ]
             },
             {
               "name": "Beek van, L. (Lux)",
@@ -6010,11 +5672,7 @@
                 2,
                 4,
                 6
-              ],
-              "knsb_relatienummer": 9169424,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169424"
+              ]
             },
             {
               "name": "Bijsterbosch, J. (Joachim)",
@@ -6070,11 +5728,7 @@
                 4,
                 5,
                 7
-              ],
-              "knsb_relatienummer": 9167422,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9167422"
+              ]
             },
             {
               "name": "Huisken, T. (Tom)",
@@ -6141,11 +5795,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169391,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169391"
+              ]
             },
             {
               "name": "Broekroelofs, A. (Aaron)",
@@ -6200,19 +5850,11 @@
                 3,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9169413,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169413"
+              ]
             }
           ],
           "avg_rating": 1750.0,
           "top_rating": 1750,
-          "avg_knsb_classic": 1750.0,
-          "avg_knsb_rapid": 1774.0,
-          "top_knsb_classic": 1750,
-          "top_knsb_rapid": 1774,
           "player_count": 6
         },
         {
@@ -6290,11 +5932,7 @@
                 2,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9160756,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9160756"
+              ]
             },
             {
               "name": "Jain, R. (Reyaansh)",
@@ -6371,11 +6009,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9163242,
-              "knsb_classic": null,
-              "knsb_rapid": 1293,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9163242"
+              ]
             },
             {
               "name": "Paidipalli, S. (Saharsh)",
@@ -6431,11 +6065,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9169831,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169831"
+              ]
             },
             {
               "name": "Patel, R. (Rudransh)",
@@ -6479,11 +6109,7 @@
                 1,
                 3,
                 4
-              ],
-              "knsb_relatienummer": 9068444,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9068444"
+              ]
             },
             {
               "name": "Banasihalli chetan Kum, V. (Vihaan)",
@@ -6560,11 +6186,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9121343,
-              "knsb_classic": null,
-              "knsb_rapid": 1246,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9121343"
+              ]
             },
             {
               "name": "Madnani, A. (Aarav)",
@@ -6607,19 +6229,11 @@
               "boards": [
                 1,
                 2
-              ],
-              "knsb_relatienummer": 9163220,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9163220"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1269.5,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1293,
           "player_count": 6
         },
         {
@@ -6720,11 +6334,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8839886,
-              "knsb_classic": null,
-              "knsb_rapid": 1424,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8839886"
+              ]
             },
             {
               "name": "Güven, A. (Arina)",
@@ -6812,11 +6422,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9076001,
-              "knsb_classic": null,
-              "knsb_rapid": 1083,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9076001"
+              ]
             },
             {
               "name": "Mulalic, A. (Amar)",
@@ -6904,11 +6510,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169842,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169842"
+              ]
             },
             {
               "name": "Singh, A. (Advait)",
@@ -6996,19 +6598,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9125611,
-              "knsb_classic": null,
-              "knsb_rapid": 1152,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9125611"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1219.7,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1424,
           "player_count": 4
         },
         {
@@ -7087,11 +6681,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9120199,
-              "knsb_classic": null,
-              "knsb_rapid": 937,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120199"
+              ]
             },
             {
               "name": "Bakali, B. (Bilal)",
@@ -7157,11 +6747,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9169952,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169952"
+              ]
             },
             {
               "name": "Wolse, T.J. (Thomas)",
@@ -7237,11 +6823,7 @@
                 3,
                 4,
                 5
-              ],
-              "knsb_relatienummer": 9120188,
-              "knsb_classic": null,
-              "knsb_rapid": 1086,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120188"
+              ]
             },
             {
               "name": "Dharmadhikari, V. (Vivaan)",
@@ -7317,11 +6899,7 @@
                 3,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9169941,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169941"
+              ]
             },
             {
               "name": "Bentelaar, E.T. (Evan)",
@@ -7397,19 +6975,11 @@
                 3,
                 4,
                 6
-              ],
-              "knsb_relatienummer": 9120210,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120210"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1011.5,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1086,
           "player_count": 5
         },
         {
@@ -7510,11 +7080,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9069159,
-              "knsb_classic": 1570,
-              "knsb_rapid": 1669,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9069159"
+              ]
             },
             {
               "name": "Jansen, A. (Aaron)",
@@ -7581,11 +7147,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169721,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169721"
+              ]
             },
             {
               "name": "Apell, N. (Nino)",
@@ -7662,11 +7224,7 @@
                 4,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9141209,
-              "knsb_classic": null,
-              "knsb_rapid": 1325,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9141209"
+              ]
             },
             {
               "name": "Debbegh, R. (Robin)",
@@ -7722,11 +7280,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9169732,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169732"
+              ]
             },
             {
               "name": "Kempers, R. (Remi)",
@@ -7792,19 +7346,11 @@
                 3,
                 5,
                 7
-              ],
-              "knsb_relatienummer": 9169765,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169765"
+              ]
             }
           ],
           "avg_rating": 1570.0,
           "top_rating": 1570,
-          "avg_knsb_classic": 1570.0,
-          "avg_knsb_rapid": 1497.0,
-          "top_knsb_classic": 1570,
-          "top_knsb_rapid": 1669,
           "player_count": 5
         },
         {
@@ -7905,11 +7451,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9162076,
-              "knsb_classic": null,
-              "knsb_rapid": 1192,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9162076"
+              ]
             },
             {
               "name": "Tang, E. (Enzo)",
@@ -7997,11 +7539,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9076771,
-              "knsb_classic": null,
-              "knsb_rapid": 912,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9076771"
+              ]
             },
             {
               "name": "Meer van der, L. (Lars)",
@@ -8089,11 +7627,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169501,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169501"
+              ]
             },
             {
               "name": "Sayar, H. (Hasan)",
@@ -8181,19 +7715,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9115469,
-              "knsb_classic": null,
-              "knsb_rapid": 963,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9115469"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1022.3,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1192,
           "player_count": 4
         },
         {
@@ -8262,11 +7788,7 @@
                 4,
                 5,
                 7
-              ],
-              "knsb_relatienummer": 9168797,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9168797"
+              ]
             },
             {
               "name": "Benerink, F. (Floris)",
@@ -8354,11 +7876,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9075066,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9075066"
+              ]
             },
             {
               "name": "Lerou, V. (Vincent)",
@@ -8446,11 +7964,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9126106,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9126106"
+              ]
             },
             {
               "name": "Lautenbach, A.A.M. (Arthur)",
@@ -8538,11 +8052,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9155223,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9155223"
+              ]
             },
             {
               "name": "Roeloffzen, W. (Willem)",
@@ -8586,19 +8096,11 @@
                 1,
                 3,
                 6
-              ],
-              "knsb_relatienummer": 9168808,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9168808"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": null,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": null,
           "player_count": 5
         },
         {
@@ -8698,11 +8200,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9016370,
-              "knsb_classic": null,
-              "knsb_rapid": 1259,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9016370"
+              ]
             },
             {
               "name": "Fuit, S. (Sen)",
@@ -8789,11 +8287,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9169556,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169556"
+              ]
             },
             {
               "name": "Bosch, J. (Joe)",
@@ -8880,11 +8374,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9064792,
-              "knsb_classic": null,
-              "knsb_rapid": 1023,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9064792"
+              ]
             },
             {
               "name": "Bakker, O. (Owen)",
@@ -8961,19 +8451,11 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9169567,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169567"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1141.0,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1259,
           "player_count": 4
         },
         {
@@ -9063,11 +8545,7 @@
                 4,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169446,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169446"
+              ]
             },
             {
               "name": "Helm van der, R. (Rogier)",
@@ -9144,11 +8622,7 @@
                 4,
                 5,
                 7
-              ],
-              "knsb_relatienummer": 9169435,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169435"
+              ]
             },
             {
               "name": "Luppen, E. (Ezra)",
@@ -9225,11 +8699,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169457,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169457"
+              ]
             },
             {
               "name": "Smit, J. (Jozua)",
@@ -9296,11 +8766,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169468,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169468"
+              ]
             },
             {
               "name": "Wijhe van, D. (David)",
@@ -9366,19 +8832,11 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9169479,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169479"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": null,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": null,
           "player_count": 5
         }
       ]
@@ -9394,10 +8852,7 @@
         "player_count": 112,
         "rated_player_count": 18,
         "avg_rating": 1502.6,
-        "max_rating": 1750,
-        "knsb_classic_count": 18,
-        "avg_knsb_classic": 1502.6,
-        "avg_knsb_rapid": 1336.8
+        "max_rating": 1750
       },
       "teams": [
         {
@@ -9498,11 +8953,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9052021,
-              "knsb_classic": 1585,
-              "knsb_rapid": 1594,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9052021"
+              ]
             },
             {
               "name": "Lalkota, S. (Srikar)",
@@ -9590,11 +9041,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8974768,
-              "knsb_classic": 1458,
-              "knsb_rapid": 1652,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8974768"
+              ]
             },
             {
               "name": "Jin, H. (Hongyi)",
@@ -9682,11 +9129,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9069291,
-              "knsb_classic": 1373,
-              "knsb_rapid": 1599,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9069291"
+              ]
             },
             {
               "name": "Altay, C. (Cagan Deniz)",
@@ -9774,19 +9217,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9013796,
-              "knsb_classic": null,
-              "knsb_rapid": 1467,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9013796"
+              ]
             }
           ],
           "avg_rating": 1472.0,
           "top_rating": 1585,
-          "avg_knsb_classic": 1472.0,
-          "avg_knsb_rapid": 1578.0,
-          "top_knsb_classic": 1585,
-          "top_knsb_rapid": 1652,
           "player_count": 4
         },
         {
@@ -9887,11 +9322,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9078289,
-              "knsb_classic": null,
-              "knsb_rapid": 1413,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9078289"
+              ]
             },
             {
               "name": "Hany, A. (Adam)",
@@ -9979,11 +9410,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9008153,
-              "knsb_classic": null,
-              "knsb_rapid": 1346,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9008153"
+              ]
             },
             {
               "name": "Hany, H. (Harun)",
@@ -10071,11 +9498,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9008164,
-              "knsb_classic": null,
-              "knsb_rapid": 1565,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9008164"
+              ]
             },
             {
               "name": "Shen, D. (Daan)",
@@ -10163,19 +9586,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8965374,
-              "knsb_classic": null,
-              "knsb_rapid": 1629,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8965374"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1488.2,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1629,
           "player_count": 4
         },
         {
@@ -10276,11 +9691,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8945101,
-              "knsb_classic": 1750,
-              "knsb_rapid": 1801,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8945101"
+              ]
             },
             {
               "name": "Toornman, B. (Bobbie)",
@@ -10368,11 +9779,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8971897,
-              "knsb_classic": null,
-              "knsb_rapid": 1311,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8971897"
+              ]
             },
             {
               "name": "Ridder de, M. (Mels)",
@@ -10460,11 +9867,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8974867,
-              "knsb_classic": null,
-              "knsb_rapid": 1398,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8974867"
+              ]
             },
             {
               "name": "Heuvel van den, T. (Thijmen)",
@@ -10552,19 +9955,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8962151,
-              "knsb_classic": null,
-              "knsb_rapid": 1631,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8962151"
+              ]
             }
           ],
           "avg_rating": 1750.0,
           "top_rating": 1750,
-          "avg_knsb_classic": 1750.0,
-          "avg_knsb_rapid": 1535.2,
-          "top_knsb_classic": 1750,
-          "top_knsb_rapid": 1801,
           "player_count": 4
         },
         {
@@ -10665,11 +10060,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8881939,
-              "knsb_classic": 1616,
-              "knsb_rapid": 1750,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8881939"
+              ]
             },
             {
               "name": "Vergeer, T.J. (Thijs)",
@@ -10757,11 +10148,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9059710,
-              "knsb_classic": null,
-              "knsb_rapid": 1258,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9059710"
+              ]
             },
             {
               "name": "Dorrestijn, T. (Tim)",
@@ -10849,11 +10236,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9116085,
-              "knsb_classic": null,
-              "knsb_rapid": 922,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9116085"
+              ]
             },
             {
               "name": "Rietveld, A.H.J. (Alexander)",
@@ -10941,19 +10324,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8881928,
-              "knsb_classic": null,
-              "knsb_rapid": 1807,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8881928"
+              ]
             }
           ],
           "avg_rating": 1616.0,
           "top_rating": 1616,
-          "avg_knsb_classic": 1616.0,
-          "avg_knsb_rapid": 1434.2,
-          "top_knsb_classic": 1616,
-          "top_knsb_rapid": 1807,
           "player_count": 4
         },
         {
@@ -11054,11 +10429,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9000728,
-              "knsb_classic": null,
-              "knsb_rapid": 1596,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9000728"
+              ]
             },
             {
               "name": "Law, A. (Asher)",
@@ -11146,11 +10517,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9067377,
-              "knsb_classic": null,
-              "knsb_rapid": 1335,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9067377"
+              ]
             },
             {
               "name": "Leeuwen van, W. (Wieger)",
@@ -11238,11 +10605,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9001102,
-              "knsb_classic": null,
-              "knsb_rapid": 957,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9001102"
+              ]
             },
             {
               "name": "Bartels, T. (Tristan)",
@@ -11330,19 +10693,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9068125,
-              "knsb_classic": null,
-              "knsb_rapid": 1078,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9068125"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1241.5,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1596,
           "player_count": 4
         },
         {
@@ -11443,11 +10798,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9066761,
-              "knsb_classic": 1596,
-              "knsb_rapid": 1713,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9066761"
+              ]
             },
             {
               "name": "Yang, Y. (Cheng-Yan Edgar)",
@@ -11535,11 +10886,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9069742,
-              "knsb_classic": null,
-              "knsb_rapid": 1554,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9069742"
+              ]
             },
             {
               "name": "Aisola, L. (Leo)",
@@ -11627,11 +10974,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9094481,
-              "knsb_classic": null,
-              "knsb_rapid": 1297,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9094481"
+              ]
             },
             {
               "name": "Duit, A. (Alessio)",
@@ -11719,19 +11062,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9094569,
-              "knsb_classic": null,
-              "knsb_rapid": 1056,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9094569"
+              ]
             }
           ],
           "avg_rating": 1596.0,
           "top_rating": 1596,
-          "avg_knsb_classic": 1596.0,
-          "avg_knsb_rapid": 1405.0,
-          "top_knsb_classic": 1596,
-          "top_knsb_rapid": 1713,
           "player_count": 4
         },
         {
@@ -11832,11 +11167,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8871038,
-              "knsb_classic": 1544,
-              "knsb_rapid": 1601,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8871038"
+              ]
             },
             {
               "name": "Morgan, F. (Finn)",
@@ -11924,11 +11255,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9093799,
-              "knsb_classic": 1327,
-              "knsb_rapid": 1345,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9093799"
+              ]
             },
             {
               "name": "Roghair, T. (Tommie)",
@@ -12016,11 +11343,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9125710,
-              "knsb_classic": 1240,
-              "knsb_rapid": 1261,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9125710"
+              ]
             },
             {
               "name": "Mennink, R.F. (Ruben)",
@@ -12108,19 +11431,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9116173,
-              "knsb_classic": null,
-              "knsb_rapid": 1469,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9116173"
+              ]
             }
           ],
           "avg_rating": 1370.3,
           "top_rating": 1544,
-          "avg_knsb_classic": 1370.3,
-          "avg_knsb_rapid": 1419.0,
-          "top_knsb_classic": 1544,
-          "top_knsb_rapid": 1601,
           "player_count": 4
         },
         {
@@ -12221,11 +11536,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8993578,
-              "knsb_classic": 1702,
-              "knsb_rapid": 1821,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8993578"
+              ]
             },
             {
               "name": "Duijn van, N.A. (Niels)",
@@ -12313,11 +11624,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8930581,
-              "knsb_classic": null,
-              "knsb_rapid": 1427,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8930581"
+              ]
             },
             {
               "name": "Huynh, A. (Andy)",
@@ -12405,11 +11712,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9077365,
-              "knsb_classic": null,
-              "knsb_rapid": 1322,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9077365"
+              ]
             },
             {
               "name": "Duijn van, M.J. (Max)",
@@ -12497,19 +11800,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9015996,
-              "knsb_classic": null,
-              "knsb_rapid": 1204,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9015996"
+              ]
             }
           ],
           "avg_rating": 1702.0,
           "top_rating": 1702,
-          "avg_knsb_classic": 1702.0,
-          "avg_knsb_rapid": 1443.5,
-          "top_knsb_classic": 1702,
-          "top_knsb_rapid": 1821,
           "player_count": 4
         },
         {
@@ -12610,11 +11905,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9127173,
-              "knsb_classic": 1691,
-              "knsb_rapid": 1721,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9127173"
+              ]
             },
             {
               "name": "Ashmann, E. (Edin)",
@@ -12702,11 +11993,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9170414,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170414"
+              ]
             },
             {
               "name": "Karamat Ali, M.D. (Massimo)",
@@ -12794,11 +12081,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9166080,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9166080"
+              ]
             },
             {
               "name": "Mijers, J. (Jake)",
@@ -12853,11 +12136,7 @@
                 2,
                 4,
                 6
-              ],
-              "knsb_relatienummer": 9170403,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170403"
+              ]
             },
             {
               "name": "Makram, S. (Samy)",
@@ -12902,19 +12181,11 @@
                 3,
                 5,
                 7
-              ],
-              "knsb_relatienummer": 9170425,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170425"
+              ]
             }
           ],
           "avg_rating": 1691.0,
           "top_rating": 1691,
-          "avg_knsb_classic": 1691.0,
-          "avg_knsb_rapid": 1721.0,
-          "top_knsb_classic": 1691,
-          "top_knsb_rapid": 1721,
           "player_count": 5
         },
         {
@@ -13015,11 +12286,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9008714,
-              "knsb_classic": 1599,
-              "knsb_rapid": 1655,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9008714"
+              ]
             },
             {
               "name": "Meggelen van, L. (Lukas)",
@@ -13107,11 +12374,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9101202,
-              "knsb_classic": null,
-              "knsb_rapid": 1270,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9101202"
+              ]
             },
             {
               "name": "Treijtel, F. (Fynn)",
@@ -13199,11 +12462,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8999485,
-              "knsb_classic": null,
-              "knsb_rapid": 1546,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8999485"
+              ]
             },
             {
               "name": "Chi, C.J.Q. (Chloë)",
@@ -13258,11 +12517,7 @@
                 2,
                 4,
                 6
-              ],
-              "knsb_relatienummer": 9008692,
-              "knsb_classic": null,
-              "knsb_rapid": 974,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9008692"
+              ]
             },
             {
               "name": "Mastouri, Z. (Ziyed)",
@@ -13307,19 +12562,11 @@
                 3,
                 5,
                 7
-              ],
-              "knsb_relatienummer": 9091302,
-              "knsb_classic": null,
-              "knsb_rapid": 1254,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9091302"
+              ]
             }
           ],
           "avg_rating": 1599.0,
           "top_rating": 1599,
-          "avg_knsb_classic": 1599.0,
-          "avg_knsb_rapid": 1339.8,
-          "top_knsb_classic": 1599,
-          "top_knsb_rapid": 1655,
           "player_count": 5
         },
         {
@@ -13420,11 +12667,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9043694,
-              "knsb_classic": 1200,
-              "knsb_rapid": 1470,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9043694"
+              ]
             },
             {
               "name": "Korteweg, R. (Rowi)",
@@ -13512,11 +12755,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9055409,
-              "knsb_classic": null,
-              "knsb_rapid": 1319,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9055409"
+              ]
             },
             {
               "name": "Hoenderop, T. (Tara)",
@@ -13604,11 +12843,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9085758,
-              "knsb_classic": null,
-              "knsb_rapid": 1207,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9085758"
+              ]
             },
             {
               "name": "Kolk van der, T. (Tjerk)",
@@ -13696,19 +12931,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9120452,
-              "knsb_classic": null,
-              "knsb_rapid": 1104,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120452"
+              ]
             }
           ],
           "avg_rating": 1200.0,
           "top_rating": 1200,
-          "avg_knsb_classic": 1200.0,
-          "avg_knsb_rapid": 1275.0,
-          "top_knsb_classic": 1200,
-          "top_knsb_rapid": 1470,
           "player_count": 4
         },
         {
@@ -13809,11 +13036,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8907536,
-              "knsb_classic": 1728,
-              "knsb_rapid": 1757,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8907536"
+              ]
             },
             {
               "name": "Woszczak, O. (Oliwier)",
@@ -13901,11 +13124,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8887450,
-              "knsb_classic": null,
-              "knsb_rapid": 1432,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8887450"
+              ]
             },
             {
               "name": "Sarkissian, L. (Leo)",
@@ -13982,11 +13201,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169853,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169853"
+              ]
             },
             {
               "name": "Tas, D. (Duru)",
@@ -14074,19 +13289,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169864,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169864"
+              ]
             }
           ],
           "avg_rating": 1728.0,
           "top_rating": 1728,
-          "avg_knsb_classic": 1728.0,
-          "avg_knsb_rapid": 1594.5,
-          "top_knsb_classic": 1728,
-          "top_knsb_rapid": 1757,
           "player_count": 4
         },
         {
@@ -14176,11 +13383,7 @@
                 4,
                 5,
                 7
-              ],
-              "knsb_relatienummer": 9090565,
-              "knsb_classic": 1290,
-              "knsb_rapid": 1312,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9090565"
+              ]
             },
             {
               "name": "Pronk, R. (Ryad)",
@@ -14236,11 +13439,7 @@
                 4,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9170040,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170040"
+              ]
             },
             {
               "name": "Karssen, C. (Chris)",
@@ -14295,11 +13494,7 @@
                 3,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9170051,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170051"
+              ]
             },
             {
               "name": "Spanjer, H. (Hylke)",
@@ -14354,11 +13549,7 @@
                 3,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9156928,
-              "knsb_classic": null,
-              "knsb_rapid": 511,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9156928"
+              ]
             },
             {
               "name": "Vermeulen, M. (Max)",
@@ -14424,11 +13615,7 @@
                 4,
                 5,
                 7
-              ],
-              "knsb_relatienummer": 9171041,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9171041"
+              ]
             },
             {
               "name": "Putten van der, T. (Tom)",
@@ -14495,19 +13682,11 @@
                 4,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9117515,
-              "knsb_classic": null,
-              "knsb_rapid": 1293,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9117515"
+              ]
             }
           ],
           "avg_rating": 1290.0,
           "top_rating": 1290,
-          "avg_knsb_classic": 1290.0,
-          "avg_knsb_rapid": 1038.7,
-          "top_knsb_classic": 1290,
-          "top_knsb_rapid": 1312,
           "player_count": 6
         },
         {
@@ -14608,11 +13787,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8902344,
-              "knsb_classic": 1555,
-              "knsb_rapid": 1603,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8902344"
+              ]
             },
             {
               "name": "Leenen, B. (Bing)",
@@ -14700,11 +13875,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8902355,
-              "knsb_classic": 1373,
-              "knsb_rapid": 1579,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8902355"
+              ]
             },
             {
               "name": "Gruithuijzen, T. (Thijn)",
@@ -14792,11 +13963,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8955001,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8955001"
+              ]
             },
             {
               "name": "Kerkhof van der, J. (Joris)",
@@ -14884,19 +14051,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169677,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169677"
+              ]
             }
           ],
           "avg_rating": 1464.0,
           "top_rating": 1555,
-          "avg_knsb_classic": 1464.0,
-          "avg_knsb_rapid": 1591.0,
-          "top_knsb_classic": 1555,
-          "top_knsb_rapid": 1603,
           "player_count": 4
         },
         {
@@ -14997,11 +14156,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8951349,
-              "knsb_classic": 1420,
-              "knsb_rapid": 1539,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8951349"
+              ]
             },
             {
               "name": "Barendregt, A.A. (Alfred)",
@@ -15089,11 +14244,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9052681,
-              "knsb_classic": null,
-              "knsb_rapid": 1421,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9052681"
+              ]
             },
             {
               "name": "Whitlau, X.M.G. (Xam)",
@@ -15159,11 +14310,7 @@
                 4,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9157764,
-              "knsb_classic": null,
-              "knsb_rapid": 911,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9157764"
+              ]
             },
             {
               "name": "Kuyululu, A.D. (Atlas Derya)",
@@ -15229,11 +14376,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 8963218,
-              "knsb_classic": null,
-              "knsb_rapid": 927,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8963218"
+              ]
             },
             {
               "name": "Zijlstra, Y. (Yannick)",
@@ -15289,19 +14432,11 @@
                 3,
                 5,
                 7
-              ],
-              "knsb_relatienummer": 9170546,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170546"
+              ]
             }
           ],
           "avg_rating": 1420.0,
           "top_rating": 1420,
-          "avg_knsb_classic": 1420.0,
-          "avg_knsb_rapid": 1199.5,
-          "top_knsb_classic": 1420,
-          "top_knsb_rapid": 1539,
           "player_count": 5
         },
         {
@@ -15402,11 +14537,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8960490,
-              "knsb_classic": null,
-              "knsb_rapid": 1173,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8960490"
+              ]
             },
             {
               "name": "Zinkweg, N.T. (Nolan)",
@@ -15494,11 +14625,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8990289,
-              "knsb_classic": null,
-              "knsb_rapid": 1238,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8990289"
+              ]
             },
             {
               "name": "Nes van, J.Z. (Joel)",
@@ -15586,11 +14713,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8970929,
-              "knsb_classic": null,
-              "knsb_rapid": 1426,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8970929"
+              ]
             },
             {
               "name": "Poberer, L. (Luuk)",
@@ -15678,19 +14801,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9170535,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170535"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1279.0,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1426,
           "player_count": 4
         },
         {
@@ -15791,11 +14906,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9084328,
-              "knsb_classic": null,
-              "knsb_rapid": 1391,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9084328"
+              ]
             },
             {
               "name": "Linnemann, L. (Lucas)",
@@ -15883,11 +14994,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9119836,
-              "knsb_classic": null,
-              "knsb_rapid": 1442,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9119836"
+              ]
             },
             {
               "name": "Linnemann, R. (Rafaël)",
@@ -15975,11 +15082,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9119825,
-              "knsb_classic": null,
-              "knsb_rapid": 1521,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9119825"
+              ]
             },
             {
               "name": "Basten-Batenburg van, T. (Timo)",
@@ -16067,19 +15170,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169985,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169985"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1451.3,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1521,
           "player_count": 4
         },
         {
@@ -16180,11 +15275,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9062416,
-              "knsb_classic": null,
-              "knsb_rapid": 1328,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9062416"
+              ]
             },
             {
               "name": "Sekowski, F. (Filip)",
@@ -16272,11 +15363,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9160503,
-              "knsb_classic": null,
-              "knsb_rapid": 1058,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9160503"
+              ]
             },
             {
               "name": "Berveling, J. (Jethro)",
@@ -16364,11 +15451,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9062427,
-              "knsb_classic": null,
-              "knsb_rapid": 1389,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9062427"
+              ]
             },
             {
               "name": "Vonk, T. (Tim)",
@@ -16456,19 +15539,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169644,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169644"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1258.3,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1389,
           "player_count": 4
         },
         {
@@ -16569,11 +15644,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9149041,
-              "knsb_classic": null,
-              "knsb_rapid": 1326,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9149041"
+              ]
             },
             {
               "name": "Brouwer de, C. (Chris)",
@@ -16628,11 +15699,7 @@
                 3,
                 5,
                 7
-              ],
-              "knsb_relatienummer": 9171019,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9171019"
+              ]
             },
             {
               "name": "Held, J. (James)",
@@ -16720,11 +15787,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9170997,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170997"
+              ]
             },
             {
               "name": "Nat van der, X. (Xavi)",
@@ -16812,11 +15875,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9159975,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9159975"
+              ]
             },
             {
               "name": "Roelof, M. (Max)",
@@ -16861,19 +15920,11 @@
                 2,
                 4,
                 6
-              ],
-              "knsb_relatienummer": 9171008,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9171008"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1326.0,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1326,
           "player_count": 5
         },
         {
@@ -16974,11 +16025,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9088640,
-              "knsb_classic": null,
-              "knsb_rapid": 1075,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9088640"
+              ]
             },
             {
               "name": "Lubbe van der, S. (Senn)",
@@ -17066,11 +16113,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169798,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169798"
+              ]
             },
             {
               "name": "Postma, S. (Sepp)",
@@ -17158,11 +16201,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169787,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169787"
+              ]
             },
             {
               "name": "Donkersgoed van, Y. (Ype)",
@@ -17250,19 +16289,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9132838,
-              "knsb_classic": null,
-              "knsb_rapid": 959,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9132838"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1017.0,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1075,
           "player_count": 4
         },
         {
@@ -17363,11 +16394,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9104810,
-              "knsb_classic": null,
-              "knsb_rapid": 1043,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9104810"
+              ]
             },
             {
               "name": "Ozturk, Z. (Zeynep)",
@@ -17455,11 +16482,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9104821,
-              "knsb_classic": null,
-              "knsb_rapid": 963,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9104821"
+              ]
             },
             {
               "name": "Bruins-Slot, J. (Jens)",
@@ -17537,11 +16560,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9170447,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170447"
+              ]
             },
             {
               "name": "Jole van, S.I.A. (Sjoerd)",
@@ -17629,19 +16648,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9031638,
-              "knsb_classic": null,
-              "knsb_rapid": 1166,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9031638"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1057.3,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1166,
           "player_count": 4
         },
         {
@@ -17742,11 +16753,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9085857,
-              "knsb_classic": null,
-              "knsb_rapid": 1216,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9085857"
+              ]
             },
             {
               "name": "Ayyildiz, K. (Kerem)",
@@ -17834,11 +16841,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9117856,
-              "knsb_classic": null,
-              "knsb_rapid": 579,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9117856"
+              ]
             },
             {
               "name": "Dilsiz, C. (Can)",
@@ -17926,11 +16929,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169600,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169600"
+              ]
             },
             {
               "name": "Nouwels, M. (Myla)",
@@ -18018,19 +17017,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9117735,
-              "knsb_classic": null,
-              "knsb_rapid": 959,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9117735"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 918.0,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1216,
           "player_count": 4
         },
         {
@@ -18131,11 +17122,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9170502,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170502"
+              ]
             },
             {
               "name": "Piessens, L. (Lucas)",
@@ -18223,11 +17210,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9170513,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170513"
+              ]
             },
             {
               "name": "Doesburg van, K. (Koen)",
@@ -18315,11 +17298,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8902916,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8902916"
+              ]
             },
             {
               "name": "Lemish, N. (Nazar)",
@@ -18407,19 +17386,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9170491,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170491"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": null,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": null,
           "player_count": 4
         },
         {
@@ -18520,11 +17491,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169589,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169589"
+              ]
             },
             {
               "name": "Vugt van, R. (Robin)",
@@ -18612,11 +17579,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 8963614,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8963614"
+              ]
             },
             {
               "name": "Kumar, R. (Roan)",
@@ -18704,11 +17667,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169578,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169578"
+              ]
             },
             {
               "name": "Chandra, D. (Dhruv)",
@@ -18796,19 +17755,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9087287,
-              "knsb_classic": null,
-              "knsb_rapid": 1373,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9087287"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1373.0,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1373,
           "player_count": 4
         },
         {
@@ -18909,11 +17860,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9097781,
-              "knsb_classic": null,
-              "knsb_rapid": 1591,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9097781"
+              ]
             },
             {
               "name": "Hogas, R. (Rares)",
@@ -18968,11 +17915,7 @@
                 4,
                 5,
                 7
-              ],
-              "knsb_relatienummer": 9120078,
-              "knsb_classic": null,
-              "knsb_rapid": 943,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120078"
+              ]
             },
             {
               "name": "Nuyten, E. (Ethan)",
@@ -19049,11 +17992,7 @@
                 4,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169875,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169875"
+              ]
             },
             {
               "name": "Santos Galhetas dos, J. (Jaylen)",
@@ -19130,11 +18069,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9120089,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120089"
+              ]
             },
             {
               "name": "Weezepoel, S. (Sibbe)",
@@ -19201,19 +18136,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169886,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169886"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1267.0,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1591,
           "player_count": 5
         },
         {
@@ -19303,11 +18230,7 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9129065,
-              "knsb_classic": null,
-              "knsb_rapid": 1119,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9129065"
+              ]
             },
             {
               "name": "Brasser, D. (Daan)",
@@ -19384,11 +18307,7 @@
                 4,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169908,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169908"
+              ]
             },
             {
               "name": "Veire van de, L. (Lotte)",
@@ -19465,11 +18384,7 @@
                 4,
                 5,
                 6
-              ],
-              "knsb_relatienummer": 9169919,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169919"
+              ]
             },
             {
               "name": "Hau, J. (Julian)",
@@ -19546,11 +18461,7 @@
                 4,
                 5,
                 7
-              ],
-              "knsb_relatienummer": 9169897,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169897"
+              ]
             },
             {
               "name": "Brouwer, J. (Jessmay)",
@@ -19606,19 +18517,11 @@
                 5,
                 6,
                 7
-              ],
-              "knsb_relatienummer": 9169930,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169930"
+              ]
             }
           ],
           "avg_rating": null,
           "top_rating": null,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1119.0,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1119,
           "player_count": 5
         }
       ]
@@ -19634,10 +18537,7 @@
         "player_count": 110,
         "rated_player_count": 109,
         "avg_rating": 1182.2,
-        "max_rating": 1944,
-        "knsb_classic_count": 14,
-        "avg_knsb_classic": 1572.7,
-        "avg_knsb_rapid": 1279.0
+        "max_rating": 1944
       },
       "teams": [
         {
@@ -19720,11 +18620,7 @@
               "points": 6.0,
               "tpr": 2170,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8943517,
-              "knsb_classic": 1769,
-              "knsb_rapid": 1769,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8943517"
+              "boards": null
             },
             {
               "name": "Rink Huizinga",
@@ -19794,11 +18690,7 @@
               "points": 3.0,
               "tpr": 1662,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9075506,
-              "knsb_classic": 1668,
-              "knsb_rapid": 1750,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9075506"
+              "boards": null
             },
             {
               "name": "Luke Ribeiro de Silvio",
@@ -19868,11 +18760,7 @@
               "points": 5.0,
               "tpr": 1497,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9104656,
-              "knsb_classic": 1526,
-              "knsb_rapid": 1690,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9104656"
+              "boards": null
             },
             {
               "name": "Philip Hommes",
@@ -19932,11 +18820,7 @@
               "points": 3.0,
               "tpr": 1171,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9147655,
-              "knsb_classic": null,
-              "knsb_rapid": 1362,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9147655"
+              "boards": null
             },
             {
               "name": "Olivier van der Ploeg",
@@ -19996,19 +18880,11 @@
               "points": 3.0,
               "tpr": 1262,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9128416,
-              "knsb_classic": null,
-              "knsb_rapid": 1245,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9128416"
+              "boards": null
             }
           ],
           "avg_rating": 1559.4,
           "top_rating": 1786,
-          "avg_knsb_classic": 1654.3,
-          "avg_knsb_rapid": 1563.2,
-          "top_knsb_classic": 1769,
-          "top_knsb_rapid": 1769,
           "player_count": 5
         },
         {
@@ -20101,11 +18977,7 @@
               "points": 6.0,
               "tpr": 1766,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9107230,
-              "knsb_classic": null,
-              "knsb_rapid": 1532,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9107230"
+              "boards": null
             },
             {
               "name": "Florian Scherpenzeel",
@@ -20185,11 +19057,7 @@
               "points": 5.0,
               "tpr": 1213,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9053704,
-              "knsb_classic": null,
-              "knsb_rapid": 1259,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9053704"
+              "boards": null
             },
             {
               "name": "Luke Veldtman",
@@ -20269,11 +19137,7 @@
               "points": 4.0,
               "tpr": 1350,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9170469,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170469"
+              "boards": null
             },
             {
               "name": "Mees Geraeds",
@@ -20353,19 +19217,11 @@
               "points": 3.0,
               "tpr": 1172,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9170480,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170480"
+              "boards": null
             }
           ],
           "avg_rating": 1223.2,
           "top_rating": 1575,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1395.5,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1532,
           "player_count": 4
         },
         {
@@ -20458,11 +19314,7 @@
               "points": 3.5,
               "tpr": 1324,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9069731,
-              "knsb_classic": null,
-              "knsb_rapid": 1643,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9069731"
+              "boards": null
             },
             {
               "name": "Joris Bakker",
@@ -20542,11 +19394,7 @@
               "points": 6.0,
               "tpr": 1487,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8960699,
-              "knsb_classic": null,
-              "knsb_rapid": 1571,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8960699"
+              "boards": null
             },
             {
               "name": "Thijs ten Dam",
@@ -20616,11 +19464,7 @@
               "points": 2.0,
               "tpr": 1549,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8998770,
-              "knsb_classic": 1465,
-              "knsb_rapid": 1540,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8998770"
+              "boards": null
             },
             {
               "name": "Milan Koops",
@@ -20670,11 +19514,7 @@
               "points": 2.0,
               "tpr": 1238,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9054969,
-              "knsb_classic": null,
-              "knsb_rapid": 1265,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9054969"
+              "boards": null
             },
             {
               "name": "Thomas Gelling",
@@ -20724,19 +19564,11 @@
               "points": 3.0,
               "tpr": 1237,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9152825,
-              "knsb_classic": null,
-              "knsb_rapid": 1184,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9152825"
+              "boards": null
             }
           ],
           "avg_rating": 1432.8,
           "top_rating": 1600,
-          "avg_knsb_classic": 1465.0,
-          "avg_knsb_rapid": 1440.6,
-          "top_knsb_classic": 1465,
-          "top_knsb_rapid": 1643,
           "player_count": 5
         },
         {
@@ -20829,11 +19661,7 @@
               "points": 2.0,
               "tpr": 1389,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9023157,
-              "knsb_classic": null,
-              "knsb_rapid": 1580,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9023157"
+              "boards": null
             },
             {
               "name": "Nibhish Gupta",
@@ -20893,11 +19721,7 @@
               "points": 2.5,
               "tpr": 1402,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9056762,
-              "knsb_classic": null,
-              "knsb_rapid": 1244,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9056762"
+              "boards": null
             },
             {
               "name": "Devansh Sai Bonela",
@@ -20977,11 +19801,7 @@
               "points": 5.0,
               "tpr": 1358,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9034245,
-              "knsb_classic": null,
-              "knsb_rapid": 1171,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9034245"
+              "boards": null
             },
             {
               "name": "Sri Ashwanth Senthil",
@@ -21031,11 +19851,7 @@
               "points": 4.0,
               "tpr": 1874,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9169380,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169380"
+              "boards": null
             },
             {
               "name": "Vedanth Gautaman",
@@ -21095,19 +19911,11 @@
               "points": 3.0,
               "tpr": 1095,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9129956,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9129956"
+              "boards": null
             }
           ],
           "avg_rating": 1214.0,
           "top_rating": 1554,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1331.7,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1580,
           "player_count": 5
         },
         {
@@ -21200,11 +20008,7 @@
               "points": 4.5,
               "tpr": 1210,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9119165,
-              "knsb_classic": null,
-              "knsb_rapid": 1349,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9119165"
+              "boards": null
             },
             {
               "name": "Art Schotsman",
@@ -21284,11 +20088,7 @@
               "points": 5.5,
               "tpr": 1226,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9119176,
-              "knsb_classic": null,
-              "knsb_rapid": 1007,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9119176"
+              "boards": null
             },
             {
               "name": "Ishan Raman",
@@ -21368,11 +20168,7 @@
               "points": 3.0,
               "tpr": 1357,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9003500,
-              "knsb_classic": null,
-              "knsb_rapid": 1202,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9003500"
+              "boards": null
             },
             {
               "name": "Navin Raman",
@@ -21432,11 +20228,7 @@
               "points": 3.0,
               "tpr": 1150,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9020770,
-              "knsb_classic": null,
-              "knsb_rapid": 859,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9020770"
+              "boards": null
             },
             {
               "name": "Thije Folkers",
@@ -21466,19 +20258,11 @@
               "points": 0.0,
               "tpr": 108,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9047797,
-              "knsb_classic": null,
-              "knsb_rapid": 720,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9047797"
+              "boards": null
             }
           ],
           "avg_rating": 1003.8,
           "top_rating": 1331,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1027.4,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1349,
           "player_count": 5
         },
         {
@@ -21571,11 +20355,7 @@
               "points": 2.0,
               "tpr": 1421,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9120353,
-              "knsb_classic": null,
-              "knsb_rapid": 1640,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120353"
+              "boards": null
             },
             {
               "name": "Shakya Chatterjee",
@@ -21655,11 +20435,7 @@
               "points": 5.0,
               "tpr": 1548,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8978486,
-              "knsb_classic": null,
-              "knsb_rapid": 1331,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8978486"
+              "boards": null
             },
             {
               "name": "Mahatej Reddy Yanamala",
@@ -21739,11 +20515,7 @@
               "points": 5.0,
               "tpr": 1298,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9097341,
-              "knsb_classic": 1328,
-              "knsb_rapid": 1286,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9097341"
+              "boards": null
             },
             {
               "name": "Zuhair Khan",
@@ -21823,19 +20595,11 @@
               "points": 5.0,
               "tpr": 1291,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9115788,
-              "knsb_classic": null,
-              "knsb_rapid": 1212,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9115788"
+              "boards": null
             }
           ],
           "avg_rating": 1373.2,
           "top_rating": 1602,
-          "avg_knsb_classic": 1328.0,
-          "avg_knsb_rapid": 1367.2,
-          "top_knsb_classic": 1328,
-          "top_knsb_rapid": 1640,
           "player_count": 4
         },
         {
@@ -21928,11 +20692,7 @@
               "points": 4.0,
               "tpr": 1606,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9054540,
-              "knsb_classic": 1575,
-              "knsb_rapid": 1718,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9054540"
+              "boards": null
             },
             {
               "name": "Michael Ududenko",
@@ -22012,11 +20772,7 @@
               "points": 4.5,
               "tpr": 1341,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9018944,
-              "knsb_classic": null,
-              "knsb_rapid": 1441,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9018944"
+              "boards": null
             },
             {
               "name": "Kimon Retsina",
@@ -22076,11 +20832,7 @@
               "points": 3.0,
               "tpr": 1053,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9076397,
-              "knsb_classic": null,
-              "knsb_rapid": 1248,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9076397"
+              "boards": null
             },
             {
               "name": "Stanislaw Sobieszczyk",
@@ -22160,11 +20912,7 @@
               "points": 4.0,
               "tpr": 1196,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9166949,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9166949"
+              "boards": null
             },
             {
               "name": "Maxim Pijls",
@@ -22194,19 +20942,11 @@
               "points": 1.0,
               "tpr": 1196,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9130209,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9130209"
+              "boards": null
             }
           ],
           "avg_rating": 1280.8,
           "top_rating": 1701,
-          "avg_knsb_classic": 1575.0,
-          "avg_knsb_rapid": 1469.0,
-          "top_knsb_classic": 1575,
-          "top_knsb_rapid": 1718,
           "player_count": 5
         },
         {
@@ -22289,11 +21029,7 @@
               "points": 3.0,
               "tpr": 1668,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8999991,
-              "knsb_classic": 1653,
-              "knsb_rapid": 1750,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8999991"
+              "boards": null
             },
             {
               "name": "Jonah Nieuwenhuis",
@@ -22363,11 +21099,7 @@
               "points": 5.0,
               "tpr": 1489,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9039052,
-              "knsb_classic": null,
-              "knsb_rapid": 1445,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9039052"
+              "boards": null
             },
             {
               "name": "Nils Schuls",
@@ -22437,11 +21169,7 @@
               "points": 4.0,
               "tpr": 1251,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8999980,
-              "knsb_classic": null,
-              "knsb_rapid": 1256,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8999980"
+              "boards": null
             },
             {
               "name": "EfraÃ¯m Langbroek",
@@ -22511,11 +21239,7 @@
               "points": 3.0,
               "tpr": 1050,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": null,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": null
+              "boards": null
             },
             {
               "name": "Rens Katoele",
@@ -22565,19 +21289,11 @@
               "points": 1.0,
               "tpr": 865,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9169666,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169666"
+              "boards": null
             }
           ],
           "avg_rating": 1287.6,
           "top_rating": 1737,
-          "avg_knsb_classic": 1653.0,
-          "avg_knsb_rapid": 1483.7,
-          "top_knsb_classic": 1653,
-          "top_knsb_rapid": 1750,
           "player_count": 5
         },
         {
@@ -22660,11 +21376,7 @@
               "points": 2.5,
               "tpr": 1589,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8953087,
-              "knsb_classic": null,
-              "knsb_rapid": 1609,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8953087"
+              "boards": null
             },
             {
               "name": "Baris Uzay Koc",
@@ -22734,11 +21446,7 @@
               "points": 3.0,
               "tpr": 1273,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8953120,
-              "knsb_classic": null,
-              "knsb_rapid": 1573,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8953120"
+              "boards": null
             },
             {
               "name": "Ibrahim Bozkurt",
@@ -22808,11 +21516,7 @@
               "points": 5.0,
               "tpr": 1482,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9054727,
-              "knsb_classic": null,
-              "knsb_rapid": 1516,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9054727"
+              "boards": null
             },
             {
               "name": "Myra Dang",
@@ -22872,11 +21576,7 @@
               "points": 2.0,
               "tpr": 942,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9068015,
-              "knsb_classic": 1356,
-              "knsb_rapid": 1289,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9068015"
+              "boards": null
             },
             {
               "name": "Atay Dolu",
@@ -22936,19 +21636,11 @@
               "points": 3.5,
               "tpr": 1147,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8953076,
-              "knsb_classic": null,
-              "knsb_rapid": 1106,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8953076"
+              "boards": null
             }
           ],
           "avg_rating": 1407.0,
           "top_rating": 1606,
-          "avg_knsb_classic": 1356.0,
-          "avg_knsb_rapid": 1418.6,
-          "top_knsb_classic": 1356,
-          "top_knsb_rapid": 1609,
           "player_count": 5
         },
         {
@@ -23041,11 +21733,7 @@
               "points": 6.5,
               "tpr": 1935,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9007757,
-              "knsb_classic": 1871,
-              "knsb_rapid": 1939,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9007757"
+              "boards": null
             },
             {
               "name": "Vincent Kats",
@@ -23105,11 +21793,7 @@
               "points": 3.0,
               "tpr": 1266,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9039613,
-              "knsb_classic": null,
-              "knsb_rapid": 1198,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9039613"
+              "boards": null
             },
             {
               "name": "Alessio Terheggen",
@@ -23179,11 +21863,7 @@
               "points": 3.0,
               "tpr": 1122,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9104370,
-              "knsb_classic": null,
-              "knsb_rapid": 1209,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9104370"
+              "boards": null
             },
             {
               "name": "Pippa Kessen",
@@ -23243,11 +21923,7 @@
               "points": 1.0,
               "tpr": 819,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9039591,
-              "knsb_classic": null,
-              "knsb_rapid": 1032,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9039591"
+              "boards": null
             },
             {
               "name": "Milo Lipshen",
@@ -23307,19 +21983,11 @@
               "points": 2.0,
               "tpr": 1008,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9169490,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169490"
+              "boards": null
             }
           ],
           "avg_rating": 1270.6,
           "top_rating": 1944,
-          "avg_knsb_classic": 1871.0,
-          "avg_knsb_rapid": 1344.5,
-          "top_knsb_classic": 1871,
-          "top_knsb_rapid": 1939,
           "player_count": 5
         },
         {
@@ -23412,11 +22080,7 @@
               "points": 3.0,
               "tpr": 1432,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9033739,
-              "knsb_classic": null,
-              "knsb_rapid": 1377,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9033739"
+              "boards": null
             },
             {
               "name": "Jari Greven",
@@ -23496,11 +22160,7 @@
               "points": 4.5,
               "tpr": 1118,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9170117,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170117"
+              "boards": null
             },
             {
               "name": "Mik Spanjerberg",
@@ -23580,11 +22240,7 @@
               "points": 3.0,
               "tpr": 1070,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9170128,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170128"
+              "boards": null
             },
             {
               "name": "Aaryan Dhanokar",
@@ -23664,19 +22320,11 @@
               "points": 3.0,
               "tpr": 1191,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9087606,
-              "knsb_classic": null,
-              "knsb_rapid": 809,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9087606"
+              "boards": null
             }
           ],
           "avg_rating": 1066.0,
           "top_rating": 1385,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1093.0,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1377,
           "player_count": 4
         },
         {
@@ -23769,11 +22417,7 @@
               "points": 6.0,
               "tpr": 1795,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8840073,
-              "knsb_classic": 1813,
-              "knsb_rapid": 1945,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8840073"
+              "boards": null
             },
             {
               "name": "Silvester van Schooneveld",
@@ -23853,11 +22497,7 @@
               "points": 2.0,
               "tpr": 1186,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8928821,
-              "knsb_classic": null,
-              "knsb_rapid": 1355,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8928821"
+              "boards": null
             },
             {
               "name": "Pim Gaarlandt",
@@ -23937,11 +22577,7 @@
               "points": 4.5,
               "tpr": 1245,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8919702,
-              "knsb_classic": null,
-              "knsb_rapid": 1241,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8919702"
+              "boards": null
             },
             {
               "name": "Fabian van Schooneveld",
@@ -24021,19 +22657,11 @@
               "points": 2.0,
               "tpr": 815,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9023619,
-              "knsb_classic": null,
-              "knsb_rapid": 1049,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9023619"
+              "boards": null
             }
           ],
           "avg_rating": 1330.5,
           "top_rating": 1941,
-          "avg_knsb_classic": 1813.0,
-          "avg_knsb_rapid": 1397.5,
-          "top_knsb_classic": 1813,
-          "top_knsb_rapid": 1945,
           "player_count": 4
         },
         {
@@ -24126,11 +22754,7 @@
               "points": 4.0,
               "tpr": 1602,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9056751,
-              "knsb_classic": 1285,
-              "knsb_rapid": 1580,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9056751"
+              "boards": null
             },
             {
               "name": "Doutzen Wijnsma",
@@ -24210,11 +22834,7 @@
               "points": 4.0,
               "tpr": 1320,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9066904,
-              "knsb_classic": null,
-              "knsb_rapid": 1225,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9066904"
+              "boards": null
             },
             {
               "name": "Emma Rozendal",
@@ -24274,11 +22894,7 @@
               "points": 4.0,
               "tpr": 1200,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9066915,
-              "knsb_classic": null,
-              "knsb_rapid": 1055,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9066915"
+              "boards": null
             },
             {
               "name": "Shanne Battenberg",
@@ -24338,11 +22954,7 @@
               "points": 1.0,
               "tpr": 953,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9014093,
-              "knsb_classic": null,
-              "knsb_rapid": 1014,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9014093"
+              "boards": null
             },
             {
               "name": "Bente Kommerie",
@@ -24392,19 +23004,11 @@
               "points": 1.0,
               "tpr": 261,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9056080,
-              "knsb_classic": null,
-              "knsb_rapid": 776,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9056080"
+              "boards": null
             }
           ],
           "avg_rating": 1134.2,
           "top_rating": 1587,
-          "avg_knsb_classic": 1285.0,
-          "avg_knsb_rapid": 1130.0,
-          "top_knsb_classic": 1285,
-          "top_knsb_rapid": 1580,
           "player_count": 5
         },
         {
@@ -24467,11 +23071,7 @@
               "points": 1.0,
               "tpr": 945,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 7291328,
-              "knsb_classic": 1732,
-              "knsb_rapid": 1683,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/7291328"
+              "boards": null
             },
             {
               "name": "Yeshas Kollareddy",
@@ -24551,11 +23151,7 @@
               "points": 3.0,
               "tpr": 1520,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9021430,
-              "knsb_classic": null,
-              "knsb_rapid": 1604,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9021430"
+              "boards": null
             },
             {
               "name": "Ekansh Agrawal",
@@ -24635,11 +23231,7 @@
               "points": 5.0,
               "tpr": 1455,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9027601,
-              "knsb_classic": null,
-              "knsb_rapid": 1164,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9027601"
+              "boards": null
             },
             {
               "name": "Denis Zmovik",
@@ -24679,11 +23271,7 @@
               "points": 2.0,
               "tpr": 1130,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9169633,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169633"
+              "boards": null
             },
             {
               "name": "Hriday Prajapati",
@@ -24763,19 +23351,11 @@
               "points": 2.5,
               "tpr": 1148,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8936224,
-              "knsb_classic": null,
-              "knsb_rapid": 922,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8936224"
+              "boards": null
             }
           ],
           "avg_rating": 1148.6,
           "top_rating": 1593,
-          "avg_knsb_classic": 1732.0,
-          "avg_knsb_rapid": 1343.2,
-          "top_knsb_classic": 1732,
-          "top_knsb_rapid": 1683,
           "player_count": 5
         },
         {
@@ -24868,11 +23448,7 @@
               "points": 3.5,
               "tpr": 1338,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9111575,
-              "knsb_classic": null,
-              "knsb_rapid": 1402,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9111575"
+              "boards": null
             },
             {
               "name": "Raphael van der Plas",
@@ -24952,11 +23528,7 @@
               "points": 2.5,
               "tpr": 1086,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": null,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": null
+              "boards": null
             },
             {
               "name": "Jonah van der Plas",
@@ -25036,11 +23608,7 @@
               "points": 4.0,
               "tpr": 1062,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": null,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": null
+              "boards": null
             },
             {
               "name": "Dima Vasilev",
@@ -25120,19 +23688,11 @@
               "points": 3.5,
               "tpr": 1072,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9168819,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9168819"
+              "boards": null
             }
           ],
           "avg_rating": 1209.8,
           "top_rating": 1392,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1402.0,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1402,
           "player_count": 4
         },
         {
@@ -25225,11 +23785,7 @@
               "points": 2.5,
               "tpr": 1503,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9029449,
-              "knsb_classic": 1361,
-              "knsb_rapid": 1387,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9029449"
+              "boards": null
             },
             {
               "name": "Sam Zhang",
@@ -25309,11 +23865,7 @@
               "points": 5.0,
               "tpr": 1147,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9171030,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9171030"
+              "boards": null
             },
             {
               "name": "Sander Ãzdemir",
@@ -25393,11 +23945,7 @@
               "points": 3.0,
               "tpr": 1180,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": null,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": null
+              "boards": null
             },
             {
               "name": "Jesse van Dijk",
@@ -25477,19 +24025,11 @@
               "points": 2.0,
               "tpr": 959,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8924355,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8924355"
+              "boards": null
             }
           ],
           "avg_rating": 1109.5,
           "top_rating": 1400,
-          "avg_knsb_classic": 1361.0,
-          "avg_knsb_rapid": 1387.0,
-          "top_knsb_classic": 1361,
-          "top_knsb_rapid": 1387,
           "player_count": 4
         },
         {
@@ -25582,11 +24122,7 @@
               "points": 7.0,
               "tpr": 2157,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8969455,
-              "knsb_classic": 1616,
-              "knsb_rapid": 1664,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8969455"
+              "boards": null
             },
             {
               "name": "Joas van der Kooij",
@@ -25666,11 +24202,7 @@
               "points": 2.0,
               "tpr": 921,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8974823,
-              "knsb_classic": null,
-              "knsb_rapid": 1277,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8974823"
+              "boards": null
             },
             {
               "name": "Levi de Jong",
@@ -25750,11 +24282,7 @@
               "points": 2.5,
               "tpr": 1034,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8999705,
-              "knsb_classic": null,
-              "knsb_rapid": 1213,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8999705"
+              "boards": null
             },
             {
               "name": "Hugo van Wingerden",
@@ -25834,19 +24362,11 @@
               "points": 1.0,
               "tpr": 664,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": null,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": null
+              "boards": null
             }
           ],
           "avg_rating": 1187.5,
           "top_rating": 1691,
-          "avg_knsb_classic": 1616.0,
-          "avg_knsb_rapid": 1384.7,
-          "top_knsb_classic": 1616,
-          "top_knsb_rapid": 1664,
           "player_count": 4
         },
         {
@@ -25939,11 +24459,7 @@
               "points": 4.0,
               "tpr": 1157,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8983359,
-              "knsb_classic": null,
-              "knsb_rapid": 1293,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8983359"
+              "boards": null
             },
             {
               "name": "Maxim Bezemer",
@@ -26023,11 +24539,7 @@
               "points": 5.0,
               "tpr": 1242,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9038887,
-              "knsb_classic": null,
-              "knsb_rapid": 1124,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9038887"
+              "boards": null
             },
             {
               "name": "Samgar Steeds",
@@ -26107,11 +24619,7 @@
               "points": 0.5,
               "tpr": 918,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8983370,
-              "knsb_classic": null,
-              "knsb_rapid": 1178,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8983370"
+              "boards": null
             },
             {
               "name": "Elon Steeds",
@@ -26191,19 +24699,11 @@
               "points": 3.0,
               "tpr": 983,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8983381,
-              "knsb_classic": null,
-              "knsb_rapid": 744,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8983381"
+              "boards": null
             }
           ],
           "avg_rating": 1082.8,
           "top_rating": 1274,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1084.8,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1293,
           "player_count": 4
         },
         {
@@ -26296,11 +24796,7 @@
               "points": 6.0,
               "tpr": 1644,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": null,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": null
+              "boards": null
             },
             {
               "name": "Olaf van Dijk",
@@ -26380,11 +24876,7 @@
               "points": 3.0,
               "tpr": 1029,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9129934,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9129934"
+              "boards": null
             },
             {
               "name": "Qinzhi Lam",
@@ -26464,11 +24956,7 @@
               "points": 1.0,
               "tpr": 908,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8992863,
-              "knsb_classic": null,
-              "knsb_rapid": 1014,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8992863"
+              "boards": null
             },
             {
               "name": "Merijn Vermeulen",
@@ -26548,19 +25036,11 @@
               "points": 2.0,
               "tpr": 818,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9170392,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170392"
+              "boards": null
             }
           ],
           "avg_rating": 1182.5,
           "top_rating": 1768,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1014.0,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1014,
           "player_count": 4
         },
         {
@@ -26653,11 +25133,7 @@
               "points": 6.5,
               "tpr": 1561,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9159645,
-              "knsb_classic": null,
-              "knsb_rapid": 1172,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9159645"
+              "boards": null
             },
             {
               "name": "Jip Poppelaars",
@@ -26737,11 +25213,7 @@
               "points": 2.0,
               "tpr": 1124,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8951954,
-              "knsb_classic": null,
-              "knsb_rapid": 1215,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8951954"
+              "boards": null
             },
             {
               "name": "Jona Vollmer",
@@ -26811,11 +25283,7 @@
               "points": 2.0,
               "tpr": 987,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": null,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": null
+              "boards": null
             },
             {
               "name": "Jasper den Hartog",
@@ -26845,11 +25313,7 @@
               "points": 0.5,
               "tpr": 589,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9149591,
-              "knsb_classic": null,
-              "knsb_rapid": 870,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9149591"
+              "boards": null
             },
             {
               "name": "Max Linders",
@@ -26919,19 +25383,11 @@
               "points": 2.0,
               "tpr": 204,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9166553,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9166553"
+              "boards": null
             }
           ],
           "avg_rating": 1070.4,
           "top_rating": 1222,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1085.7,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1215,
           "player_count": 5
         },
         {
@@ -27024,11 +25480,7 @@
               "points": 4.5,
               "tpr": 1116,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 8908207,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8908207"
+              "boards": null
             },
             {
               "name": "Nicole Strelbitskaia",
@@ -27108,11 +25560,7 @@
               "points": 4.0,
               "tpr": 1048,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9000420,
-              "knsb_classic": null,
-              "knsb_rapid": 1012,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9000420"
+              "boards": null
             },
             {
               "name": "Kees Spaan",
@@ -27192,11 +25640,7 @@
               "points": 1.0,
               "tpr": 1065,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9169688,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169688"
+              "boards": null
             },
             {
               "name": "Max Sablerolle",
@@ -27276,19 +25720,11 @@
               "points": 1.5,
               "tpr": 962,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9169699,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169699"
+              "boards": null
             }
           ],
           "avg_rating": 1006.8,
           "top_rating": 1023,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1012.0,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1012,
           "player_count": 4
         },
         {
@@ -27381,11 +25817,7 @@
               "points": 2.0,
               "tpr": 1135,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9056102,
-              "knsb_classic": null,
-              "knsb_rapid": 1127,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9056102"
+              "boards": null
             },
             {
               "name": "Ruben Kingma",
@@ -27465,11 +25897,7 @@
               "points": 4.5,
               "tpr": 1145,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9115337,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9115337"
+              "boards": null
             },
             {
               "name": "Jens van der Hoek",
@@ -27549,11 +25977,7 @@
               "points": 1.0,
               "tpr": 826,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9147105,
-              "knsb_classic": null,
-              "knsb_rapid": 944,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9147105"
+              "boards": null
             },
             {
               "name": "Jarne van der Hoek",
@@ -27593,11 +26017,7 @@
               "points": 2.5,
               "tpr": 1186,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9147116,
-              "knsb_classic": null,
-              "knsb_rapid": 815,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9147116"
+              "boards": null
             },
             {
               "name": "Merijn Westra",
@@ -27647,11 +26067,7 @@
               "points": 1.0,
               "tpr": 305,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9100795,
-              "knsb_classic": null,
-              "knsb_rapid": 797,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9100795"
+              "boards": null
             },
             {
               "name": "Laurens Meinsma",
@@ -27660,19 +26076,11 @@
               "points": 0.0,
               "tpr": null,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9147127,
-              "knsb_classic": null,
-              "knsb_rapid": 793,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9147127"
+              "boards": null
             }
           ],
           "avg_rating": 939.8,
           "top_rating": 1117,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 895.2,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1127,
           "player_count": 6
         },
         {
@@ -27765,11 +26173,7 @@
               "points": 4.0,
               "tpr": 1481,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9169512,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169512"
+              "boards": null
             },
             {
               "name": "Jenthe Michels",
@@ -27849,11 +26253,7 @@
               "points": 3.0,
               "tpr": 1114,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9169523,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169523"
+              "boards": null
             },
             {
               "name": "Metel Kesete Shimendi",
@@ -27903,11 +26303,7 @@
               "points": 0.0,
               "tpr": 185,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": null,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": null
+              "boards": null
             },
             {
               "name": "Sylvester van der Veldt",
@@ -27987,11 +26383,7 @@
               "points": 0.5,
               "tpr": 607,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9169534,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169534"
+              "boards": null
             },
             {
               "name": "Bjorn Veenstra",
@@ -28031,19 +26423,11 @@
               "points": 0.0,
               "tpr": 72,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9171118,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9171118"
+              "boards": null
             }
           ],
           "avg_rating": 811.2,
           "top_rating": 1060,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": null,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": null,
           "player_count": 5
         },
         {
@@ -28136,11 +26520,7 @@
               "points": 2.0,
               "tpr": 1161,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9119209,
-              "knsb_classic": null,
-              "knsb_rapid": 1066,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9119209"
+              "boards": null
             },
             {
               "name": "Kerim GÃ¶kalp",
@@ -28220,11 +26600,7 @@
               "points": 2.0,
               "tpr": 863,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": null,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": null
+              "boards": null
             },
             {
               "name": "Erdogan Topac",
@@ -28304,11 +26680,7 @@
               "points": 1.0,
               "tpr": 801,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": 9170337,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170337"
+              "boards": null
             },
             {
               "name": "Ensar GÃ¶kalp",
@@ -28388,19 +26760,11 @@
               "points": 2.0,
               "tpr": 795,
               "player_id": null,
-              "boards": null,
-              "knsb_relatienummer": null,
-              "knsb_classic": null,
-              "knsb_rapid": null,
-              "ratingviewer_url": null
+              "boards": null
             }
           ],
           "avg_rating": 993.0,
           "top_rating": 1068,
-          "avg_knsb_classic": null,
-          "avg_knsb_rapid": 1066.0,
-          "top_knsb_classic": null,
-          "top_knsb_rapid": 1066,
           "player_count": 4
         }
       ]
@@ -28493,11 +26857,7 @@
             4,
             5,
             6
-          ],
-          "knsb_relatienummer": 8974757,
-          "knsb_classic": 1935,
-          "knsb_rapid": 1908,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8974757"
+          ]
         },
         {
           "name": "Nair, P. (Pranav Prasobh)",
@@ -28573,11 +26933,7 @@
             3,
             4,
             5
-          ],
-          "knsb_relatienummer": 9062295,
-          "knsb_classic": 1912,
-          "knsb_rapid": 1835,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9062295"
+          ]
         },
         {
           "name": "Ma, Y. (Yuan Li)",
@@ -28653,11 +27009,7 @@
             3,
             4,
             6
-          ],
-          "knsb_relatienummer": 9041120,
-          "knsb_classic": 1579,
-          "knsb_rapid": 1757,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9041120"
+          ]
         },
         {
           "name": "Dellen van, T. (Thijmen)",
@@ -28723,11 +27075,7 @@
             3,
             5,
             6
-          ],
-          "knsb_relatienummer": 8964791,
-          "knsb_classic": 1579,
-          "knsb_rapid": 1706,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8964791"
+          ]
         },
         {
           "name": "NO",
@@ -28791,10 +27139,6 @@
       ],
       "avg_rating": 1751.2,
       "top_rating": 1935,
-      "avg_knsb_classic": 1751.2,
-      "avg_knsb_rapid": 1801.5,
-      "top_knsb_classic": 1935,
-      "top_knsb_rapid": 1908,
       "player_count": 4
     },
     {
@@ -28885,11 +27229,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 8973723,
-          "knsb_classic": 1967,
-          "knsb_rapid": 2040,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8973723"
+          ]
         },
         {
           "name": "Mutta, S. (Sevya Sonit)",
@@ -28977,11 +27317,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9047258,
-          "knsb_classic": 1765,
-          "knsb_rapid": 1940,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9047258"
+          ]
         },
         {
           "name": "Jawahar, D. (Dhruvith)",
@@ -29069,11 +27405,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9060579,
-          "knsb_classic": 1715,
-          "knsb_rapid": 1760,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9060579"
+          ]
         },
         {
           "name": "Suthan, A. (Asthik)",
@@ -29161,19 +27493,11 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9017404,
-          "knsb_classic": 1409,
-          "knsb_rapid": 1467,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9017404"
+          ]
         }
       ],
       "avg_rating": 1714.0,
       "top_rating": 1967,
-      "avg_knsb_classic": 1714.0,
-      "avg_knsb_rapid": 1801.8,
-      "top_knsb_classic": 1967,
-      "top_knsb_rapid": 2040,
       "player_count": 4
     },
     {
@@ -29274,11 +27598,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9054606,
-          "knsb_classic": 1538,
-          "knsb_rapid": 1663,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9054606"
+          ]
         },
         {
           "name": "Chaudhuri, A. (Aarini)",
@@ -29366,11 +27686,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9091962,
-          "knsb_classic": 1402,
-          "knsb_rapid": 1472,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9091962"
+          ]
         },
         {
           "name": "Shiralkar, R. (Rudhra)",
@@ -29458,11 +27774,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9169776,
-          "knsb_classic": null,
-          "knsb_rapid": null,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169776"
+          ]
         },
         {
           "name": "Karun, D. (Darshil)",
@@ -29550,19 +27862,11 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9107406,
-          "knsb_classic": null,
-          "knsb_rapid": 1321,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9107406"
+          ]
         }
       ],
       "avg_rating": 1470.0,
       "top_rating": 1538,
-      "avg_knsb_classic": 1470.0,
-      "avg_knsb_rapid": 1485.3,
-      "top_knsb_classic": 1538,
-      "top_knsb_rapid": 1663,
       "player_count": 4
     },
     {
@@ -29663,11 +27967,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9116426,
-          "knsb_classic": 1599,
-          "knsb_rapid": 1641,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9116426"
+          ]
         },
         {
           "name": "Zheng, Y. (Yu Huan)",
@@ -29755,11 +28055,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9170062,
-          "knsb_classic": null,
-          "knsb_rapid": null,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170062"
+          ]
         },
         {
           "name": "Hoogt van der, T. (Timo)",
@@ -29837,11 +28133,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9120144,
-          "knsb_classic": null,
-          "knsb_rapid": 1602,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120144"
+          ]
         },
         {
           "name": "Jaspers, R. (Raf)",
@@ -29886,11 +28178,7 @@
             2,
             4,
             6
-          ],
-          "knsb_relatienummer": 9009517,
-          "knsb_classic": null,
-          "knsb_rapid": 1160,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9009517"
+          ]
         },
         {
           "name": "Tran, O. (Olivier)",
@@ -29935,19 +28223,11 @@
             3,
             5,
             7
-          ],
-          "knsb_relatienummer": 9120155,
-          "knsb_classic": null,
-          "knsb_rapid": 1000,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120155"
+          ]
         }
       ],
       "avg_rating": 1599.0,
       "top_rating": 1599,
-      "avg_knsb_classic": 1599.0,
-      "avg_knsb_rapid": 1350.8,
-      "top_knsb_classic": 1599,
-      "top_knsb_rapid": 1641,
       "player_count": 5
     },
     {
@@ -30048,11 +28328,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9061789,
-          "knsb_classic": 1512,
-          "knsb_rapid": 1767,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9061789"
+          ]
         },
         {
           "name": "Veluwenkamp, R. (Robin)",
@@ -30118,11 +28394,7 @@
             4,
             5,
             6
-          ],
-          "knsb_relatienummer": 9086341,
-          "knsb_classic": 1268,
-          "knsb_rapid": 1237,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9086341"
+          ]
         },
         {
           "name": "Melle van, W. (Walden)",
@@ -30199,11 +28471,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9008021,
-          "knsb_classic": null,
-          "knsb_rapid": null,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9008021"
+          ]
         },
         {
           "name": "Stornebrink, N.T. (Nolan)",
@@ -30270,11 +28538,7 @@
             4,
             6,
             7
-          ],
-          "knsb_relatienummer": 9043485,
-          "knsb_classic": null,
-          "knsb_rapid": 1064,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9043485"
+          ]
         },
         {
           "name": "Jansen, S.E.E. (Schelte)",
@@ -30340,19 +28604,11 @@
             4,
             5,
             7
-          ],
-          "knsb_relatienummer": 8996779,
-          "knsb_classic": null,
-          "knsb_rapid": 1216,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8996779"
+          ]
         }
       ],
       "avg_rating": 1390.0,
       "top_rating": 1512,
-      "avg_knsb_classic": 1390.0,
-      "avg_knsb_rapid": 1321.0,
-      "top_knsb_classic": 1512,
-      "top_knsb_rapid": 1767,
       "player_count": 5
     },
     {
@@ -30451,11 +28707,7 @@
             3,
             4,
             5
-          ],
-          "knsb_relatienummer": 9121376,
-          "knsb_classic": null,
-          "knsb_rapid": null,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9121376"
+          ]
         },
         {
           "name": "Çinar Sahin, A. (Aren)",
@@ -30541,11 +28793,7 @@
             3,
             4,
             5
-          ],
-          "knsb_relatienummer": 9169809,
-          "knsb_classic": null,
-          "knsb_rapid": null,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169809"
+          ]
         },
         {
           "name": "Lenselink, T. (Tom)",
@@ -30631,11 +28879,7 @@
             3,
             4,
             5
-          ],
-          "knsb_relatienummer": 9156851,
-          "knsb_classic": null,
-          "knsb_rapid": 1418,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9156851"
+          ]
         },
         {
           "name": "Park, N. (Noah)",
@@ -30721,19 +28965,11 @@
             3,
             4,
             5
-          ],
-          "knsb_relatienummer": 9121354,
-          "knsb_classic": null,
-          "knsb_rapid": 1223,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9121354"
+          ]
         }
       ],
       "avg_rating": null,
       "top_rating": null,
-      "avg_knsb_classic": null,
-      "avg_knsb_rapid": 1320.5,
-      "top_knsb_classic": null,
-      "top_knsb_rapid": 1418,
       "player_count": 4
     },
     {
@@ -30833,11 +29069,7 @@
             4,
             5,
             6
-          ],
-          "knsb_relatienummer": 9011574,
-          "knsb_classic": 1381,
-          "knsb_rapid": 1479,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9011574"
+          ]
         },
         {
           "name": "Hemanth Kumar, P. (Purvik)",
@@ -30924,11 +29156,7 @@
             4,
             5,
             6
-          ],
-          "knsb_relatienummer": 9066827,
-          "knsb_classic": 1372,
-          "knsb_rapid": 1186,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9066827"
+          ]
         },
         {
           "name": "Sathish Kumar, S. (Sidhiksha)",
@@ -30994,11 +29222,7 @@
             3,
             5,
             6
-          ],
-          "knsb_relatienummer": 9015149,
-          "knsb_classic": 1308,
-          "knsb_rapid": 1148,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9015149"
+          ]
         },
         {
           "name": "Anand, S.R. (Saket Ram)",
@@ -31075,11 +29299,7 @@
             4,
             5,
             6
-          ],
-          "knsb_relatienummer": 9078223,
-          "knsb_classic": 1254,
-          "knsb_rapid": 1520,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9078223"
+          ]
         },
         {
           "name": "Sathish, A. (Adithya)",
@@ -31112,19 +29332,11 @@
           "boards": [
             1,
             4
-          ],
-          "knsb_relatienummer": 8983964,
-          "knsb_classic": null,
-          "knsb_rapid": 865,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8983964"
+          ]
         }
       ],
       "avg_rating": 1328.8,
       "top_rating": 1381,
-      "avg_knsb_classic": 1328.8,
-      "avg_knsb_rapid": 1239.6,
-      "top_knsb_classic": 1381,
-      "top_knsb_rapid": 1520,
       "player_count": 5
     },
     {
@@ -31225,11 +29437,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9068653,
-          "knsb_classic": 1538,
-          "knsb_rapid": 1684,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9068653"
+          ]
         },
         {
           "name": "Broersma, C.G.A. (Carolina)",
@@ -31317,11 +29525,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9043474,
-          "knsb_classic": 1418,
-          "knsb_rapid": 1513,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9043474"
+          ]
         },
         {
           "name": "Aydinli, E. (Edin)",
@@ -31409,11 +29613,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9111267,
-          "knsb_classic": null,
-          "knsb_rapid": 1715,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9111267"
+          ]
         },
         {
           "name": "Roemers, L. (Lizenoor)",
@@ -31501,19 +29701,11 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9133278,
-          "knsb_classic": null,
-          "knsb_rapid": null,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9133278"
+          ]
         }
       ],
       "avg_rating": 1478.0,
       "top_rating": 1538,
-      "avg_knsb_classic": 1478.0,
-      "avg_knsb_rapid": 1637.3,
-      "top_knsb_classic": 1538,
-      "top_knsb_rapid": 1715,
       "player_count": 4
     },
     {
@@ -31614,11 +29806,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9052021,
-          "knsb_classic": 1585,
-          "knsb_rapid": 1594,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9052021"
+          ]
         },
         {
           "name": "Lalkota, S. (Srikar)",
@@ -31706,11 +29894,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 8974768,
-          "knsb_classic": 1458,
-          "knsb_rapid": 1652,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8974768"
+          ]
         },
         {
           "name": "Jin, H. (Hongyi)",
@@ -31798,11 +29982,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9069291,
-          "knsb_classic": 1373,
-          "knsb_rapid": 1599,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9069291"
+          ]
         },
         {
           "name": "Altay, C. (Cagan Deniz)",
@@ -31890,19 +30070,11 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9013796,
-          "knsb_classic": null,
-          "knsb_rapid": 1467,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9013796"
+          ]
         }
       ],
       "avg_rating": 1472.0,
       "top_rating": 1585,
-      "avg_knsb_classic": 1472.0,
-      "avg_knsb_rapid": 1578.0,
-      "top_knsb_classic": 1585,
-      "top_knsb_rapid": 1652,
       "player_count": 4
     },
     {
@@ -32003,11 +30175,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9078289,
-          "knsb_classic": null,
-          "knsb_rapid": 1413,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9078289"
+          ]
         },
         {
           "name": "Hany, A. (Adam)",
@@ -32095,11 +30263,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9008153,
-          "knsb_classic": null,
-          "knsb_rapid": 1346,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9008153"
+          ]
         },
         {
           "name": "Hany, H. (Harun)",
@@ -32187,11 +30351,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9008164,
-          "knsb_classic": null,
-          "knsb_rapid": 1565,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9008164"
+          ]
         },
         {
           "name": "Shen, D. (Daan)",
@@ -32279,19 +30439,11 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 8965374,
-          "knsb_classic": null,
-          "knsb_rapid": 1629,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8965374"
+          ]
         }
       ],
       "avg_rating": null,
       "top_rating": null,
-      "avg_knsb_classic": null,
-      "avg_knsb_rapid": 1488.2,
-      "top_knsb_classic": null,
-      "top_knsb_rapid": 1629,
       "player_count": 4
     },
     {
@@ -32392,11 +30544,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 8945101,
-          "knsb_classic": 1750,
-          "knsb_rapid": 1801,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8945101"
+          ]
         },
         {
           "name": "Toornman, B. (Bobbie)",
@@ -32484,11 +30632,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 8971897,
-          "knsb_classic": null,
-          "knsb_rapid": 1311,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8971897"
+          ]
         },
         {
           "name": "Ridder de, M. (Mels)",
@@ -32576,11 +30720,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 8974867,
-          "knsb_classic": null,
-          "knsb_rapid": 1398,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8974867"
+          ]
         },
         {
           "name": "Heuvel van den, T. (Thijmen)",
@@ -32668,19 +30808,11 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 8962151,
-          "knsb_classic": null,
-          "knsb_rapid": 1631,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8962151"
+          ]
         }
       ],
       "avg_rating": 1750.0,
       "top_rating": 1750,
-      "avg_knsb_classic": 1750.0,
-      "avg_knsb_rapid": 1535.2,
-      "top_knsb_classic": 1750,
-      "top_knsb_rapid": 1801,
       "player_count": 4
     },
     {
@@ -32781,11 +30913,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 8881939,
-          "knsb_classic": 1616,
-          "knsb_rapid": 1750,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8881939"
+          ]
         },
         {
           "name": "Vergeer, T.J. (Thijs)",
@@ -32873,11 +31001,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9059710,
-          "knsb_classic": null,
-          "knsb_rapid": 1258,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9059710"
+          ]
         },
         {
           "name": "Dorrestijn, T. (Tim)",
@@ -32965,11 +31089,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9116085,
-          "knsb_classic": null,
-          "knsb_rapid": 922,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9116085"
+          ]
         },
         {
           "name": "Rietveld, A.H.J. (Alexander)",
@@ -33057,19 +31177,11 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 8881928,
-          "knsb_classic": null,
-          "knsb_rapid": 1807,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8881928"
+          ]
         }
       ],
       "avg_rating": 1616.0,
       "top_rating": 1616,
-      "avg_knsb_classic": 1616.0,
-      "avg_knsb_rapid": 1434.2,
-      "top_knsb_classic": 1616,
-      "top_knsb_rapid": 1807,
       "player_count": 4
     },
     {
@@ -33170,11 +31282,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9000728,
-          "knsb_classic": null,
-          "knsb_rapid": 1596,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9000728"
+          ]
         },
         {
           "name": "Law, A. (Asher)",
@@ -33262,11 +31370,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9067377,
-          "knsb_classic": null,
-          "knsb_rapid": 1335,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9067377"
+          ]
         },
         {
           "name": "Leeuwen van, W. (Wieger)",
@@ -33354,11 +31458,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9001102,
-          "knsb_classic": null,
-          "knsb_rapid": 957,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9001102"
+          ]
         },
         {
           "name": "Bartels, T. (Tristan)",
@@ -33446,19 +31546,11 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9068125,
-          "knsb_classic": null,
-          "knsb_rapid": 1078,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9068125"
+          ]
         }
       ],
       "avg_rating": null,
       "top_rating": null,
-      "avg_knsb_classic": null,
-      "avg_knsb_rapid": 1241.5,
-      "top_knsb_classic": null,
-      "top_knsb_rapid": 1596,
       "player_count": 4
     },
     {
@@ -33559,11 +31651,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9066761,
-          "knsb_classic": 1596,
-          "knsb_rapid": 1713,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9066761"
+          ]
         },
         {
           "name": "Yang, Y. (Cheng-Yan Edgar)",
@@ -33651,11 +31739,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9069742,
-          "knsb_classic": null,
-          "knsb_rapid": 1554,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9069742"
+          ]
         },
         {
           "name": "Aisola, L. (Leo)",
@@ -33743,11 +31827,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9094481,
-          "knsb_classic": null,
-          "knsb_rapid": 1297,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9094481"
+          ]
         },
         {
           "name": "Duit, A. (Alessio)",
@@ -33835,19 +31915,11 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9094569,
-          "knsb_classic": null,
-          "knsb_rapid": 1056,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9094569"
+          ]
         }
       ],
       "avg_rating": 1596.0,
       "top_rating": 1596,
-      "avg_knsb_classic": 1596.0,
-      "avg_knsb_rapid": 1405.0,
-      "top_knsb_classic": 1596,
-      "top_knsb_rapid": 1713,
       "player_count": 4
     },
     {
@@ -33948,11 +32020,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 8871038,
-          "knsb_classic": 1544,
-          "knsb_rapid": 1601,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8871038"
+          ]
         },
         {
           "name": "Morgan, F. (Finn)",
@@ -34040,11 +32108,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9093799,
-          "knsb_classic": 1327,
-          "knsb_rapid": 1345,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9093799"
+          ]
         },
         {
           "name": "Roghair, T. (Tommie)",
@@ -34132,11 +32196,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9125710,
-          "knsb_classic": 1240,
-          "knsb_rapid": 1261,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9125710"
+          ]
         },
         {
           "name": "Mennink, R.F. (Ruben)",
@@ -34224,19 +32284,11 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9116173,
-          "knsb_classic": null,
-          "knsb_rapid": 1469,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9116173"
+          ]
         }
       ],
       "avg_rating": 1370.3,
       "top_rating": 1544,
-      "avg_knsb_classic": 1370.3,
-      "avg_knsb_rapid": 1419.0,
-      "top_knsb_classic": 1544,
-      "top_knsb_rapid": 1601,
       "player_count": 4
     },
     {
@@ -34337,11 +32389,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 8993578,
-          "knsb_classic": 1702,
-          "knsb_rapid": 1821,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8993578"
+          ]
         },
         {
           "name": "Duijn van, N.A. (Niels)",
@@ -34429,11 +32477,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 8930581,
-          "knsb_classic": null,
-          "knsb_rapid": 1427,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8930581"
+          ]
         },
         {
           "name": "Huynh, A. (Andy)",
@@ -34521,11 +32565,7 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9077365,
-          "knsb_classic": null,
-          "knsb_rapid": 1322,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9077365"
+          ]
         },
         {
           "name": "Duijn van, M.J. (Max)",
@@ -34613,19 +32653,11 @@
             5,
             6,
             7
-          ],
-          "knsb_relatienummer": 9015996,
-          "knsb_classic": null,
-          "knsb_rapid": 1204,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9015996"
+          ]
         }
       ],
       "avg_rating": 1702.0,
       "top_rating": 1702,
-      "avg_knsb_classic": 1702.0,
-      "avg_knsb_rapid": 1443.5,
-      "top_knsb_classic": 1702,
-      "top_knsb_rapid": 1821,
       "player_count": 4
     },
     {
@@ -34708,11 +32740,7 @@
           "points": 6.0,
           "tpr": 2170,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 8943517,
-          "knsb_classic": 1769,
-          "knsb_rapid": 1769,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8943517"
+          "boards": null
         },
         {
           "name": "Rink Huizinga",
@@ -34782,11 +32810,7 @@
           "points": 3.0,
           "tpr": 1662,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9075506,
-          "knsb_classic": 1668,
-          "knsb_rapid": 1750,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9075506"
+          "boards": null
         },
         {
           "name": "Luke Ribeiro de Silvio",
@@ -34856,11 +32880,7 @@
           "points": 5.0,
           "tpr": 1497,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9104656,
-          "knsb_classic": 1526,
-          "knsb_rapid": 1690,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9104656"
+          "boards": null
         },
         {
           "name": "Philip Hommes",
@@ -34920,11 +32940,7 @@
           "points": 3.0,
           "tpr": 1171,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9147655,
-          "knsb_classic": null,
-          "knsb_rapid": 1362,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9147655"
+          "boards": null
         },
         {
           "name": "Olivier van der Ploeg",
@@ -34984,19 +33000,11 @@
           "points": 3.0,
           "tpr": 1262,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9128416,
-          "knsb_classic": null,
-          "knsb_rapid": 1245,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9128416"
+          "boards": null
         }
       ],
       "avg_rating": 1559.4,
       "top_rating": 1786,
-      "avg_knsb_classic": 1654.3,
-      "avg_knsb_rapid": 1563.2,
-      "top_knsb_classic": 1769,
-      "top_knsb_rapid": 1769,
       "player_count": 5
     },
     {
@@ -35089,11 +33097,7 @@
           "points": 6.0,
           "tpr": 1766,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9107230,
-          "knsb_classic": null,
-          "knsb_rapid": 1532,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9107230"
+          "boards": null
         },
         {
           "name": "Florian Scherpenzeel",
@@ -35173,11 +33177,7 @@
           "points": 5.0,
           "tpr": 1213,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9053704,
-          "knsb_classic": null,
-          "knsb_rapid": 1259,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9053704"
+          "boards": null
         },
         {
           "name": "Luke Veldtman",
@@ -35257,11 +33257,7 @@
           "points": 4.0,
           "tpr": 1350,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9170469,
-          "knsb_classic": null,
-          "knsb_rapid": null,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170469"
+          "boards": null
         },
         {
           "name": "Mees Geraeds",
@@ -35341,19 +33337,11 @@
           "points": 3.0,
           "tpr": 1172,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9170480,
-          "knsb_classic": null,
-          "knsb_rapid": null,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170480"
+          "boards": null
         }
       ],
       "avg_rating": 1223.2,
       "top_rating": 1575,
-      "avg_knsb_classic": null,
-      "avg_knsb_rapid": 1395.5,
-      "top_knsb_classic": null,
-      "top_knsb_rapid": 1532,
       "player_count": 4
     },
     {
@@ -35446,11 +33434,7 @@
           "points": 3.5,
           "tpr": 1324,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9069731,
-          "knsb_classic": null,
-          "knsb_rapid": 1643,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9069731"
+          "boards": null
         },
         {
           "name": "Joris Bakker",
@@ -35530,11 +33514,7 @@
           "points": 6.0,
           "tpr": 1487,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 8960699,
-          "knsb_classic": null,
-          "knsb_rapid": 1571,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8960699"
+          "boards": null
         },
         {
           "name": "Thijs ten Dam",
@@ -35604,11 +33584,7 @@
           "points": 2.0,
           "tpr": 1549,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 8998770,
-          "knsb_classic": 1465,
-          "knsb_rapid": 1540,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8998770"
+          "boards": null
         },
         {
           "name": "Milan Koops",
@@ -35658,11 +33634,7 @@
           "points": 2.0,
           "tpr": 1238,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9054969,
-          "knsb_classic": null,
-          "knsb_rapid": 1265,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9054969"
+          "boards": null
         },
         {
           "name": "Thomas Gelling",
@@ -35712,19 +33684,11 @@
           "points": 3.0,
           "tpr": 1237,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9152825,
-          "knsb_classic": null,
-          "knsb_rapid": 1184,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9152825"
+          "boards": null
         }
       ],
       "avg_rating": 1432.8,
       "top_rating": 1600,
-      "avg_knsb_classic": 1465.0,
-      "avg_knsb_rapid": 1440.6,
-      "top_knsb_classic": 1465,
-      "top_knsb_rapid": 1643,
       "player_count": 5
     },
     {
@@ -35817,11 +33781,7 @@
           "points": 2.0,
           "tpr": 1389,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9023157,
-          "knsb_classic": null,
-          "knsb_rapid": 1580,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9023157"
+          "boards": null
         },
         {
           "name": "Nibhish Gupta",
@@ -35881,11 +33841,7 @@
           "points": 2.5,
           "tpr": 1402,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9056762,
-          "knsb_classic": null,
-          "knsb_rapid": 1244,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9056762"
+          "boards": null
         },
         {
           "name": "Devansh Sai Bonela",
@@ -35965,11 +33921,7 @@
           "points": 5.0,
           "tpr": 1358,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9034245,
-          "knsb_classic": null,
-          "knsb_rapid": 1171,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9034245"
+          "boards": null
         },
         {
           "name": "Sri Ashwanth Senthil",
@@ -36019,11 +33971,7 @@
           "points": 4.0,
           "tpr": 1874,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9169380,
-          "knsb_classic": null,
-          "knsb_rapid": null,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169380"
+          "boards": null
         },
         {
           "name": "Vedanth Gautaman",
@@ -36083,19 +34031,11 @@
           "points": 3.0,
           "tpr": 1095,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9129956,
-          "knsb_classic": null,
-          "knsb_rapid": null,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9129956"
+          "boards": null
         }
       ],
       "avg_rating": 1214.0,
       "top_rating": 1554,
-      "avg_knsb_classic": null,
-      "avg_knsb_rapid": 1331.7,
-      "top_knsb_classic": null,
-      "top_knsb_rapid": 1580,
       "player_count": 5
     },
     {
@@ -36188,11 +34128,7 @@
           "points": 4.5,
           "tpr": 1210,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9119165,
-          "knsb_classic": null,
-          "knsb_rapid": 1349,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9119165"
+          "boards": null
         },
         {
           "name": "Art Schotsman",
@@ -36272,11 +34208,7 @@
           "points": 5.5,
           "tpr": 1226,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9119176,
-          "knsb_classic": null,
-          "knsb_rapid": 1007,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9119176"
+          "boards": null
         },
         {
           "name": "Ishan Raman",
@@ -36356,11 +34288,7 @@
           "points": 3.0,
           "tpr": 1357,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9003500,
-          "knsb_classic": null,
-          "knsb_rapid": 1202,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9003500"
+          "boards": null
         },
         {
           "name": "Navin Raman",
@@ -36420,11 +34348,7 @@
           "points": 3.0,
           "tpr": 1150,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9020770,
-          "knsb_classic": null,
-          "knsb_rapid": 859,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9020770"
+          "boards": null
         },
         {
           "name": "Thije Folkers",
@@ -36454,19 +34378,11 @@
           "points": 0.0,
           "tpr": 108,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9047797,
-          "knsb_classic": null,
-          "knsb_rapid": 720,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9047797"
+          "boards": null
         }
       ],
       "avg_rating": 1003.8,
       "top_rating": 1331,
-      "avg_knsb_classic": null,
-      "avg_knsb_rapid": 1027.4,
-      "top_knsb_classic": null,
-      "top_knsb_rapid": 1349,
       "player_count": 5
     },
     {
@@ -36559,11 +34475,7 @@
           "points": 2.0,
           "tpr": 1421,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9120353,
-          "knsb_classic": null,
-          "knsb_rapid": 1640,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120353"
+          "boards": null
         },
         {
           "name": "Shakya Chatterjee",
@@ -36643,11 +34555,7 @@
           "points": 5.0,
           "tpr": 1548,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 8978486,
-          "knsb_classic": null,
-          "knsb_rapid": 1331,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8978486"
+          "boards": null
         },
         {
           "name": "Mahatej Reddy Yanamala",
@@ -36727,11 +34635,7 @@
           "points": 5.0,
           "tpr": 1298,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9097341,
-          "knsb_classic": 1328,
-          "knsb_rapid": 1286,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9097341"
+          "boards": null
         },
         {
           "name": "Zuhair Khan",
@@ -36811,19 +34715,11 @@
           "points": 5.0,
           "tpr": 1291,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9115788,
-          "knsb_classic": null,
-          "knsb_rapid": 1212,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9115788"
+          "boards": null
         }
       ],
       "avg_rating": 1373.2,
       "top_rating": 1602,
-      "avg_knsb_classic": 1328.0,
-      "avg_knsb_rapid": 1367.2,
-      "top_knsb_classic": 1328,
-      "top_knsb_rapid": 1640,
       "player_count": 4
     },
     {
@@ -36916,11 +34812,7 @@
           "points": 4.0,
           "tpr": 1606,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9054540,
-          "knsb_classic": 1575,
-          "knsb_rapid": 1718,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9054540"
+          "boards": null
         },
         {
           "name": "Michael Ududenko",
@@ -37000,11 +34892,7 @@
           "points": 4.5,
           "tpr": 1341,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9018944,
-          "knsb_classic": null,
-          "knsb_rapid": 1441,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9018944"
+          "boards": null
         },
         {
           "name": "Kimon Retsina",
@@ -37064,11 +34952,7 @@
           "points": 3.0,
           "tpr": 1053,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9076397,
-          "knsb_classic": null,
-          "knsb_rapid": 1248,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9076397"
+          "boards": null
         },
         {
           "name": "Stanislaw Sobieszczyk",
@@ -37148,11 +35032,7 @@
           "points": 4.0,
           "tpr": 1196,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9166949,
-          "knsb_classic": null,
-          "knsb_rapid": null,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9166949"
+          "boards": null
         },
         {
           "name": "Maxim Pijls",
@@ -37182,19 +35062,11 @@
           "points": 1.0,
           "tpr": 1196,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9130209,
-          "knsb_classic": null,
-          "knsb_rapid": null,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9130209"
+          "boards": null
         }
       ],
       "avg_rating": 1280.8,
       "top_rating": 1701,
-      "avg_knsb_classic": 1575.0,
-      "avg_knsb_rapid": 1469.0,
-      "top_knsb_classic": 1575,
-      "top_knsb_rapid": 1718,
       "player_count": 5
     },
     {
@@ -37277,11 +35149,7 @@
           "points": 3.0,
           "tpr": 1668,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 8999991,
-          "knsb_classic": 1653,
-          "knsb_rapid": 1750,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8999991"
+          "boards": null
         },
         {
           "name": "Jonah Nieuwenhuis",
@@ -37351,11 +35219,7 @@
           "points": 5.0,
           "tpr": 1489,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9039052,
-          "knsb_classic": null,
-          "knsb_rapid": 1445,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9039052"
+          "boards": null
         },
         {
           "name": "Nils Schuls",
@@ -37425,11 +35289,7 @@
           "points": 4.0,
           "tpr": 1251,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 8999980,
-          "knsb_classic": null,
-          "knsb_rapid": 1256,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8999980"
+          "boards": null
         },
         {
           "name": "EfraÃ¯m Langbroek",
@@ -37499,11 +35359,7 @@
           "points": 3.0,
           "tpr": 1050,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": null,
-          "knsb_classic": null,
-          "knsb_rapid": null,
-          "ratingviewer_url": null
+          "boards": null
         },
         {
           "name": "Rens Katoele",
@@ -37553,22 +35409,13 @@
           "points": 1.0,
           "tpr": 865,
           "player_id": null,
-          "boards": null,
-          "knsb_relatienummer": 9169666,
-          "knsb_classic": null,
-          "knsb_rapid": null,
-          "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169666"
+          "boards": null
         }
       ],
       "avg_rating": 1287.6,
       "top_rating": 1737,
-      "avg_knsb_classic": 1653.0,
-      "avg_knsb_rapid": 1483.7,
-      "top_knsb_classic": 1653,
-      "top_knsb_rapid": 1750,
       "player_count": 5
     }
   ],
-  "ratings_fetched_at": "2026-06-15T07:44:58Z",
   "games_fetched_at": "2026-06-15T08:04:09Z"
 }

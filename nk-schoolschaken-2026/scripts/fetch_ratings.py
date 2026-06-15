@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Enrich tournament.json with KNSB classic and rapid ratings from ratingviewer.nl."""
+"""Enrich ratings.json with KNSB classic and rapid ratings from ratingviewer.nl."""
 
 from __future__ import annotations
 
@@ -10,10 +10,10 @@ from pathlib import Path
 
 import requests
 
-from knsb_ratings import KnsbRatingService, enrich_tournament
+from knsb_ratings import KnsbRatingService, build_ratings
+from ratings_data import RATINGS_PATH, TOURNAMENT_PATH, write_json
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA_PATH = ROOT / "data" / "tournament.json"
 
 
 def main() -> int:
@@ -21,14 +21,14 @@ def main() -> int:
     parser.add_argument(
         "--input",
         type=Path,
-        default=DATA_PATH,
-        help="Tournament JSON to enrich (default: data/tournament.json)",
+        default=TOURNAMENT_PATH,
+        help="Tournament JSON to read (default: data/tournament.json)",
     )
     parser.add_argument(
         "--output",
         type=Path,
-        default=None,
-        help="Output path (default: overwrite --input)",
+        default=RATINGS_PATH,
+        help="Ratings JSON to write (default: data/ratings.json)",
     )
     args = parser.parse_args()
 
@@ -44,15 +44,20 @@ def main() -> int:
     session.headers.update({"User-Agent": "NK-Schoolschaak-Stats/1.0 (+local team composition tool)"})
 
     service = KnsbRatingService(session)
-    resolved = enrich_tournament(tournament, service)
+    ratings = build_ratings(tournament, service)
     service.save_cache()
 
-    output = args.output or args.input
-    output.parent.mkdir(parents=True, exist_ok=True)
-    output.write_text(json.dumps(tournament, indent=2, ensure_ascii=False), encoding="utf-8")
+    write_json(args.output, ratings)
 
+    resolved = len(
+        {
+            entry["knsb_relatienummer"]
+            for entry in ratings["players"].values()
+            if entry.get("knsb_relatienummer")
+        }
+    )
     print(f"Resolved KNSB ratings for {resolved} unique players")
-    print(f"Wrote {output}")
+    print(f"Wrote {args.output}")
     return 0
 
 

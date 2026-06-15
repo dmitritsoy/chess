@@ -24,7 +24,9 @@ KNSB ratings (klassiek/rapid via [ratingviewer.nl](https://ratingviewer.nl)):
 python scripts/fetch_ratings.py
 ```
 
-`fetch_ratings.py` leest `data/tournament.json` en schrijft de ratings terug naar hetzelfde bestand. Ratings worden gecached in `data/rating_cache.json` voor snellere herhaalde runs.
+`fetch_ratings.py` leest `data/tournament.json` en schrijft ratings naar `data/ratings.json`. Ratings worden gecached in `data/rating_cache.json` voor snellere herhaalde runs.
+
+Bekende Netstand-placeholders (bijv. `NO` bij GSV 1-Groningen = Bram ten Dam, relatienummer 8975340) staan in `scripts/ratings_data.py` onder `PLAYER_OVERRIDES`.
 
 Partijen per speler (tegenstander + team):
 

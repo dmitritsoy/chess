@@ -1,0 +1,2401 @@
+{
+  "fetched_at": "2026-06-15T12:31:40Z",
+  "summary": {
+    "knsb_classic_count": 37,
+    "avg_knsb_classic": 1566.4,
+    "avg_knsb_rapid": 1445.4
+  },
+  "semifinal_summaries": {
+    "arnhem": {
+      "knsb_classic_count": 29,
+      "avg_knsb_classic": 1584.8,
+      "avg_knsb_rapid": 1392.2
+    },
+    "kruiningen": {
+      "knsb_classic_count": 18,
+      "avg_knsb_classic": 1502.6,
+      "avg_knsb_rapid": 1336.8
+    },
+    "almere": {
+      "knsb_classic_count": 14,
+      "avg_knsb_classic": 1572.7,
+      "avg_knsb_rapid": 1279.0
+    }
+  },
+  "team_stats": {
+    "arnhem-6821": {
+      "avg_knsb_classic": 1866.8,
+      "avg_knsb_rapid": 1885.0,
+      "top_knsb_classic": 2329,
+      "top_knsb_rapid": 2219
+    },
+    "arnhem-6835": {
+      "avg_knsb_classic": 1714.0,
+      "avg_knsb_rapid": 1801.8,
+      "top_knsb_classic": 1967,
+      "top_knsb_rapid": 2040
+    },
+    "arnhem-6820": {
+      "avg_knsb_classic": 1470.0,
+      "avg_knsb_rapid": 1485.3,
+      "top_knsb_classic": 1538,
+      "top_knsb_rapid": 1663
+    },
+    "arnhem-6817": {
+      "avg_knsb_classic": 1599.0,
+      "avg_knsb_rapid": 1350.8,
+      "top_knsb_classic": 1599,
+      "top_knsb_rapid": 1641
+    },
+    "arnhem-6823": {
+      "avg_knsb_classic": 1390.0,
+      "avg_knsb_rapid": 1321.0,
+      "top_knsb_classic": 1512,
+      "top_knsb_rapid": 1767
+    },
+    "arnhem-6825": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1320.5,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1418
+    },
+    "arnhem-6836": {
+      "avg_knsb_classic": 1328.8,
+      "avg_knsb_rapid": 1239.6,
+      "top_knsb_classic": 1381,
+      "top_knsb_rapid": 1520
+    },
+    "arnhem-6822": {
+      "avg_knsb_classic": 1478.0,
+      "avg_knsb_rapid": 1637.3,
+      "top_knsb_classic": 1538,
+      "top_knsb_rapid": 1715
+    },
+    "arnhem-6837": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1553.0,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1672
+    },
+    "arnhem-6824": {
+      "avg_knsb_classic": 1449.0,
+      "avg_knsb_rapid": 1150.0,
+      "top_knsb_classic": 1449,
+      "top_knsb_rapid": 1667
+    },
+    "arnhem-6818": {
+      "avg_knsb_classic": 1346.0,
+      "avg_knsb_rapid": 1271.7,
+      "top_knsb_classic": 1346,
+      "top_knsb_rapid": 1500
+    },
+    "arnhem-6816": {
+      "avg_knsb_classic": 1446.0,
+      "avg_knsb_rapid": 1316.0,
+      "top_knsb_classic": 1446,
+      "top_knsb_rapid": 1551
+    },
+    "arnhem-6831": {
+      "avg_knsb_classic": 1659.0,
+      "avg_knsb_rapid": 1295.0,
+      "top_knsb_classic": 1659,
+      "top_knsb_rapid": 1596
+    },
+    "arnhem-6819": {
+      "avg_knsb_classic": 1634.0,
+      "avg_knsb_rapid": 1599.0,
+      "top_knsb_classic": 1641,
+      "top_knsb_rapid": 1604
+    },
+    "arnhem-6814": {
+      "avg_knsb_classic": 1690.0,
+      "avg_knsb_rapid": 1402.8,
+      "top_knsb_classic": 1690,
+      "top_knsb_rapid": 1612
+    },
+    "arnhem-6827": {
+      "avg_knsb_classic": 1750.0,
+      "avg_knsb_rapid": 1774.0,
+      "top_knsb_classic": 1750,
+      "top_knsb_rapid": 1774
+    },
+    "arnhem-6826": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1269.5,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1293
+    },
+    "arnhem-6830": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1219.7,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1424
+    },
+    "arnhem-6829": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1011.5,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1086
+    },
+    "arnhem-6834": {
+      "avg_knsb_classic": 1570.0,
+      "avg_knsb_rapid": 1497.0,
+      "top_knsb_classic": 1570,
+      "top_knsb_rapid": 1669
+    },
+    "arnhem-6815": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1022.3,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1192
+    },
+    "arnhem-6833": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": null,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": null
+    },
+    "arnhem-6832": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1141.0,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1259
+    },
+    "arnhem-6828": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": null,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": null
+    },
+    "kruiningen-6771": {
+      "avg_knsb_classic": 1472.0,
+      "avg_knsb_rapid": 1578.0,
+      "top_knsb_classic": 1585,
+      "top_knsb_rapid": 1652
+    },
+    "kruiningen-6762": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1488.2,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1629
+    },
+    "kruiningen-6775": {
+      "avg_knsb_classic": 1750.0,
+      "avg_knsb_rapid": 1535.2,
+      "top_knsb_classic": 1750,
+      "top_knsb_rapid": 1801
+    },
+    "kruiningen-6780": {
+      "avg_knsb_classic": 1616.0,
+      "avg_knsb_rapid": 1434.2,
+      "top_knsb_classic": 1616,
+      "top_knsb_rapid": 1807
+    },
+    "kruiningen-6763": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1241.5,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1596
+    },
+    "kruiningen-6767": {
+      "avg_knsb_classic": 1596.0,
+      "avg_knsb_rapid": 1405.0,
+      "top_knsb_classic": 1596,
+      "top_knsb_rapid": 1713
+    },
+    "kruiningen-6770": {
+      "avg_knsb_classic": 1370.3,
+      "avg_knsb_rapid": 1419.0,
+      "top_knsb_classic": 1544,
+      "top_knsb_rapid": 1601
+    },
+    "kruiningen-6776": {
+      "avg_knsb_classic": 1702.0,
+      "avg_knsb_rapid": 1443.5,
+      "top_knsb_classic": 1702,
+      "top_knsb_rapid": 1821
+    },
+    "kruiningen-6840": {
+      "avg_knsb_classic": 1691.0,
+      "avg_knsb_rapid": 1721.0,
+      "top_knsb_classic": 1691,
+      "top_knsb_rapid": 1721
+    },
+    "kruiningen-6778": {
+      "avg_knsb_classic": 1599.0,
+      "avg_knsb_rapid": 1339.8,
+      "top_knsb_classic": 1599,
+      "top_knsb_rapid": 1655
+    },
+    "kruiningen-6785": {
+      "avg_knsb_classic": 1200.0,
+      "avg_knsb_rapid": 1275.0,
+      "top_knsb_classic": 1200,
+      "top_knsb_rapid": 1470
+    },
+    "kruiningen-6768": {
+      "avg_knsb_classic": 1728.0,
+      "avg_knsb_rapid": 1594.5,
+      "top_knsb_classic": 1728,
+      "top_knsb_rapid": 1757
+    },
+    "kruiningen-6772": {
+      "avg_knsb_classic": 1290.0,
+      "avg_knsb_rapid": 1038.7,
+      "top_knsb_classic": 1290,
+      "top_knsb_rapid": 1312
+    },
+    "kruiningen-6841": {
+      "avg_knsb_classic": 1464.0,
+      "avg_knsb_rapid": 1591.0,
+      "top_knsb_classic": 1555,
+      "top_knsb_rapid": 1603
+    },
+    "kruiningen-6839": {
+      "avg_knsb_classic": 1420.0,
+      "avg_knsb_rapid": 1199.5,
+      "top_knsb_classic": 1420,
+      "top_knsb_rapid": 1539
+    },
+    "kruiningen-6777": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1279.0,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1426
+    },
+    "kruiningen-6769": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1451.3,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1521
+    },
+    "kruiningen-6779": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1258.3,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1389
+    },
+    "kruiningen-6774": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1326.0,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1326
+    },
+    "kruiningen-6782": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1017.0,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1075
+    },
+    "kruiningen-6838": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1057.3,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1166
+    },
+    "kruiningen-6766": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 918.0,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1216
+    },
+    "kruiningen-6786": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": null,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": null
+    },
+    "kruiningen-6764": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1373.0,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1373
+    },
+    "kruiningen-6783": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1267.0,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1591
+    },
+    "kruiningen-6784": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1119.0,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1119
+    },
+    "almere-Grp1-Pl1.html": {
+      "avg_knsb_classic": 1654.3,
+      "avg_knsb_rapid": 1563.2,
+      "top_knsb_classic": 1769,
+      "top_knsb_rapid": 1769
+    },
+    "almere-Grp1-Pl13.html": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1395.5,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1532
+    },
+    "almere-Grp1-Pl3.html": {
+      "avg_knsb_classic": 1465.0,
+      "avg_knsb_rapid": 1440.6,
+      "top_knsb_classic": 1465,
+      "top_knsb_rapid": 1643
+    },
+    "almere-Grp1-Pl10.html": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1331.7,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1580
+    },
+    "almere-Grp1-Pl19.html": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1027.4,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1349
+    },
+    "almere-Grp1-Pl6.html": {
+      "avg_knsb_classic": 1328.0,
+      "avg_knsb_rapid": 1367.2,
+      "top_knsb_classic": 1328,
+      "top_knsb_rapid": 1640
+    },
+    "almere-Grp1-Pl8.html": {
+      "avg_knsb_classic": 1575.0,
+      "avg_knsb_rapid": 1469.0,
+      "top_knsb_classic": 1575,
+      "top_knsb_rapid": 1718
+    },
+    "almere-Grp1-Pl7.html": {
+      "avg_knsb_classic": 1653.0,
+      "avg_knsb_rapid": 1483.7,
+      "top_knsb_classic": 1653,
+      "top_knsb_rapid": 1750
+    },
+    "almere-Grp1-Pl2.html": {
+      "avg_knsb_classic": 1356.0,
+      "avg_knsb_rapid": 1418.6,
+      "top_knsb_classic": 1356,
+      "top_knsb_rapid": 1609
+    },
+    "almere-Grp1-Pl9.html": {
+      "avg_knsb_classic": 1871.0,
+      "avg_knsb_rapid": 1344.5,
+      "top_knsb_classic": 1871,
+      "top_knsb_rapid": 1939
+    },
+    "almere-Grp1-Pl20.html": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1093.0,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1377
+    },
+    "almere-Grp1-Pl5.html": {
+      "avg_knsb_classic": 1813.0,
+      "avg_knsb_rapid": 1397.5,
+      "top_knsb_classic": 1813,
+      "top_knsb_rapid": 1945
+    },
+    "almere-Grp1-Pl12.html": {
+      "avg_knsb_classic": 1285.0,
+      "avg_knsb_rapid": 1130.0,
+      "top_knsb_classic": 1285,
+      "top_knsb_rapid": 1580
+    },
+    "almere-Grp1-Pl15.html": {
+      "avg_knsb_classic": 1732.0,
+      "avg_knsb_rapid": 1343.2,
+      "top_knsb_classic": 1732,
+      "top_knsb_rapid": 1683
+    },
+    "almere-Grp1-Pl11.html": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1402.0,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1402
+    },
+    "almere-Grp1-Pl16.html": {
+      "avg_knsb_classic": 1361.0,
+      "avg_knsb_rapid": 1387.0,
+      "top_knsb_classic": 1361,
+      "top_knsb_rapid": 1387
+    },
+    "almere-Grp1-Pl4.html": {
+      "avg_knsb_classic": 1616.0,
+      "avg_knsb_rapid": 1384.7,
+      "top_knsb_classic": 1616,
+      "top_knsb_rapid": 1664
+    },
+    "almere-Grp1-Pl18.html": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1084.8,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1293
+    },
+    "almere-Grp1-Pl14.html": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1014.0,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1014
+    },
+    "almere-Grp1-Pl17.html": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1085.7,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1215
+    },
+    "almere-Grp1-Pl22.html": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1012.0,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1012
+    },
+    "almere-Grp1-Pl24.html": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 895.2,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1127
+    },
+    "almere-Grp1-Pl23.html": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": null,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": null
+    },
+    "almere-Grp1-Pl21.html": {
+      "avg_knsb_classic": null,
+      "avg_knsb_rapid": 1066.0,
+      "top_knsb_classic": null,
+      "top_knsb_rapid": 1066
+    }
+  },
+  "players": {
+    "2457862": {
+      "name": "Kudernac, T. (Theo)",
+      "knsb_relatienummer": 8974757,
+      "knsb_classic": 1935,
+      "knsb_rapid": 1908,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8974757"
+    },
+    "2467208": {
+      "name": "Nair, P. (Pranav Prasobh)",
+      "knsb_relatienummer": 9062295,
+      "knsb_classic": 1912,
+      "knsb_rapid": 1835,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9062295"
+    },
+    "2467195": {
+      "name": "Ma, Y. (Yuan Li)",
+      "knsb_relatienummer": 9041120,
+      "knsb_classic": 1579,
+      "knsb_rapid": 1757,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9041120"
+    },
+    "2457853": {
+      "name": "Dellen van, T. (Thijmen)",
+      "knsb_relatienummer": 8964791,
+      "knsb_classic": 1579,
+      "knsb_rapid": 1706,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8964791"
+    },
+    "-1": {
+      "name": "NO",
+      "knsb_relatienummer": 8975340,
+      "knsb_classic": 2329,
+      "knsb_rapid": 2219,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8975340",
+      "resolved_name": "Bram ten Dam"
+    },
+    "2462516": {
+      "name": "Suthan, A. (Aadvik)",
+      "knsb_relatienummer": 8973723,
+      "knsb_classic": 1967,
+      "knsb_rapid": 2040,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8973723"
+    },
+    "2462549": {
+      "name": "Mutta, S. (Sevya Sonit)",
+      "knsb_relatienummer": 9047258,
+      "knsb_classic": 1765,
+      "knsb_rapid": 1940,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9047258"
+    },
+    "2462556": {
+      "name": "Jawahar, D. (Dhruvith)",
+      "knsb_relatienummer": 9060579,
+      "knsb_classic": 1715,
+      "knsb_rapid": 1760,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9060579"
+    },
+    "2462538": {
+      "name": "Suthan, A. (Asthik)",
+      "knsb_relatienummer": 9017404,
+      "knsb_classic": 1409,
+      "knsb_rapid": 1467,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9017404"
+    },
+    "2473460": {
+      "name": "Kokkula, A. (Advaith Krishna)",
+      "knsb_relatienummer": 9054606,
+      "knsb_classic": 1538,
+      "knsb_rapid": 1663,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9054606"
+    },
+    "2473620": {
+      "name": "Chaudhuri, A. (Aarini)",
+      "knsb_relatienummer": 9091962,
+      "knsb_classic": 1402,
+      "knsb_rapid": 1472,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9091962"
+    },
+    "2474388": {
+      "name": "Shiralkar, R. (Rudhra)",
+      "knsb_relatienummer": 9169776,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169776"
+    },
+    "2473716": {
+      "name": "Karun, D. (Darshil)",
+      "knsb_relatienummer": 9107406,
+      "knsb_rapid": 1321,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9107406"
+    },
+    "2467239": {
+      "name": "Huys, M. (Marijn)",
+      "knsb_relatienummer": 9116426,
+      "knsb_classic": 1599,
+      "knsb_rapid": 1641,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9116426"
+    },
+    "2474596": {
+      "name": "Zheng, Y. (Yu Huan)",
+      "knsb_relatienummer": 9170062,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170062"
+    },
+    "2467298": {
+      "name": "Hoogt van der, T. (Timo)",
+      "knsb_relatienummer": 9120144,
+      "knsb_rapid": 1602,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120144"
+    },
+    "2467184": {
+      "name": "Jaspers, R. (Raf)",
+      "knsb_relatienummer": 9009517,
+      "knsb_rapid": 1160,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9009517"
+    },
+    "2467299": {
+      "name": "Tran, O. (Olivier)",
+      "knsb_relatienummer": 9120155,
+      "knsb_rapid": 1000,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120155"
+    },
+    "2467345": {
+      "name": "Boomhouwer, R. (Rens)",
+      "knsb_relatienummer": 9061789,
+      "knsb_classic": 1512,
+      "knsb_rapid": 1767,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9061789"
+    },
+    "2473580": {
+      "name": "Veluwenkamp, R. (Robin)",
+      "knsb_relatienummer": 9086341,
+      "knsb_classic": 1268,
+      "knsb_rapid": 1237,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9086341"
+    },
+    "2473300": {
+      "name": "Melle van, W. (Walden)",
+      "knsb_relatienummer": 9008021,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9008021"
+    },
+    "2473436": {
+      "name": "Stornebrink, N.T. (Nolan)",
+      "knsb_relatienummer": 9043485,
+      "knsb_rapid": 1064,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9043485"
+    },
+    "2473252": {
+      "name": "Jansen, S.E.E. (Schelte)",
+      "knsb_relatienummer": 8996779,
+      "knsb_rapid": 1216,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8996779"
+    },
+    "2467450": {
+      "name": "Kibe, S. (Sosuke)",
+      "knsb_relatienummer": 9121376,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9121376"
+    },
+    "2474412": {
+      "name": "Çinar Sahin, A. (Aren)",
+      "knsb_relatienummer": 9169809,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169809"
+    },
+    "2473932": {
+      "name": "Lenselink, T. (Tom)",
+      "knsb_relatienummer": 9156851,
+      "knsb_rapid": 1418,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9156851"
+    },
+    "2467448": {
+      "name": "Park, N. (Noah)",
+      "knsb_relatienummer": 9121354,
+      "knsb_rapid": 1223,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9121354"
+    },
+    "2473308": {
+      "name": "Sathish Kumar, Y. (Yazhini)",
+      "knsb_relatienummer": 9011574,
+      "knsb_classic": 1381,
+      "knsb_rapid": 1479,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9011574"
+    },
+    "2473492": {
+      "name": "Hemanth Kumar, P. (Purvik)",
+      "knsb_relatienummer": 9066827,
+      "knsb_classic": 1372,
+      "knsb_rapid": 1186,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9066827"
+    },
+    "2473324": {
+      "name": "Sathish Kumar, S. (Sidhiksha)",
+      "knsb_relatienummer": 9015149,
+      "knsb_classic": 1308,
+      "knsb_rapid": 1148,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9015149"
+    },
+    "2473556": {
+      "name": "Anand, S.R. (Saket Ram)",
+      "knsb_relatienummer": 9078223,
+      "knsb_classic": 1254,
+      "knsb_rapid": 1520,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9078223"
+    },
+    "2473204": {
+      "name": "Sathish, A. (Adithya)",
+      "knsb_relatienummer": 8983964,
+      "knsb_rapid": 865,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8983964"
+    },
+    "2473500": {
+      "name": "Sarathbabu, M. (Mrityunjay)",
+      "knsb_relatienummer": 9068653,
+      "knsb_classic": 1538,
+      "knsb_rapid": 1684,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9068653"
+    },
+    "2473428": {
+      "name": "Broersma, C.G.A. (Carolina)",
+      "knsb_relatienummer": 9043474,
+      "knsb_classic": 1418,
+      "knsb_rapid": 1513,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9043474"
+    },
+    "2473724": {
+      "name": "Aydinli, E. (Edin)",
+      "knsb_relatienummer": 9111267,
+      "knsb_rapid": 1715,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9111267"
+    },
+    "2473868": {
+      "name": "Roemers, L. (Lizenoor)",
+      "knsb_relatienummer": 9133278,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9133278"
+    },
+    "2474556": {
+      "name": "Kozlova, E. (Elizaveta)",
+      "knsb_relatienummer": 9170007,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170007"
+    },
+    "2473140": {
+      "name": "Kozlov, T. (Timofei)",
+      "knsb_relatienummer": 8910110,
+      "knsb_rapid": 1672,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8910110"
+    },
+    "2473916": {
+      "name": "Sobota, T. (Tytus)",
+      "knsb_relatienummer": 9152231,
+      "knsb_rapid": 1434,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9152231"
+    },
+    "2474548": {
+      "name": "Bitterling, J. (Jones)",
+      "knsb_relatienummer": 9169996,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169996"
+    },
+    "2473524": {
+      "name": "Kolah-Chi, K. (Kyan)",
+      "knsb_relatienummer": 9073636,
+      "knsb_classic": 1449,
+      "knsb_rapid": 1667,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9073636"
+    },
+    "2473804": {
+      "name": "Le, L.V.C. (Lucas)",
+      "knsb_relatienummer": 9125556,
+      "knsb_rapid": 1317,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9125556"
+    },
+    "2474524": {
+      "name": "Wisse, J. (Jens)",
+      "knsb_relatienummer": 9169963,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169963"
+    },
+    "2473380": {
+      "name": "Alagöz, R. (Roni)",
+      "knsb_relatienummer": 9036280,
+      "knsb_rapid": 993,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9036280"
+    },
+    "2473924": {
+      "name": "Bashi, D. (Daan)",
+      "knsb_relatienummer": 9156477,
+      "knsb_rapid": 937,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9156477"
+    },
+    "2474020": {
+      "name": "Anuk, R. (Rohat)",
+      "knsb_relatienummer": 9163253,
+      "knsb_rapid": 836,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9163253"
+    },
+    "2474932": {
+      "name": "Pavan, J. (Jhanvi)",
+      "knsb_relatienummer": 9109408,
+      "knsb_classic": 1346,
+      "knsb_rapid": 1500,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9109408"
+    },
+    "2473268": {
+      "name": "Udhaya Kumar, M. (Medhini)",
+      "knsb_relatienummer": 8999111,
+      "knsb_rapid": 1136,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8999111"
+    },
+    "2452642": {
+      "name": "Yerramilli, A. (Aisha)",
+      "knsb_relatienummer": 8965638,
+      "knsb_rapid": 1179,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8965638"
+    },
+    "2452929": {
+      "name": "Shi, T. (Terry)",
+      "knsb_relatienummer": 8969763,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8969763"
+    },
+    "2467519": {
+      "name": "Hoogendoorn, J. (Joris)",
+      "knsb_relatienummer": 9074857,
+      "knsb_classic": 1446,
+      "knsb_rapid": 1551,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9074857"
+    },
+    "2467216": {
+      "name": "Alobaid, Z. (Zahed)",
+      "knsb_relatienummer": 9076309,
+      "knsb_rapid": 1176,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9076309"
+    },
+    "2467204": {
+      "name": "Overmeer, M. (Merijn)",
+      "knsb_relatienummer": 9056927,
+      "knsb_rapid": 1221,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9056927"
+    },
+    "2467190": {
+      "name": "Gok, S. (Sem)",
+      "knsb_relatienummer": 9025478,
+      "knsb_classic": 1659,
+      "knsb_rapid": 1596,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9025478"
+    },
+    "2473828": {
+      "name": "Wijk van, D. (Diaz)",
+      "knsb_relatienummer": 9126722,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9126722"
+    },
+    "2467283": {
+      "name": "Özkent, K. (Kaan)",
+      "knsb_relatienummer": 9119968,
+      "knsb_rapid": 994,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9119968"
+    },
+    "2473948": {
+      "name": "Tigrinate, L. (Lucas)",
+      "knsb_relatienummer": 9159029,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9159029"
+    },
+    "2473972": {
+      "name": "Ye, E. (Evi)",
+      "knsb_relatienummer": 9160723,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9160723"
+    },
+    "2467352": {
+      "name": "Li, V. (Vince)",
+      "knsb_relatienummer": 9068708,
+      "knsb_classic": 1641,
+      "knsb_rapid": 1604,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9068708"
+    },
+    "2467324": {
+      "name": "Gafurov, D. (Damir)",
+      "knsb_relatienummer": 8966474,
+      "knsb_classic": 1627,
+      "knsb_rapid": 1594,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8966474"
+    },
+    "2475372": {
+      "name": "Kevin, K. (Kevin)",
+      "knsb_relatienummer": 9170887,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170887"
+    },
+    "2475380": {
+      "name": "Aishu, A. (Aishu)",
+      "knsb_relatienummer": 9170898,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170898"
+    },
+    "2473260": {
+      "name": "Bao, M. (Marshal)",
+      "knsb_relatienummer": 8998253,
+      "knsb_classic": 1690,
+      "knsb_rapid": 1612,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8998253"
+    },
+    "2473212": {
+      "name": "Grguric, K. (Kaya)",
+      "knsb_relatienummer": 8985350,
+      "knsb_rapid": 1376,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8985350"
+    },
+    "2473796": {
+      "name": "Borsboom, M. (Matthias)",
+      "knsb_relatienummer": 9122080,
+      "knsb_rapid": 1165,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9122080"
+    },
+    "2473788": {
+      "name": "Borsboom, F. (Frederik)",
+      "knsb_relatienummer": 9122069,
+      "knsb_rapid": 1458,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9122069"
+    },
+    "2474532": {
+      "name": "Kievit, J.G.S. (Jaap)",
+      "knsb_relatienummer": 9169974,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169974"
+    },
+    "2473668": {
+      "name": "Haarsma, S.I. (Syb)",
+      "knsb_relatienummer": 9095086,
+      "knsb_classic": 1750,
+      "knsb_rapid": 1774,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9095086"
+    },
+    "2474116": {
+      "name": "Flim, L. (Lucas)",
+      "knsb_relatienummer": 9169402,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169402"
+    },
+    "2474132": {
+      "name": "Beek van, L. (Lux)",
+      "knsb_relatienummer": 9169424,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169424"
+    },
+    "2474044": {
+      "name": "Bijsterbosch, J. (Joachim)",
+      "knsb_relatienummer": 9167422,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9167422"
+    },
+    "2474108": {
+      "name": "Huisken, T. (Tom)",
+      "knsb_relatienummer": 9169391,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169391"
+    },
+    "2474124": {
+      "name": "Broekroelofs, A. (Aaron)",
+      "knsb_relatienummer": 9169413,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169413"
+    },
+    "2473980": {
+      "name": "Zhang, J. (Jiaming)",
+      "knsb_relatienummer": 9160756,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9160756"
+    },
+    "2474012": {
+      "name": "Jain, R. (Reyaansh)",
+      "knsb_relatienummer": 9163242,
+      "knsb_rapid": 1293,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9163242"
+    },
+    "2474428": {
+      "name": "Paidipalli, S. (Saharsh)",
+      "knsb_relatienummer": 9169831,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169831"
+    },
+    "2467428": {
+      "name": "Patel, R. (Rudransh)",
+      "knsb_relatienummer": 9068444,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9068444"
+    },
+    "2467447": {
+      "name": "Banasihalli chetan Kum, V. (Vihaan)",
+      "knsb_relatienummer": 9121343,
+      "knsb_rapid": 1246,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9121343"
+    },
+    "2474004": {
+      "name": "Madnani, A. (Aarav)",
+      "knsb_relatienummer": 9163220,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9163220"
+    },
+    "2473132": {
+      "name": "Vinod Kumar, S. (Sumrud)",
+      "knsb_relatienummer": 8839886,
+      "knsb_rapid": 1424,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8839886"
+    },
+    "2473532": {
+      "name": "Güven, A. (Arina)",
+      "knsb_relatienummer": 9076001,
+      "knsb_rapid": 1083,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9076001"
+    },
+    "2474436": {
+      "name": "Mulalic, A. (Amar)",
+      "knsb_relatienummer": 9169842,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169842"
+    },
+    "2473812": {
+      "name": "Singh, A. (Advait)",
+      "knsb_relatienummer": 9125611,
+      "knsb_rapid": 1152,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9125611"
+    },
+    "2467302": {
+      "name": "Bloemberg, L.L. (Lennon)",
+      "knsb_relatienummer": 9120199,
+      "knsb_rapid": 937,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120199"
+    },
+    "2474516": {
+      "name": "Bakali, B. (Bilal)",
+      "knsb_relatienummer": 9169952,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169952"
+    },
+    "2467301": {
+      "name": "Wolse, T.J. (Thomas)",
+      "knsb_relatienummer": 9120188,
+      "knsb_rapid": 1086,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120188"
+    },
+    "2474508": {
+      "name": "Dharmadhikari, V. (Vivaan)",
+      "knsb_relatienummer": 9169941,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169941"
+    },
+    "2467303": {
+      "name": "Bentelaar, E.T. (Evan)",
+      "knsb_relatienummer": 9120210,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120210"
+    },
+    "2462561": {
+      "name": "Leferink, M. (Maxim)",
+      "knsb_relatienummer": 9069159,
+      "knsb_classic": 1570,
+      "knsb_rapid": 1669,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9069159"
+    },
+    "2474348": {
+      "name": "Jansen, A. (Aaron)",
+      "knsb_relatienummer": 9169721,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169721"
+    },
+    "2473876": {
+      "name": "Apell, N. (Nino)",
+      "knsb_relatienummer": 9141209,
+      "knsb_rapid": 1325,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9141209"
+    },
+    "2474356": {
+      "name": "Debbegh, R. (Robin)",
+      "knsb_relatienummer": 9169732,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169732"
+    },
+    "2474380": {
+      "name": "Kempers, R. (Remi)",
+      "knsb_relatienummer": 9169765,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169765"
+    },
+    "2473996": {
+      "name": "Zulfaliev, E. (Emir)",
+      "knsb_relatienummer": 9162076,
+      "knsb_rapid": 1192,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9162076"
+    },
+    "2473548": {
+      "name": "Tang, E. (Enzo)",
+      "knsb_relatienummer": 9076771,
+      "knsb_rapid": 912,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9076771"
+    },
+    "2474188": {
+      "name": "Meer van der, L. (Lars)",
+      "knsb_relatienummer": 9169501,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169501"
+    },
+    "2473740": {
+      "name": "Sayar, H. (Hasan)",
+      "knsb_relatienummer": 9115469,
+      "knsb_rapid": 963,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9115469"
+    },
+    "2472788": {
+      "name": "Behzad, A. (Ario)",
+      "knsb_relatienummer": 9168797,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9168797"
+    },
+    "2472628": {
+      "name": "Benerink, F. (Floris)",
+      "knsb_relatienummer": 9075066,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9075066"
+    },
+    "2472668": {
+      "name": "Lerou, V. (Vincent)",
+      "knsb_relatienummer": 9126106,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9126106"
+    },
+    "2472708": {
+      "name": "Lautenbach, A.A.M. (Arthur)",
+      "knsb_relatienummer": 9155223,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9155223"
+    },
+    "2472796": {
+      "name": "Roeloffzen, W. (Willem)",
+      "knsb_relatienummer": 9168808,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9168808"
+    },
+    "2467186": {
+      "name": "Dijk van, L. (Lars)",
+      "knsb_relatienummer": 9016370,
+      "knsb_rapid": 1259,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9016370"
+    },
+    "2474228": {
+      "name": "Fuit, S. (Sen)",
+      "knsb_relatienummer": 9169556,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169556"
+    },
+    "2473484": {
+      "name": "Bosch, J. (Joe)",
+      "knsb_relatienummer": 9064792,
+      "knsb_rapid": 1023,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9064792"
+    },
+    "2474236": {
+      "name": "Bakker, O. (Owen)",
+      "knsb_relatienummer": 9169567,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169567"
+    },
+    "2474148": {
+      "name": "Wilts, J. (Jonathan)",
+      "knsb_relatienummer": 9169446,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169446"
+    },
+    "2474140": {
+      "name": "Helm van der, R. (Rogier)",
+      "knsb_relatienummer": 9169435,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169435"
+    },
+    "2474156": {
+      "name": "Luppen, E. (Ezra)",
+      "knsb_relatienummer": 9169457,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169457"
+    },
+    "2474164": {
+      "name": "Smit, J. (Jozua)",
+      "knsb_relatienummer": 9169468,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169468"
+    },
+    "2474172": {
+      "name": "Wijhe van, D. (David)",
+      "knsb_relatienummer": 9169479,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169479"
+    },
+    "2473444": {
+      "name": "Mohan, M. (Manaswini)",
+      "knsb_relatienummer": 9052021,
+      "knsb_classic": 1585,
+      "knsb_rapid": 1594,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9052021"
+    },
+    "2473196": {
+      "name": "Lalkota, S. (Srikar)",
+      "knsb_relatienummer": 8974768,
+      "knsb_classic": 1458,
+      "knsb_rapid": 1652,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8974768"
+    },
+    "2473508": {
+      "name": "Jin, H. (Hongyi)",
+      "knsb_relatienummer": 9069291,
+      "knsb_classic": 1373,
+      "knsb_rapid": 1599,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9069291"
+    },
+    "2473316": {
+      "name": "Altay, C. (Cagan Deniz)",
+      "knsb_relatienummer": 9013796,
+      "knsb_rapid": 1467,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9013796"
+    },
+    "2467217": {
+      "name": "Shen, I. (Ian)",
+      "knsb_relatienummer": 9078289,
+      "knsb_rapid": 1413,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9078289"
+    },
+    "2462533": {
+      "name": "Hany, A. (Adam)",
+      "knsb_relatienummer": 9008153,
+      "knsb_rapid": 1346,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9008153"
+    },
+    "2462534": {
+      "name": "Hany, H. (Harun)",
+      "knsb_relatienummer": 9008164,
+      "knsb_rapid": 1565,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9008164"
+    },
+    "2452617": {
+      "name": "Shen, D. (Daan)",
+      "knsb_relatienummer": 8965374,
+      "knsb_rapid": 1629,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8965374"
+    },
+    "2450995": {
+      "name": "Ridder de, D. (Dorian)",
+      "knsb_relatienummer": 8945101,
+      "knsb_classic": 1750,
+      "knsb_rapid": 1801,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8945101"
+    },
+    "2453071": {
+      "name": "Toornman, B. (Bobbie)",
+      "knsb_relatienummer": 8971897,
+      "knsb_rapid": 1311,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8971897"
+    },
+    "2453280": {
+      "name": "Ridder de, M. (Mels)",
+      "knsb_relatienummer": 8974867,
+      "knsb_rapid": 1398,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8974867"
+    },
+    "2452350": {
+      "name": "Heuvel van den, T. (Thijmen)",
+      "knsb_relatienummer": 8962151,
+      "knsb_rapid": 1631,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8962151"
+    },
+    "2457830": {
+      "name": "Rietveld, C.E.D. (Charlotte)",
+      "knsb_relatienummer": 8881939,
+      "knsb_classic": 1616,
+      "knsb_rapid": 1750,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8881939"
+    },
+    "2467206": {
+      "name": "Vergeer, T.J. (Thijs)",
+      "knsb_relatienummer": 9059710,
+      "knsb_rapid": 1258,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9059710"
+    },
+    "2472660": {
+      "name": "Dorrestijn, T. (Tim)",
+      "knsb_relatienummer": 9116085,
+      "knsb_rapid": 922,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9116085"
+    },
+    "2457829": {
+      "name": "Rietveld, A.H.J. (Alexander)",
+      "knsb_relatienummer": 8881928,
+      "knsb_rapid": 1807,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8881928"
+    },
+    "2462529": {
+      "name": "Kuip van der, S. (Stefan)",
+      "knsb_relatienummer": 9000728,
+      "knsb_rapid": 1596,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9000728"
+    },
+    "2462559": {
+      "name": "Law, A. (Asher)",
+      "knsb_relatienummer": 9067377,
+      "knsb_rapid": 1335,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9067377"
+    },
+    "2467182": {
+      "name": "Leeuwen van, W. (Wieger)",
+      "knsb_relatienummer": 9001102,
+      "knsb_rapid": 957,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9001102"
+    },
+    "2467214": {
+      "name": "Bartels, T. (Tristan)",
+      "knsb_relatienummer": 9068125,
+      "knsb_rapid": 1078,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9068125"
+    },
+    "2467349": {
+      "name": "Narasimhan, L. (Lakshay)",
+      "knsb_relatienummer": 9066761,
+      "knsb_classic": 1596,
+      "knsb_rapid": 1713,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9066761"
+    },
+    "2473516": {
+      "name": "Yang, Y. (Cheng-Yan Edgar)",
+      "knsb_relatienummer": 9069742,
+      "knsb_rapid": 1554,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9069742"
+    },
+    "2473636": {
+      "name": "Aisola, L. (Leo)",
+      "knsb_relatienummer": 9094481,
+      "knsb_rapid": 1297,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9094481"
+    },
+    "2473652": {
+      "name": "Duit, A. (Alessio)",
+      "knsb_relatienummer": 9094569,
+      "knsb_rapid": 1056,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9094569"
+    },
+    "2445865": {
+      "name": "Zhang, R.M. (Melody)",
+      "knsb_relatienummer": 8871038,
+      "knsb_classic": 1544,
+      "knsb_rapid": 1601,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8871038"
+    },
+    "2473628": {
+      "name": "Morgan, F. (Finn)",
+      "knsb_relatienummer": 9093799,
+      "knsb_classic": 1327,
+      "knsb_rapid": 1345,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9093799"
+    },
+    "2473820": {
+      "name": "Roghair, T. (Tommie)",
+      "knsb_relatienummer": 9125710,
+      "knsb_classic": 1240,
+      "knsb_rapid": 1261,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9125710"
+    },
+    "2467238": {
+      "name": "Mennink, R.F. (Ruben)",
+      "knsb_relatienummer": 9116173,
+      "knsb_rapid": 1469,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9116173"
+    },
+    "2467425": {
+      "name": "Oruc, E. (Ediz)",
+      "knsb_relatienummer": 8993578,
+      "knsb_classic": 1702,
+      "knsb_rapid": 1821,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8993578"
+    },
+    "2467574": {
+      "name": "Duijn van, N.A. (Niels)",
+      "knsb_relatienummer": 8930581,
+      "knsb_rapid": 1427,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8930581"
+    },
+    "2467556": {
+      "name": "Huynh, A. (Andy)",
+      "knsb_relatienummer": 9077365,
+      "knsb_rapid": 1322,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9077365"
+    },
+    "2474852": {
+      "name": "Duijn van, M.J. (Max)",
+      "knsb_relatienummer": 9015996,
+      "knsb_rapid": 1204,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9015996"
+    },
+    "2474972": {
+      "name": "Rossem van, J. (Jules)",
+      "knsb_relatienummer": 9127173,
+      "knsb_classic": 1691,
+      "knsb_rapid": 1721,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9127173"
+    },
+    "2475068": {
+      "name": "Ashmann, E. (Edin)",
+      "knsb_relatienummer": 9170414,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170414"
+    },
+    "2475004": {
+      "name": "Karamat Ali, M.D. (Massimo)",
+      "knsb_relatienummer": 9166080,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9166080"
+    },
+    "2475060": {
+      "name": "Mijers, J. (Jake)",
+      "knsb_relatienummer": 9170403,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170403"
+    },
+    "2475076": {
+      "name": "Makram, S. (Samy)",
+      "knsb_relatienummer": 9170425,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170425"
+    },
+    "2474844": {
+      "name": "Chi, J.J.W. (Jason)",
+      "knsb_relatienummer": 9008714,
+      "knsb_classic": 1599,
+      "knsb_rapid": 1655,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9008714"
+    },
+    "2474908": {
+      "name": "Meggelen van, L. (Lukas)",
+      "knsb_relatienummer": 9101202,
+      "knsb_rapid": 1270,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9101202"
+    },
+    "2474828": {
+      "name": "Treijtel, F. (Fynn)",
+      "knsb_relatienummer": 8999485,
+      "knsb_rapid": 1546,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8999485"
+    },
+    "2474836": {
+      "name": "Chi, C.J.Q. (Chloë)",
+      "knsb_relatienummer": 9008692,
+      "knsb_rapid": 974,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9008692"
+    },
+    "2474900": {
+      "name": "Mastouri, Z. (Ziyed)",
+      "knsb_relatienummer": 9091302,
+      "knsb_rapid": 1254,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9091302"
+    },
+    "2467337": {
+      "name": "Hoenderop, R. (Rafael)",
+      "knsb_relatienummer": 9043694,
+      "knsb_classic": 1200,
+      "knsb_rapid": 1470,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9043694"
+    },
+    "2467342": {
+      "name": "Korteweg, R. (Rowi)",
+      "knsb_relatienummer": 9055409,
+      "knsb_rapid": 1319,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9055409"
+    },
+    "2473564": {
+      "name": "Hoenderop, T. (Tara)",
+      "knsb_relatienummer": 9085758,
+      "knsb_rapid": 1207,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9085758"
+    },
+    "2467375": {
+      "name": "Kolk van der, T. (Tjerk)",
+      "knsb_relatienummer": 9120452,
+      "knsb_rapid": 1104,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120452"
+    },
+    "2462737": {
+      "name": "Verbaken, I. (Ilja)",
+      "knsb_relatienummer": 8907536,
+      "knsb_classic": 1728,
+      "knsb_rapid": 1757,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8907536"
+    },
+    "2462736": {
+      "name": "Woszczak, O. (Oliwier)",
+      "knsb_relatienummer": 8887450,
+      "knsb_rapid": 1432,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8887450"
+    },
+    "2474444": {
+      "name": "Sarkissian, L. (Leo)",
+      "knsb_relatienummer": 9169853,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169853"
+    },
+    "2474452": {
+      "name": "Tas, D. (Duru)",
+      "knsb_relatienummer": 9169864,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169864"
+    },
+    "2473612": {
+      "name": "Velthuis, F. (Francis)",
+      "knsb_relatienummer": 9090565,
+      "knsb_classic": 1290,
+      "knsb_rapid": 1312,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9090565"
+    },
+    "2474580": {
+      "name": "Pronk, R. (Ryad)",
+      "knsb_relatienummer": 9170040,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170040"
+    },
+    "2474588": {
+      "name": "Karssen, C. (Chris)",
+      "knsb_relatienummer": 9170051,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170051"
+    },
+    "2473940": {
+      "name": "Spanjer, H. (Hylke)",
+      "knsb_relatienummer": 9156928,
+      "knsb_rapid": 511,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9156928"
+    },
+    "2475572": {
+      "name": "Vermeulen, M. (Max)",
+      "knsb_relatienummer": 9171041,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9171041"
+    },
+    "2473756": {
+      "name": "Putten van der, T. (Tom)",
+      "knsb_relatienummer": 9117515,
+      "knsb_rapid": 1293,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9117515"
+    },
+    "2447824": {
+      "name": "Leenen, P. (Pomme)",
+      "knsb_relatienummer": 8902344,
+      "knsb_classic": 1555,
+      "knsb_rapid": 1603,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8902344"
+    },
+    "2447825": {
+      "name": "Leenen, B. (Bing)",
+      "knsb_relatienummer": 8902355,
+      "knsb_classic": 1373,
+      "knsb_rapid": 1579,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8902355"
+    },
+    "2473172": {
+      "name": "Gruithuijzen, T. (Thijn)",
+      "knsb_relatienummer": 8955001,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8955001"
+    },
+    "2474316": {
+      "name": "Kerkhof van der, J. (Joris)",
+      "knsb_relatienummer": 9169677,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169677"
+    },
+    "2474812": {
+      "name": "Bhaskarabhatla, M. (Maithili Millie)",
+      "knsb_relatienummer": 8951349,
+      "knsb_classic": 1420,
+      "knsb_rapid": 1539,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8951349"
+    },
+    "2467200": {
+      "name": "Barendregt, A.A. (Alfred)",
+      "knsb_relatienummer": 9052681,
+      "knsb_rapid": 1421,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9052681"
+    },
+    "2474996": {
+      "name": "Whitlau, X.M.G. (Xam)",
+      "knsb_relatienummer": 9157764,
+      "knsb_rapid": 911,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9157764"
+    },
+    "2467177": {
+      "name": "Kuyululu, A.D. (Atlas Derya)",
+      "knsb_relatienummer": 8963218,
+      "knsb_rapid": 927,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8963218"
+    },
+    "2475156": {
+      "name": "Zijlstra, Y. (Yannick)",
+      "knsb_relatienummer": 9170546,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170546"
+    },
+    "2473180": {
+      "name": "Kornet, C. (Christian)",
+      "knsb_relatienummer": 8960490,
+      "knsb_rapid": 1173,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8960490"
+    },
+    "2473228": {
+      "name": "Zinkweg, N.T. (Nolan)",
+      "knsb_relatienummer": 8990289,
+      "knsb_rapid": 1238,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8990289"
+    },
+    "2473188": {
+      "name": "Nes van, J.Z. (Joel)",
+      "knsb_relatienummer": 8970929,
+      "knsb_rapid": 1426,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8970929"
+    },
+    "2475148": {
+      "name": "Poberer, L. (Luuk)",
+      "knsb_relatienummer": 9170535,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170535"
+    },
+    "2467219": {
+      "name": "Ritzen, T. (Torben)",
+      "knsb_relatienummer": 9084328,
+      "knsb_rapid": 1391,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9084328"
+    },
+    "2467273": {
+      "name": "Linnemann, L. (Lucas)",
+      "knsb_relatienummer": 9119836,
+      "knsb_rapid": 1442,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9119836"
+    },
+    "2467272": {
+      "name": "Linnemann, R. (Rafaël)",
+      "knsb_relatienummer": 9119825,
+      "knsb_rapid": 1521,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9119825"
+    },
+    "2474540": {
+      "name": "Basten-Batenburg van, T. (Timo)",
+      "knsb_relatienummer": 9169985,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169985"
+    },
+    "2467209": {
+      "name": "Berveling, D. (Deacon)",
+      "knsb_relatienummer": 9062416,
+      "knsb_rapid": 1328,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9062416"
+    },
+    "2473964": {
+      "name": "Sekowski, F. (Filip)",
+      "knsb_relatienummer": 9160503,
+      "knsb_rapid": 1058,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9160503"
+    },
+    "2466983": {
+      "name": "Berveling, J. (Jethro)",
+      "knsb_relatienummer": 9062427,
+      "knsb_rapid": 1389,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9062427"
+    },
+    "2474292": {
+      "name": "Vonk, T. (Tim)",
+      "knsb_relatienummer": 9169644,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169644"
+    },
+    "2475492": {
+      "name": "Tundidor Ruíz, A. (Alberto)",
+      "knsb_relatienummer": 9149041,
+      "knsb_rapid": 1326,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9149041"
+    },
+    "2475556": {
+      "name": "Brouwer de, C. (Chris)",
+      "knsb_relatienummer": 9171019,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9171019"
+    },
+    "2475540": {
+      "name": "Held, J. (James)",
+      "knsb_relatienummer": 9170997,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170997"
+    },
+    "2475500": {
+      "name": "Nat van der, X. (Xavi)",
+      "knsb_relatienummer": 9159975,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9159975"
+    },
+    "2475548": {
+      "name": "Roelof, M. (Max)",
+      "knsb_relatienummer": 9171008,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9171008"
+    },
+    "2473604": {
+      "name": "Ensing, R. (Rijk)",
+      "knsb_relatienummer": 9088640,
+      "knsb_rapid": 1075,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9088640"
+    },
+    "2474404": {
+      "name": "Lubbe van der, S. (Senn)",
+      "knsb_relatienummer": 9169798,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169798"
+    },
+    "2474396": {
+      "name": "Postma, S. (Sepp)",
+      "knsb_relatienummer": 9169787,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169787"
+    },
+    "2473860": {
+      "name": "Donkersgoed van, Y. (Ype)",
+      "knsb_relatienummer": 9132838,
+      "knsb_rapid": 959,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9132838"
+    },
+    "2474916": {
+      "name": "Moeliker, S. (Senn)",
+      "knsb_relatienummer": 9104810,
+      "knsb_rapid": 1043,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9104810"
+    },
+    "2474924": {
+      "name": "Ozturk, Z. (Zeynep)",
+      "knsb_relatienummer": 9104821,
+      "knsb_rapid": 963,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9104821"
+    },
+    "2475092": {
+      "name": "Bruins-Slot, J. (Jens)",
+      "knsb_relatienummer": 9170447,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170447"
+    },
+    "2474860": {
+      "name": "Jole van, S.I.A. (Sjoerd)",
+      "knsb_relatienummer": 9031638,
+      "knsb_rapid": 1166,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9031638"
+    },
+    "2473572": {
+      "name": "Ouwehand, J. (Jip)",
+      "knsb_relatienummer": 9085857,
+      "knsb_rapid": 1216,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9085857"
+    },
+    "2473772": {
+      "name": "Ayyildiz, K. (Kerem)",
+      "knsb_relatienummer": 9117856,
+      "knsb_rapid": 579,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9117856"
+    },
+    "2474260": {
+      "name": "Dilsiz, C. (Can)",
+      "knsb_relatienummer": 9169600,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169600"
+    },
+    "2473764": {
+      "name": "Nouwels, M. (Myla)",
+      "knsb_relatienummer": 9117735,
+      "knsb_rapid": 959,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9117735"
+    },
+    "2475132": {
+      "name": "Keijmel, L. (Levi)",
+      "knsb_relatienummer": 9170502,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170502"
+    },
+    "2475140": {
+      "name": "Piessens, L. (Lucas)",
+      "knsb_relatienummer": 9170513,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170513"
+    },
+    "2474788": {
+      "name": "Doesburg van, K. (Koen)",
+      "knsb_relatienummer": 8902916,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8902916"
+    },
+    "2475124": {
+      "name": "Lemish, N. (Nazar)",
+      "knsb_relatienummer": 9170491,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170491"
+    },
+    "2474252": {
+      "name": "Eijk van, L. (Liam)",
+      "knsb_relatienummer": 9169589,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169589"
+    },
+    "2452465": {
+      "name": "Vugt van, R. (Robin)",
+      "knsb_relatienummer": 8963614,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8963614"
+    },
+    "2474244": {
+      "name": "Kumar, R. (Roan)",
+      "knsb_relatienummer": 9169578,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169578"
+    },
+    "2473588": {
+      "name": "Chandra, D. (Dhruv)",
+      "knsb_relatienummer": 9087287,
+      "knsb_rapid": 1373,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9087287"
+    },
+    "2467233": {
+      "name": "Brunings, D. (Dani)",
+      "knsb_relatienummer": 9097781,
+      "knsb_rapid": 1591,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9097781"
+    },
+    "2467292": {
+      "name": "Hogas, R. (Rares)",
+      "knsb_relatienummer": 9120078,
+      "knsb_rapid": 943,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120078"
+    },
+    "2474460": {
+      "name": "Nuyten, E. (Ethan)",
+      "knsb_relatienummer": 9169875,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169875"
+    },
+    "2467293": {
+      "name": "Santos Galhetas dos, J. (Jaylen)",
+      "knsb_relatienummer": 9120089,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120089"
+    },
+    "2474468": {
+      "name": "Weezepoel, S. (Sibbe)",
+      "knsb_relatienummer": 9169886,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169886"
+    },
+    "2473836": {
+      "name": "Setten van, S. (Sam)",
+      "knsb_relatienummer": 9129065,
+      "knsb_rapid": 1119,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9129065"
+    },
+    "2474484": {
+      "name": "Brasser, D. (Daan)",
+      "knsb_relatienummer": 9169908,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169908"
+    },
+    "2474492": {
+      "name": "Veire van de, L. (Lotte)",
+      "knsb_relatienummer": 9169919,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169919"
+    },
+    "2474476": {
+      "name": "Hau, J. (Julian)",
+      "knsb_relatienummer": 9169897,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169897"
+    },
+    "2474500": {
+      "name": "Brouwer, J. (Jessmay)",
+      "knsb_relatienummer": 9169930,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169930"
+    },
+    "name:David Tsoy": {
+      "name": "David Tsoy",
+      "knsb_relatienummer": 8943517,
+      "knsb_classic": 1769,
+      "knsb_rapid": 1769,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8943517"
+    },
+    "name:Rink Huizinga": {
+      "name": "Rink Huizinga",
+      "knsb_relatienummer": 9075506,
+      "knsb_classic": 1668,
+      "knsb_rapid": 1750,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9075506"
+    },
+    "name:Luke Ribeiro de Silvio": {
+      "name": "Luke Ribeiro de Silvio",
+      "knsb_relatienummer": 9104656,
+      "knsb_classic": 1526,
+      "knsb_rapid": 1690,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9104656"
+    },
+    "name:Philip Hommes": {
+      "name": "Philip Hommes",
+      "knsb_relatienummer": 9147655,
+      "knsb_rapid": 1362,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9147655"
+    },
+    "name:Olivier van der Ploeg": {
+      "name": "Olivier van der Ploeg",
+      "knsb_relatienummer": 9128416,
+      "knsb_rapid": 1245,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9128416"
+    },
+    "name:Felix Sandelowsky": {
+      "name": "Felix Sandelowsky",
+      "knsb_relatienummer": 9107230,
+      "knsb_rapid": 1532,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9107230"
+    },
+    "name:Florian Scherpenzeel": {
+      "name": "Florian Scherpenzeel",
+      "knsb_relatienummer": 9053704,
+      "knsb_rapid": 1259,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9053704"
+    },
+    "name:Luke Veldtman": {
+      "name": "Luke Veldtman",
+      "knsb_relatienummer": 9170469,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170469"
+    },
+    "name:Mees Geraeds": {
+      "name": "Mees Geraeds",
+      "knsb_relatienummer": 9170480,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170480"
+    },
+    "name:Sven Mulder": {
+      "name": "Sven Mulder",
+      "knsb_relatienummer": 9069731,
+      "knsb_rapid": 1643,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9069731"
+    },
+    "name:Joris Bakker": {
+      "name": "Joris Bakker",
+      "knsb_relatienummer": 8960699,
+      "knsb_rapid": 1571,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8960699"
+    },
+    "name:Thijs ten Dam": {
+      "name": "Thijs ten Dam",
+      "knsb_relatienummer": 8998770,
+      "knsb_classic": 1465,
+      "knsb_rapid": 1540,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8998770"
+    },
+    "name:Milan Koops": {
+      "name": "Milan Koops",
+      "knsb_relatienummer": 9054969,
+      "knsb_rapid": 1265,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9054969"
+    },
+    "name:Thomas Gelling": {
+      "name": "Thomas Gelling",
+      "knsb_relatienummer": 9152825,
+      "knsb_rapid": 1184,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9152825"
+    },
+    "name:Krishnah Karthikeyan": {
+      "name": "Krishnah Karthikeyan",
+      "knsb_relatienummer": 9023157,
+      "knsb_rapid": 1580,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9023157"
+    },
+    "name:Nibhish Gupta": {
+      "name": "Nibhish Gupta",
+      "knsb_relatienummer": 9056762,
+      "knsb_rapid": 1244,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9056762"
+    },
+    "name:Devansh Sai Bonela": {
+      "name": "Devansh Sai Bonela",
+      "knsb_relatienummer": 9034245,
+      "knsb_rapid": 1171,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9034245"
+    },
+    "name:Sri Ashwanth Senthil": {
+      "name": "Sri Ashwanth Senthil",
+      "knsb_relatienummer": 9169380,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169380"
+    },
+    "name:Vedanth Gautaman": {
+      "name": "Vedanth Gautaman",
+      "knsb_relatienummer": 9129956,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9129956"
+    },
+    "name:Dani Deibert": {
+      "name": "Dani Deibert",
+      "knsb_relatienummer": 9119165,
+      "knsb_rapid": 1349,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9119165"
+    },
+    "name:Art Schotsman": {
+      "name": "Art Schotsman",
+      "knsb_relatienummer": 9119176,
+      "knsb_rapid": 1007,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9119176"
+    },
+    "name:Ishan Raman": {
+      "name": "Ishan Raman",
+      "knsb_relatienummer": 9003500,
+      "knsb_rapid": 1202,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9003500"
+    },
+    "name:Navin Raman": {
+      "name": "Navin Raman",
+      "knsb_relatienummer": 9020770,
+      "knsb_rapid": 859,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9020770"
+    },
+    "name:Thije Folkers": {
+      "name": "Thije Folkers",
+      "knsb_relatienummer": 9047797,
+      "knsb_rapid": 720,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9047797"
+    },
+    "name:Aiden Lee": {
+      "name": "Aiden Lee",
+      "knsb_relatienummer": 9120353,
+      "knsb_rapid": 1640,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9120353"
+    },
+    "name:Shakya Chatterjee": {
+      "name": "Shakya Chatterjee",
+      "knsb_relatienummer": 8978486,
+      "knsb_rapid": 1331,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8978486"
+    },
+    "name:Mahatej Reddy Yanamala": {
+      "name": "Mahatej Reddy Yanamala",
+      "knsb_relatienummer": 9097341,
+      "knsb_classic": 1328,
+      "knsb_rapid": 1286,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9097341"
+    },
+    "name:Zuhair Khan": {
+      "name": "Zuhair Khan",
+      "knsb_relatienummer": 9115788,
+      "knsb_rapid": 1212,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9115788"
+    },
+    "name:Melvin Mariappan": {
+      "name": "Melvin Mariappan",
+      "knsb_relatienummer": 9054540,
+      "knsb_classic": 1575,
+      "knsb_rapid": 1718,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9054540"
+    },
+    "name:Michael Ududenko": {
+      "name": "Michael Ududenko",
+      "knsb_relatienummer": 9018944,
+      "knsb_rapid": 1441,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9018944"
+    },
+    "name:Kimon Retsina": {
+      "name": "Kimon Retsina",
+      "knsb_relatienummer": 9076397,
+      "knsb_rapid": 1248,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9076397"
+    },
+    "name:Stanislaw Sobieszczyk": {
+      "name": "Stanislaw Sobieszczyk",
+      "knsb_relatienummer": 9166949,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9166949"
+    },
+    "name:Maxim Pijls": {
+      "name": "Maxim Pijls",
+      "knsb_relatienummer": 9130209,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9130209"
+    },
+    "name:Olav Schuls": {
+      "name": "Olav Schuls",
+      "knsb_relatienummer": 8999991,
+      "knsb_classic": 1653,
+      "knsb_rapid": 1750,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8999991"
+    },
+    "name:Jonah Nieuwenhuis": {
+      "name": "Jonah Nieuwenhuis",
+      "knsb_relatienummer": 9039052,
+      "knsb_rapid": 1445,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9039052"
+    },
+    "name:Nils Schuls": {
+      "name": "Nils Schuls",
+      "knsb_relatienummer": 8999980,
+      "knsb_rapid": 1256,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8999980"
+    },
+    "name:EfraÃ¯m Langbroek": {
+      "name": "EfraÃ¯m Langbroek"
+    },
+    "name:Rens Katoele": {
+      "name": "Rens Katoele",
+      "knsb_relatienummer": 9169666,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169666"
+    },
+    "name:Ahmet Ertekin": {
+      "name": "Ahmet Ertekin",
+      "knsb_relatienummer": 8953087,
+      "knsb_rapid": 1609,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8953087"
+    },
+    "name:Baris Uzay Koc": {
+      "name": "Baris Uzay Koc",
+      "knsb_relatienummer": 8953120,
+      "knsb_rapid": 1573,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8953120"
+    },
+    "name:Ibrahim Bozkurt": {
+      "name": "Ibrahim Bozkurt",
+      "knsb_relatienummer": 9054727,
+      "knsb_rapid": 1516,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9054727"
+    },
+    "name:Myra Dang": {
+      "name": "Myra Dang",
+      "knsb_relatienummer": 9068015,
+      "knsb_classic": 1356,
+      "knsb_rapid": 1289,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9068015"
+    },
+    "name:Atay Dolu": {
+      "name": "Atay Dolu",
+      "knsb_relatienummer": 8953076,
+      "knsb_rapid": 1106,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8953076"
+    },
+    "name:Yicheng Wang": {
+      "name": "Yicheng Wang",
+      "knsb_relatienummer": 9007757,
+      "knsb_classic": 1871,
+      "knsb_rapid": 1939,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9007757"
+    },
+    "name:Vincent Kats": {
+      "name": "Vincent Kats",
+      "knsb_relatienummer": 9039613,
+      "knsb_rapid": 1198,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9039613"
+    },
+    "name:Alessio Terheggen": {
+      "name": "Alessio Terheggen",
+      "knsb_relatienummer": 9104370,
+      "knsb_rapid": 1209,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9104370"
+    },
+    "name:Pippa Kessen": {
+      "name": "Pippa Kessen",
+      "knsb_relatienummer": 9039591,
+      "knsb_rapid": 1032,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9039591"
+    },
+    "name:Milo Lipshen": {
+      "name": "Milo Lipshen",
+      "knsb_relatienummer": 9169490,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169490"
+    },
+    "name:Advaith Mahesh": {
+      "name": "Advaith Mahesh",
+      "knsb_relatienummer": 9033739,
+      "knsb_rapid": 1377,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9033739"
+    },
+    "name:Jari Greven": {
+      "name": "Jari Greven",
+      "knsb_relatienummer": 9170117,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170117"
+    },
+    "name:Mik Spanjerberg": {
+      "name": "Mik Spanjerberg",
+      "knsb_relatienummer": 9170128,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170128"
+    },
+    "name:Aaryan Dhanokar": {
+      "name": "Aaryan Dhanokar",
+      "knsb_relatienummer": 9087606,
+      "knsb_rapid": 809,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9087606"
+    },
+    "name:Casper Moeri": {
+      "name": "Casper Moeri",
+      "knsb_relatienummer": 8840073,
+      "knsb_classic": 1813,
+      "knsb_rapid": 1945,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8840073"
+    },
+    "name:Silvester van Schooneveld": {
+      "name": "Silvester van Schooneveld",
+      "knsb_relatienummer": 8928821,
+      "knsb_rapid": 1355,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8928821"
+    },
+    "name:Pim Gaarlandt": {
+      "name": "Pim Gaarlandt",
+      "knsb_relatienummer": 8919702,
+      "knsb_rapid": 1241,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8919702"
+    },
+    "name:Fabian van Schooneveld": {
+      "name": "Fabian van Schooneveld",
+      "knsb_relatienummer": 9023619,
+      "knsb_rapid": 1049,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9023619"
+    },
+    "name:Chantal de Boer": {
+      "name": "Chantal de Boer",
+      "knsb_relatienummer": 9056751,
+      "knsb_classic": 1285,
+      "knsb_rapid": 1580,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9056751"
+    },
+    "name:Doutzen Wijnsma": {
+      "name": "Doutzen Wijnsma",
+      "knsb_relatienummer": 9066904,
+      "knsb_rapid": 1225,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9066904"
+    },
+    "name:Emma Rozendal": {
+      "name": "Emma Rozendal",
+      "knsb_relatienummer": 9066915,
+      "knsb_rapid": 1055,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9066915"
+    },
+    "name:Shanne Battenberg": {
+      "name": "Shanne Battenberg",
+      "knsb_relatienummer": 9014093,
+      "knsb_rapid": 1014,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9014093"
+    },
+    "name:Bente Kommerie": {
+      "name": "Bente Kommerie",
+      "knsb_relatienummer": 9056080,
+      "knsb_rapid": 776,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9056080"
+    },
+    "name:Ralph Sand": {
+      "name": "Ralph Sand",
+      "knsb_relatienummer": 7291328,
+      "knsb_classic": 1732,
+      "knsb_rapid": 1683,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/7291328"
+    },
+    "name:Yeshas Kollareddy": {
+      "name": "Yeshas Kollareddy",
+      "knsb_relatienummer": 9021430,
+      "knsb_rapid": 1604,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9021430"
+    },
+    "name:Ekansh Agrawal": {
+      "name": "Ekansh Agrawal",
+      "knsb_relatienummer": 9027601,
+      "knsb_rapid": 1164,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9027601"
+    },
+    "name:Denis Zmovik": {
+      "name": "Denis Zmovik",
+      "knsb_relatienummer": 9169633,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169633"
+    },
+    "name:Hriday Prajapati": {
+      "name": "Hriday Prajapati",
+      "knsb_relatienummer": 8936224,
+      "knsb_rapid": 922,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8936224"
+    },
+    "name:Leano Kankonkar": {
+      "name": "Leano Kankonkar",
+      "knsb_relatienummer": 9111575,
+      "knsb_rapid": 1402,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9111575"
+    },
+    "name:Raphael van der Plas": {
+      "name": "Raphael van der Plas"
+    },
+    "name:Jonah van der Plas": {
+      "name": "Jonah van der Plas"
+    },
+    "name:Dima Vasilev": {
+      "name": "Dima Vasilev",
+      "knsb_relatienummer": 9168819,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9168819"
+    },
+    "name:Ella Hermans": {
+      "name": "Ella Hermans",
+      "knsb_relatienummer": 9029449,
+      "knsb_classic": 1361,
+      "knsb_rapid": 1387,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9029449"
+    },
+    "name:Sam Zhang": {
+      "name": "Sam Zhang",
+      "knsb_relatienummer": 9171030,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9171030"
+    },
+    "name:Sander Ãzdemir": {
+      "name": "Sander Ãzdemir"
+    },
+    "name:Jesse van Dijk": {
+      "name": "Jesse van Dijk",
+      "knsb_relatienummer": 8924355,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8924355"
+    },
+    "name:Tobias Urban": {
+      "name": "Tobias Urban",
+      "knsb_relatienummer": 8969455,
+      "knsb_classic": 1616,
+      "knsb_rapid": 1664,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8969455"
+    },
+    "name:Joas van der Kooij": {
+      "name": "Joas van der Kooij",
+      "knsb_relatienummer": 8974823,
+      "knsb_rapid": 1277,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8974823"
+    },
+    "name:Levi de Jong": {
+      "name": "Levi de Jong",
+      "knsb_relatienummer": 8999705,
+      "knsb_rapid": 1213,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8999705"
+    },
+    "name:Hugo van Wingerden": {
+      "name": "Hugo van Wingerden"
+    },
+    "name:Twan Hallema": {
+      "name": "Twan Hallema",
+      "knsb_relatienummer": 8983359,
+      "knsb_rapid": 1293,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8983359"
+    },
+    "name:Maxim Bezemer": {
+      "name": "Maxim Bezemer",
+      "knsb_relatienummer": 9038887,
+      "knsb_rapid": 1124,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9038887"
+    },
+    "name:Samgar Steeds": {
+      "name": "Samgar Steeds",
+      "knsb_relatienummer": 8983370,
+      "knsb_rapid": 1178,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8983370"
+    },
+    "name:Elon Steeds": {
+      "name": "Elon Steeds",
+      "knsb_relatienummer": 8983381,
+      "knsb_rapid": 744,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8983381"
+    },
+    "name:LouaÃ¯ el Adouli": {
+      "name": "LouaÃ¯ el Adouli"
+    },
+    "name:Olaf van Dijk": {
+      "name": "Olaf van Dijk",
+      "knsb_relatienummer": 9129934,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9129934"
+    },
+    "name:Qinzhi Lam": {
+      "name": "Qinzhi Lam",
+      "knsb_relatienummer": 8992863,
+      "knsb_rapid": 1014,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8992863"
+    },
+    "name:Merijn Vermeulen": {
+      "name": "Merijn Vermeulen",
+      "knsb_relatienummer": 9170392,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170392"
+    },
+    "name:Tabe van den Berg": {
+      "name": "Tabe van den Berg",
+      "knsb_relatienummer": 9159645,
+      "knsb_rapid": 1172,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9159645"
+    },
+    "name:Jip Poppelaars": {
+      "name": "Jip Poppelaars",
+      "knsb_relatienummer": 8951954,
+      "knsb_rapid": 1215,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8951954"
+    },
+    "name:Jona Vollmer": {
+      "name": "Jona Vollmer"
+    },
+    "name:Jasper den Hartog": {
+      "name": "Jasper den Hartog",
+      "knsb_relatienummer": 9149591,
+      "knsb_rapid": 870,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9149591"
+    },
+    "name:Max Linders": {
+      "name": "Max Linders",
+      "knsb_relatienummer": 9166553,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9166553"
+    },
+    "name:Victor Carmona Galicia": {
+      "name": "Victor Carmona Galicia",
+      "knsb_relatienummer": 8908207,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/8908207"
+    },
+    "name:Nicole Strelbitskaia": {
+      "name": "Nicole Strelbitskaia",
+      "knsb_relatienummer": 9000420,
+      "knsb_rapid": 1012,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9000420"
+    },
+    "name:Kees Spaan": {
+      "name": "Kees Spaan",
+      "knsb_relatienummer": 9169688,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169688"
+    },
+    "name:Max Sablerolle": {
+      "name": "Max Sablerolle",
+      "knsb_relatienummer": 9169699,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169699"
+    },
+    "name:Werner Meinsma": {
+      "name": "Werner Meinsma",
+      "knsb_relatienummer": 9056102,
+      "knsb_rapid": 1127,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9056102"
+    },
+    "name:Ruben Kingma": {
+      "name": "Ruben Kingma",
+      "knsb_relatienummer": 9115337,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9115337"
+    },
+    "name:Jens van der Hoek": {
+      "name": "Jens van der Hoek",
+      "knsb_relatienummer": 9147105,
+      "knsb_rapid": 944,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9147105"
+    },
+    "name:Jarne van der Hoek": {
+      "name": "Jarne van der Hoek",
+      "knsb_relatienummer": 9147116,
+      "knsb_rapid": 815,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9147116"
+    },
+    "name:Merijn Westra": {
+      "name": "Merijn Westra",
+      "knsb_relatienummer": 9100795,
+      "knsb_rapid": 797,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9100795"
+    },
+    "name:Laurens Meinsma": {
+      "name": "Laurens Meinsma",
+      "knsb_relatienummer": 9147127,
+      "knsb_rapid": 793,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9147127"
+    },
+    "name:Lieuwe van der Veldt": {
+      "name": "Lieuwe van der Veldt",
+      "knsb_relatienummer": 9169512,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169512"
+    },
+    "name:Jenthe Michels": {
+      "name": "Jenthe Michels",
+      "knsb_relatienummer": 9169523,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169523"
+    },
+    "name:Metel Kesete Shimendi": {
+      "name": "Metel Kesete Shimendi"
+    },
+    "name:Sylvester van der Veldt": {
+      "name": "Sylvester van der Veldt",
+      "knsb_relatienummer": 9169534,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9169534"
+    },
+    "name:Bjorn Veenstra": {
+      "name": "Bjorn Veenstra",
+      "knsb_relatienummer": 9171118,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9171118"
+    },
+    "name:Kerem Sener": {
+      "name": "Kerem Sener",
+      "knsb_relatienummer": 9119209,
+      "knsb_rapid": 1066,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9119209"
+    },
+    "name:Kerim GÃ¶kalp": {
+      "name": "Kerim GÃ¶kalp"
+    },
+    "name:Erdogan Topac": {
+      "name": "Erdogan Topac",
+      "knsb_relatienummer": 9170337,
+      "ratingviewer_url": "https://ratingviewer.nl/lists/181/players/9170337"
+    },
+    "name:Ensar GÃ¶kalp": {
+      "name": "Ensar GÃ¶kalp"
+    }
+  },
+  "overrides": {
+    "-1": {
+      "resolved_name": "Bram ten Dam",
+      "relatienummer": 8975340
+    }
+  }
+}
