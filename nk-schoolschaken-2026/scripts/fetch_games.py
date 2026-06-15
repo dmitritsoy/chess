@@ -35,6 +35,13 @@ PARSER_BY_SEMIFINAL = {
 }
 
 
+def semifinal_teams_for_games(tournament: dict[str, Any], semifinal: dict[str, Any]) -> list[dict[str, Any]]:
+    limit = tournament.get("qualifiers_per_semifinal", 8)
+    teams = [team for team in semifinal.get("teams", []) if team.get("qualified")]
+    teams.sort(key=lambda team: team.get("rank") or 999)
+    return teams[:limit]
+
+
 def fetch_html(session: requests.Session, url: str) -> str:
     time.sleep(REQUEST_DELAY)
     headers = {
@@ -88,12 +95,17 @@ def copy_games_by_name(source_team: dict, target_team: dict) -> None:
 
 def enrich_tournament(tournament: dict, session: requests.Session) -> int:
     team_count = 0
+    qualifiers = tournament.get("qualifiers_per_semifinal", 8)
 
     for semifinal in tournament["semifinals"]:
         parser = PARSER_BY_SEMIFINAL.get(semifinal["id"], "knsb")
-        for index, team in enumerate(semifinal["teams"], start=1):
+        teams = semifinal_teams_for_games(tournament, semifinal)
+        for index, team in enumerate(teams, start=1):
             team_count += 1
-            print(f"  [{semifinal['id']}] {team['name']} ({index}/{len(semifinal['teams'])})")
+            print(
+                f"  [{semifinal['id']}] {team['name']} "
+                f"({index}/{len(teams)} top-{qualifiers})"
+            )
             if parser == "knsb":
                 raw_games = fetch_knsb_team_games(session, team)
             else:
@@ -130,7 +142,13 @@ def main() -> int:
         return 1
 
     tournament = json.loads(args.input.read_text(encoding="utf-8"))
-    print(f"Fetching games for {len(tournament['finalists'])} finalist teams...")
+    per_semifinal = tournament.get("qualifiers_per_semifinal", 8)
+    semifinal_count = len(tournament.get("semifinals", []))
+    teams_to_fetch = per_semifinal * semifinal_count
+    print(
+        f"Fetching games for top {per_semifinal} teams per semifinal "
+        f"({teams_to_fetch} teams total)..."
+    )
 
     session = requests.Session()
     team_count = enrich_tournament(tournament, session)

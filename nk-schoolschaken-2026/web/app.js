@@ -98,10 +98,15 @@ function mergeRatings(tournament, ratings) {
 }
 
 function formatPlayerName(player) {
+  let name = player.name;
   if (player.resolved_name && player.name !== player.resolved_name) {
-    return `${player.name} (${player.resolved_name})`;
+    name = `${player.name} (${player.resolved_name})`;
   }
-  return player.name;
+  const rating = formatPlayerRating(player);
+  if (rating !== "—") {
+    name = `${name} (${rating})`;
+  }
+  return name;
 }
 
 async function loadData() {
@@ -138,16 +143,6 @@ function formatRating(value) {
   return value == null ? "—" : String(Math.round(value));
 }
 
-function formatKlassiekRapid(classic, rapid) {
-  if (classic != null) {
-    return `${formatRating(classic)}/${formatRating(rapid)}`;
-  }
-  if (rapid != null) {
-    return formatRating(rapid);
-  }
-  return "—";
-}
-
 function playerBestRating(player) {
   const ratings = [player.knsb_classic, player.knsb_rapid, player.rating].filter(
     (value) => value != null
@@ -178,8 +173,16 @@ function summaryBestRating(summaryTeams) {
 }
 
 function formatPlayerRating(player) {
+  const best = playerBestRating(player);
+  return best == null ? "—" : formatRating(best);
+}
+
+function formatPlayerRatingDetail(player) {
   if (player.knsb_classic != null || player.knsb_rapid != null) {
-    return formatKlassiekRapid(player.knsb_classic, player.knsb_rapid);
+    if (player.knsb_classic != null) {
+      return `${formatRating(player.knsb_classic)}/${formatRating(player.knsb_rapid)}`;
+    }
+    return formatRating(player.knsb_rapid);
   }
   if (player.rating != null) {
     return formatRating(player.rating);
@@ -227,10 +230,16 @@ function gamePoints(game) {
 }
 
 function formatScoreToken(value) {
-  if (value === 0.5) {
+  const rounded = Math.round(value * 2) / 2;
+  const whole = Math.floor(rounded);
+  const hasHalf = Math.abs(rounded - whole - 0.5) < 1e-9;
+  if (whole === 0 && hasHalf) {
     return "½";
   }
-  return String(Math.round(value));
+  if (hasHalf) {
+    return `${whole}½`;
+  }
+  return String(whole);
 }
 
 function formatBoardScore(game) {
@@ -240,6 +249,29 @@ function formatBoardScore(game) {
   const whiteScore = isWhite ? our : opp;
   const blackScore = isWhite ? opp : our;
   return `${formatScoreToken(whiteScore)}:${formatScoreToken(blackScore)}`;
+}
+
+function computeMatchPoints(match) {
+  let our = 0;
+  let opp = 0;
+  for (const { game } of match.boards) {
+    const points = gamePoints(game);
+    our += points;
+    opp += points === 1 ? 0 : points === 0 ? 1 : 0.5;
+  }
+  return { our, opp };
+}
+
+function matchScoreClass(match) {
+  const { our, opp } = computeMatchPoints(match);
+  if (our > opp) return "game-result-win";
+  if (our < opp) return "game-result-loss";
+  return "game-result-draw";
+}
+
+function formatMatchScore(match) {
+  const { our, opp } = computeMatchPoints(match);
+  return `<span class="game-result ${matchScoreClass(match)}">${formatScoreToken(our)}:${formatScoreToken(opp)}</span>`;
 }
 
 function formatBoardPlayers(game, player) {
@@ -295,12 +327,17 @@ function renderTeamGames(team) {
         index === 0
           ? `<td class="match-meta" rowspan="${boardCount}">${match.opponentTeam}</td>`
           : "";
+      const scoreCell =
+        index === 0
+          ? `<td class="num match-meta" rowspan="${boardCount}">${formatMatchScore(match)}</td>`
+          : "";
       return `
         <tr>
           ${roundCell}
           ${opponentCell}
+          ${scoreCell}
           <td>${formatBoardPlayers(game, player)}</td>
-          <td class="num">${formatBoardScore(game)}</td>
+          <td class="num">${formatBoardScoreResult(game)}</td>
         </tr>
       `;
     });
@@ -313,6 +350,7 @@ function renderTeamGames(team) {
         <tr>
           <th>Ronde</th>
           <th>Tegen</th>
+          <th>Stand</th>
           <th>Partij</th>
           <th>Uitslag</th>
         </tr>
@@ -465,7 +503,6 @@ function renderTeamCard(team) {
                 <button type="button" class="link-button player-preview-link" data-player-index="${index}">
                   ${formatPlayerName(player)}
                 </button>
-                <span class="rating">${formatPlayerRating(player)}</span>
               </li>
             `
           )
@@ -484,6 +521,10 @@ function gameResultClass(game) {
 function formatGameResult(game) {
   const label = game.result ?? "—";
   return `<span class="game-result ${gameResultClass(game)}">${label}</span>`;
+}
+
+function formatBoardScoreResult(game) {
+  return `<span class="game-result ${gameResultClass(game)}">${formatBoardScore(game)}</span>`;
 }
 
 function formatGameColor(game) {
@@ -513,10 +554,12 @@ function renderPlayerLinks(player) {
 }
 
 function formatOpponentName(opponent) {
-  if (!findPlayerByName(opponent)) {
+  const match = findPlayerByName(opponent);
+  if (!match) {
     return opponent;
   }
-  return `<button type="button" class="link-button opponent-link">${opponent}</button>`;
+  const escaped = opponent.replace(/"/g, "&quot;");
+  return `<button type="button" class="link-button opponent-link" data-player-name="${escaped}">${formatPlayerName(match.player)}</button>`;
 }
 
 function renderPlayerGames(player) {
@@ -559,7 +602,7 @@ function wireOpponentLinks() {
   modalBody.querySelectorAll(".opponent-link").forEach((link) => {
     link.addEventListener("click", (event) => {
       event.stopPropagation();
-      const match = findPlayerByName(link.textContent.trim());
+      const match = findPlayerByName(link.dataset.playerName);
       if (match) openPlayerModal(match.team, match.player);
     });
   });
@@ -570,7 +613,7 @@ function openPlayerModal(team, player) {
     <h2>${formatPlayerName(player)}</h2>
     <p class="muted">${team.name} · #${team.rank} in ${semifinalLabel(team)}</p>
     <p>
-      <strong>Rating:</strong> ${formatPlayerRating(player)}
+      <strong>Rating:</strong> ${formatPlayerRatingDetail(player)}
       · <strong>Score:</strong> ${formatPlayerRecord(player)}
     </p>
     ${renderPlayerLinks(player)}

@@ -88,6 +88,21 @@ def parse_round_number(value: str) -> int | None:
     return int(match.group(0)) if match else None
 
 
+def knsb_piece_color(cell) -> str:
+    """Netstand marks white pieces with a solid pawn (fas) and black with light (fal)."""
+    if cell is None:
+        return "black"
+    for icon in cell.find_all("i"):
+        classes = icon.get("class", [])
+        if "fa-chess-pawn" not in " ".join(classes):
+            continue
+        if "fas" in classes:
+            return "white"
+        if "fal" in classes:
+            return "black"
+    return "black"
+
+
 def knsb_parse_pairing(html: str, team_name: str) -> list[dict[str, Any]]:
     soup = BeautifulSoup(html, "html.parser")
     table = soup.find("table")
@@ -133,13 +148,13 @@ def knsb_parse_pairing(html: str, team_name: str) -> list[dict[str, Any]]:
             player_name = home_player
             opponent_name = away_player
             opponent_team = away_team
-            color = "white" if "fas" in cells[0].get("class", []) else "black"
+            color = knsb_piece_color(cells[0])
             result, points = player_result(home_score, away_score, True)
         else:
             player_name = away_player
             opponent_name = home_player
             opponent_team = home_team
-            color = "white" if "fas" in cells[3].get("class", []) else "black"
+            color = knsb_piece_color(cells[3])
             result, points = player_result(home_score, away_score, False)
 
         games.append(

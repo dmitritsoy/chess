@@ -57,7 +57,7 @@
                 {
                   "round": 3,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Aydinli, E. (Edin)",
                   "opponent_team": "GSV 2-Groningen",
                   "team_match": "GSV 2-Groningen - GSV 1-Groningen",
@@ -77,7 +77,7 @@
                 {
                   "round": 5,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Li, V. (Vince)",
                   "opponent_team": "Dick Bruna-Veldhoven",
                   "team_match": "Dick Bruna-Veldhoven - GSV 1-Groningen",
@@ -123,7 +123,7 @@
                 {
                   "round": 1,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Yerramilli, A. (Aisha)",
                   "opponent_team": "t Slingertouw-Eindhoven",
                   "team_match": "t Slingertouw-Eindhoven - GSV 1-Groningen",
@@ -153,7 +153,7 @@
                 {
                   "round": 4,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Jawahar, D. (Dhruvith)",
                   "opponent_team": "ISU 1 - Utrecht",
                   "team_match": "GSV 1-Groningen - ISU 1 - Utrecht",
@@ -163,7 +163,7 @@
                 {
                   "round": 6,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Zheng, Y. (Yu Huan)",
                   "opponent_team": "Talentencampus-Venlo",
                   "team_match": "GSV 1-Groningen - Talentencampus-Venlo",
@@ -173,7 +173,7 @@
                 {
                   "round": 7,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Chaudhuri, A. (Aarini)",
                   "opponent_team": "Salto International School -Eindhoven",
                   "team_match": "Salto International School -Eindhoven - GSV 1-Groningen",
@@ -209,7 +209,7 @@
                 {
                   "round": 2,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Hemanth Kumar, P. (Purvik)",
                   "opponent_team": "ISU 2 - Utrecht",
                   "team_match": "GSV 1-Groningen - ISU 2 - Utrecht",
@@ -219,7 +219,7 @@
                 {
                   "round": 3,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Broersma, C.G.A. (Carolina)",
                   "opponent_team": "GSV 2-Groningen",
                   "team_match": "GSV 2-Groningen - GSV 1-Groningen",
@@ -275,7 +275,7 @@
                 {
                   "round": 1,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Shi, T. (Terry)",
                   "opponent_team": "t Slingertouw-Eindhoven",
                   "team_match": "t Slingertouw-Eindhoven - GSV 1-Groningen",
@@ -305,7 +305,7 @@
                 {
                   "round": 5,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Aishu, A. (Aishu)",
                   "opponent_team": "Dick Bruna-Veldhoven",
                   "team_match": "Dick Bruna-Veldhoven - GSV 1-Groningen",
@@ -315,7 +315,7 @@
                 {
                   "round": 7,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Shiralkar, R. (Rudhra)",
                   "opponent_team": "Salto International School -Eindhoven",
                   "team_match": "Salto International School -Eindhoven - GSV 1-Groningen",
@@ -341,7 +341,7 @@
                 {
                   "round": 2,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Anand, S.R. (Saket Ram)",
                   "opponent_team": "ISU 2 - Utrecht",
                   "team_match": "GSV 1-Groningen - ISU 2 - Utrecht",
@@ -361,7 +361,7 @@
                 {
                   "round": 4,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Suthan, A. (Aadvik)",
                   "opponent_team": "ISU 1 - Utrecht",
                   "team_match": "GSV 1-Groningen - ISU 1 - Utrecht",
@@ -381,7 +381,7 @@
                 {
                   "round": 6,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Hoogt van der, T. (Timo)",
                   "opponent_team": "Talentencampus-Venlo",
                   "team_match": "GSV 1-Groningen - Talentencampus-Venlo",
@@ -417,7 +417,7 @@
                 {
                   "round": 1,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Hoogt van der, T. (Timo)",
                   "opponent_team": "Talentencampus-Venlo",
                   "team_match": "ISU 1 - Utrecht - Talentencampus-Venlo",
@@ -437,7 +437,7 @@
                 {
                   "round": 3,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Gok, S. (Sem)",
                   "opponent_team": "OBS de Windhoek- Almelo",
                   "team_match": "ISU 1 - Utrecht - OBS de Windhoek- Almelo",
@@ -445,9 +445,19 @@
                   "points": 1.0
                 },
                 {
-                  "round": 5,
+                  "round": 4,
                   "board": 1,
                   "color": "black",
+                  "opponent": "NO",
+                  "opponent_team": "GSV 1-Groningen",
+                  "team_match": "GSV 1-Groningen - ISU 1 - Utrecht",
+                  "result": "0-1",
+                  "points": 0.0
+                },
+                {
+                  "round": 5,
+                  "board": 1,
+                  "color": "white",
                   "opponent": "Banasihalli chetan Kum, V. (Vihaan)",
                   "opponent_team": "Rivers International 2-Arnhem",
                   "team_match": "ISU 1 - Utrecht - Rivers International 2-Arnhem",
@@ -467,7 +477,7 @@
                 {
                   "round": 7,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Sarathbabu, M. (Mrityunjay)",
                   "opponent_team": "GSV 2-Groningen",
                   "team_match": "ISU 1 - Utrecht - GSV 2-Groningen",
@@ -505,7 +515,7 @@
                 {
                   "round": 2,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Sobota, T. (Tytus)",
                   "opponent_team": "Montessori Zuid - Hilversum",
                   "team_match": "Montessori Zuid - Hilversum - ISU 1 - Utrecht",
@@ -525,7 +535,7 @@
                 {
                   "round": 4,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kudernac, T. (Theo)",
                   "opponent_team": "GSV 1-Groningen",
                   "team_match": "GSV 1-Groningen - ISU 1 - Utrecht",
@@ -545,7 +555,7 @@
                 {
                   "round": 6,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Lenselink, T. (Tom)",
                   "opponent_team": "Rivers International 1-Arnhem",
                   "team_match": "Rivers International 1-Arnhem - ISU 1 - Utrecht",
@@ -583,7 +593,7 @@
                 {
                   "round": 1,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Zheng, Y. (Yu Huan)",
                   "opponent_team": "Talentencampus-Venlo",
                   "team_match": "ISU 1 - Utrecht - Talentencampus-Venlo",
@@ -603,7 +613,7 @@
                 {
                   "round": 3,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Özkent, K. (Kaan)",
                   "opponent_team": "OBS de Windhoek- Almelo",
                   "team_match": "ISU 1 - Utrecht - OBS de Windhoek- Almelo",
@@ -623,7 +633,7 @@
                 {
                   "round": 5,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Zhang, J. (Jiaming)",
                   "opponent_team": "Rivers International 2-Arnhem",
                   "team_match": "ISU 1 - Utrecht - Rivers International 2-Arnhem",
@@ -643,7 +653,7 @@
                 {
                   "round": 7,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Roemers, L. (Lizenoor)",
                   "opponent_team": "GSV 2-Groningen",
                   "team_match": "ISU 1 - Utrecht - GSV 2-Groningen",
@@ -681,7 +691,7 @@
                 {
                   "round": 2,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kozlova, E. (Elizaveta)",
                   "opponent_team": "Montessori Zuid - Hilversum",
                   "team_match": "Montessori Zuid - Hilversum - ISU 1 - Utrecht",
@@ -701,7 +711,7 @@
                 {
                   "round": 4,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Dellen van, T. (Thijmen)",
                   "opponent_team": "GSV 1-Groningen",
                   "team_match": "GSV 1-Groningen - ISU 1 - Utrecht",
@@ -721,7 +731,7 @@
                 {
                   "round": 6,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kibe, S. (Sosuke)",
                   "opponent_team": "Rivers International 1-Arnhem",
                   "team_match": "Rivers International 1-Arnhem - ISU 1 - Utrecht",
@@ -786,7 +796,7 @@
                 {
                   "round": 2,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kievit, J.G.S. (Jaap)",
                   "opponent_team": "BS St Maartens-Voorburg",
                   "team_match": "Salto International School -Eindhoven - BS St Maartens-Voorburg",
@@ -806,7 +816,7 @@
                 {
                   "round": 4,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Gafurov, D. (Damir)",
                   "opponent_team": "Dick Bruna-Veldhoven",
                   "team_match": "Salto International School -Eindhoven - Dick Bruna-Veldhoven",
@@ -826,7 +836,7 @@
                 {
                   "round": 6,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kolah-Chi, K. (Kyan)",
                   "opponent_team": "Het Klinket-Arnhem",
                   "team_match": "Salto International School -Eindhoven - Het Klinket-Arnhem",
@@ -836,7 +846,7 @@
                 {
                   "round": 7,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kudernac, T. (Theo)",
                   "opponent_team": "GSV 1-Groningen",
                   "team_match": "Salto International School -Eindhoven - GSV 1-Groningen",
@@ -864,7 +874,7 @@
                 {
                   "round": 1,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Lenselink, T. (Tom)",
                   "opponent_team": "Rivers International 1-Arnhem",
                   "team_match": "Rivers International 1-Arnhem - Salto International School -Eindhoven",
@@ -884,7 +894,7 @@
                 {
                   "round": 3,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Wilts, J. (Jonathan)",
                   "opponent_team": "EKC De Olijfboom-Deventer",
                   "team_match": "EKC De Olijfboom-Deventer - Salto International School -Eindhoven",
@@ -904,7 +914,7 @@
                 {
                   "round": 5,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Aydinli, E. (Edin)",
                   "opponent_team": "GSV 2-Groningen",
                   "team_match": "GSV 2-Groningen - Salto International School -Eindhoven",
@@ -952,7 +962,7 @@
                 {
                   "round": 1,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kibe, S. (Sosuke)",
                   "opponent_team": "Rivers International 1-Arnhem",
                   "team_match": "Rivers International 1-Arnhem - Salto International School -Eindhoven",
@@ -972,7 +982,7 @@
                 {
                   "round": 3,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Wijhe van, D. (David)",
                   "opponent_team": "EKC De Olijfboom-Deventer",
                   "team_match": "EKC De Olijfboom-Deventer - Salto International School -Eindhoven",
@@ -992,7 +1002,7 @@
                 {
                   "round": 5,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Broersma, C.G.A. (Carolina)",
                   "opponent_team": "GSV 2-Groningen",
                   "team_match": "GSV 2-Groningen - Salto International School -Eindhoven",
@@ -1050,7 +1060,7 @@
                 {
                   "round": 2,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Grguric, K. (Kaya)",
                   "opponent_team": "BS St Maartens-Voorburg",
                   "team_match": "Salto International School -Eindhoven - BS St Maartens-Voorburg",
@@ -1070,7 +1080,7 @@
                 {
                   "round": 4,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kevin, K. (Kevin)",
                   "opponent_team": "Dick Bruna-Veldhoven",
                   "team_match": "Salto International School -Eindhoven - Dick Bruna-Veldhoven",
@@ -1090,7 +1100,7 @@
                 {
                   "round": 6,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Alagöz, R. (Roni)",
                   "opponent_team": "Het Klinket-Arnhem",
                   "team_match": "Salto International School -Eindhoven - Het Klinket-Arnhem",
@@ -1100,7 +1110,7 @@
                 {
                   "round": 7,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Ma, Y. (Yuan Li)",
                   "opponent_team": "GSV 1-Groningen",
                   "team_match": "Salto International School -Eindhoven - GSV 1-Groningen",
@@ -1145,7 +1155,7 @@
                 {
                   "round": 1,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Mutta, S. (Sevya Sonit)",
                   "opponent_team": "ISU 1 - Utrecht",
                   "team_match": "ISU 1 - Utrecht - Talentencampus-Venlo",
@@ -1165,7 +1175,7 @@
                 {
                   "round": 3,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Sathish Kumar, Y. (Yazhini)",
                   "opponent_team": "ISU 2 - Utrecht",
                   "team_match": "ISU 2 - Utrecht - Talentencampus-Venlo",
@@ -1185,7 +1195,7 @@
                 {
                   "round": 5,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Borsboom, F. (Frederik)",
                   "opponent_team": "BS St Maartens-Voorburg",
                   "team_match": "BS St Maartens-Voorburg - Talentencampus-Venlo",
@@ -1195,7 +1205,7 @@
                 {
                   "round": 6,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kudernac, T. (Theo)",
                   "opponent_team": "GSV 1-Groningen",
                   "team_match": "GSV 1-Groningen - Talentencampus-Venlo",
@@ -1243,7 +1253,7 @@
                 {
                   "round": 2,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Dharmadhikari, V. (Vivaan)",
                   "opponent_team": "De Gazelle-Arnhem",
                   "team_match": "Talentencampus-Venlo - De Gazelle-Arnhem",
@@ -1263,7 +1273,7 @@
                 {
                   "round": 4,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Çinar Sahin, A. (Aren)",
                   "opponent_team": "Rivers International 1-Arnhem",
                   "team_match": "Talentencampus-Venlo - Rivers International 1-Arnhem",
@@ -1293,7 +1303,7 @@
                 {
                   "round": 7,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Alobaid, Z. (Zahed)",
                   "opponent_team": "De Fortgens-Vooschoten",
                   "team_match": "Talentencampus-Venlo - De Fortgens-Vooschoten",
@@ -1331,7 +1341,7 @@
                 {
                   "round": 2,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Wolse, T.J. (Thomas)",
                   "opponent_team": "De Gazelle-Arnhem",
                   "team_match": "Talentencampus-Venlo - De Gazelle-Arnhem",
@@ -1351,7 +1361,7 @@
                 {
                   "round": 4,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Park, N. (Noah)",
                   "opponent_team": "Rivers International 1-Arnhem",
                   "team_match": "Talentencampus-Venlo - Rivers International 1-Arnhem",
@@ -1369,9 +1379,19 @@
                   "points": 1.0
                 },
                 {
-                  "round": 7,
+                  "round": 6,
                   "board": 1,
                   "color": "black",
+                  "opponent": "NO",
+                  "opponent_team": "GSV 1-Groningen",
+                  "team_match": "GSV 1-Groningen - Talentencampus-Venlo",
+                  "result": "0-1",
+                  "points": 0.0
+                },
+                {
+                  "round": 7,
+                  "board": 1,
+                  "color": "white",
                   "opponent": "Hoogendoorn, J. (Joris)",
                   "opponent_team": "De Fortgens-Vooschoten",
                   "team_match": "Talentencampus-Venlo - De Fortgens-Vooschoten",
@@ -1399,7 +1419,7 @@
                 {
                   "round": 1,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Suthan, A. (Asthik)",
                   "opponent_team": "ISU 1 - Utrecht",
                   "team_match": "ISU 1 - Utrecht - Talentencampus-Venlo",
@@ -1409,7 +1429,7 @@
                 {
                   "round": 3,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Sathish, A. (Adithya)",
                   "opponent_team": "ISU 2 - Utrecht",
                   "team_match": "ISU 2 - Utrecht - Talentencampus-Venlo",
@@ -1419,12 +1439,22 @@
                 {
                   "round": 5,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Borsboom, M. (Matthias)",
                   "opponent_team": "BS St Maartens-Voorburg",
                   "team_match": "BS St Maartens-Voorburg - Talentencampus-Venlo",
                   "result": "½-½",
                   "points": 0.5
+                },
+                {
+                  "round": 7,
+                  "board": 4,
+                  "color": "black",
+                  "opponent": "NO",
+                  "opponent_team": "De Fortgens-Vooschoten",
+                  "team_match": "Talentencampus-Venlo - De Fortgens-Vooschoten",
+                  "result": "1-0",
+                  "points": 1.0
                 }
               ],
               "points": 1.5,
@@ -1464,7 +1494,7 @@
                 {
                   "round": 6,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Ma, Y. (Yuan Li)",
                   "opponent_team": "GSV 1-Groningen",
                   "team_match": "GSV 1-Groningen - Talentencampus-Venlo",
@@ -1516,7 +1546,7 @@
                 {
                   "round": 2,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Helm van der, R. (Rogier)",
                   "opponent_team": "EKC De Olijfboom-Deventer",
                   "team_match": "Joseph Haydn-Groningen - EKC De Olijfboom-Deventer",
@@ -1536,7 +1566,7 @@
                 {
                   "round": 4,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Sarathbabu, M. (Mrityunjay)",
                   "opponent_team": "GSV 2-Groningen",
                   "team_match": "Joseph Haydn-Groningen - GSV 2-Groningen",
@@ -1566,7 +1596,7 @@
                 {
                   "round": 7,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Gok, S. (Sem)",
                   "opponent_team": "OBS de Windhoek- Almelo",
                   "team_match": "Joseph Haydn-Groningen - OBS de Windhoek- Almelo",
@@ -1594,7 +1624,7 @@
                 {
                   "round": 1,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Jain, R. (Reyaansh)",
                   "opponent_team": "Rivers International 2-Arnhem",
                   "team_match": "Rivers International 2-Arnhem - Joseph Haydn-Groningen",
@@ -1614,7 +1644,7 @@
                 {
                   "round": 4,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Roemers, L. (Lizenoor)",
                   "opponent_team": "GSV 2-Groningen",
                   "team_match": "Joseph Haydn-Groningen - GSV 2-Groningen",
@@ -1624,7 +1654,7 @@
                 {
                   "round": 5,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Huisken, T. (Tom)",
                   "opponent_team": "CBS de Ark - Zwolle",
                   "team_match": "CBS de Ark - Zwolle - Joseph Haydn-Groningen",
@@ -1634,7 +1664,7 @@
                 {
                   "round": 7,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Özkent, K. (Kaan)",
                   "opponent_team": "OBS de Windhoek- Almelo",
                   "team_match": "Joseph Haydn-Groningen - OBS de Windhoek- Almelo",
@@ -1660,7 +1690,7 @@
                 {
                   "round": 1,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Zhang, J. (Jiaming)",
                   "opponent_team": "Rivers International 2-Arnhem",
                   "team_match": "Rivers International 2-Arnhem - Joseph Haydn-Groningen",
@@ -1690,7 +1720,7 @@
                 {
                   "round": 5,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Beek van, L. (Lux)",
                   "opponent_team": "CBS de Ark - Zwolle",
                   "team_match": "CBS de Ark - Zwolle - Joseph Haydn-Groningen",
@@ -1700,7 +1730,7 @@
                 {
                   "round": 6,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Shi, T. (Terry)",
                   "opponent_team": "t Slingertouw-Eindhoven",
                   "team_match": "t Slingertouw-Eindhoven - Joseph Haydn-Groningen",
@@ -1747,7 +1777,7 @@
                 {
                   "round": 2,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Luppen, E. (Ezra)",
                   "opponent_team": "EKC De Olijfboom-Deventer",
                   "team_match": "Joseph Haydn-Groningen - EKC De Olijfboom-Deventer",
@@ -1757,7 +1787,7 @@
                 {
                   "round": 3,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kibe, S. (Sosuke)",
                   "opponent_team": "Rivers International 1-Arnhem",
                   "team_match": "Rivers International 1-Arnhem - Joseph Haydn-Groningen",
@@ -1814,7 +1844,7 @@
                 {
                   "round": 3,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Lenselink, T. (Tom)",
                   "opponent_team": "Rivers International 1-Arnhem",
                   "team_match": "Rivers International 1-Arnhem - Joseph Haydn-Groningen",
@@ -1834,7 +1864,7 @@
                 {
                   "round": 6,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Yerramilli, A. (Aisha)",
                   "opponent_team": "t Slingertouw-Eindhoven",
                   "team_match": "t Slingertouw-Eindhoven - Joseph Haydn-Groningen",
@@ -1897,7 +1927,7 @@
                 {
                   "round": 2,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Mulalic, A. (Amar)",
                   "opponent_team": "Het Jongleren - Arnhem",
                   "team_match": "Het Jongleren - Arnhem - Rivers International 1-Arnhem",
@@ -1917,7 +1947,7 @@
                 {
                   "round": 4,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Tran, O. (Olivier)",
                   "opponent_team": "Talentencampus-Venlo",
                   "team_match": "Talentencampus-Venlo - Rivers International 1-Arnhem",
@@ -1947,7 +1977,7 @@
                 {
                   "round": 7,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Anuk, R. (Rohat)",
                   "opponent_team": "Het Klinket-Arnhem",
                   "team_match": "Het Klinket-Arnhem - Rivers International 1-Arnhem",
@@ -1973,7 +2003,7 @@
                 {
                   "round": 1,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Karun, D. (Darshil)",
                   "opponent_team": "Salto International School -Eindhoven",
                   "team_match": "Rivers International 1-Arnhem - Salto International School -Eindhoven",
@@ -1993,7 +2023,7 @@
                 {
                   "round": 3,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Veluwenkamp, R. (Robin)",
                   "opponent_team": "Joseph Haydn-Groningen",
                   "team_match": "Rivers International 1-Arnhem - Joseph Haydn-Groningen",
@@ -2013,7 +2043,7 @@
                 {
                   "round": 5,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Bitterling, J. (Jones)",
                   "opponent_team": "Montessori Zuid - Hilversum",
                   "team_match": "Rivers International 1-Arnhem - Montessori Zuid - Hilversum",
@@ -2023,7 +2053,7 @@
                 {
                   "round": 6,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Jawahar, D. (Dhruvith)",
                   "opponent_team": "ISU 1 - Utrecht",
                   "team_match": "Rivers International 1-Arnhem - ISU 1 - Utrecht",
@@ -2069,7 +2099,7 @@
                 {
                   "round": 2,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Güven, A. (Arina)",
                   "opponent_team": "Het Jongleren - Arnhem",
                   "team_match": "Het Jongleren - Arnhem - Rivers International 1-Arnhem",
@@ -2089,7 +2119,7 @@
                 {
                   "round": 4,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Huys, M. (Marijn)",
                   "opponent_team": "Talentencampus-Venlo",
                   "team_match": "Talentencampus-Venlo - Rivers International 1-Arnhem",
@@ -2119,7 +2149,7 @@
                 {
                   "round": 7,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Le, L.V.C. (Lucas)",
                   "opponent_team": "Het Klinket-Arnhem",
                   "team_match": "Het Klinket-Arnhem - Rivers International 1-Arnhem",
@@ -2145,7 +2175,7 @@
                 {
                   "round": 1,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kokkula, A. (Advaith Krishna)",
                   "opponent_team": "Salto International School -Eindhoven",
                   "team_match": "Rivers International 1-Arnhem - Salto International School -Eindhoven",
@@ -2165,7 +2195,7 @@
                 {
                   "round": 3,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Boomhouwer, R. (Rens)",
                   "opponent_team": "Joseph Haydn-Groningen",
                   "team_match": "Rivers International 1-Arnhem - Joseph Haydn-Groningen",
@@ -2185,7 +2215,7 @@
                 {
                   "round": 5,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kozlov, T. (Timofei)",
                   "opponent_team": "Montessori Zuid - Hilversum",
                   "team_match": "Rivers International 1-Arnhem - Montessori Zuid - Hilversum",
@@ -2195,7 +2225,7 @@
                 {
                   "round": 6,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Suthan, A. (Aadvik)",
                   "opponent_team": "ISU 1 - Utrecht",
                   "team_match": "Rivers International 1-Arnhem - ISU 1 - Utrecht",
@@ -2258,7 +2288,7 @@
                 {
                   "round": 2,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Nair, P. (Pranav Prasobh)",
                   "opponent_team": "GSV 1-Groningen",
                   "team_match": "GSV 1-Groningen - ISU 2 - Utrecht",
@@ -2288,7 +2318,7 @@
                 {
                   "round": 5,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Le, L.V.C. (Lucas)",
                   "opponent_team": "Het Klinket-Arnhem",
                   "team_match": "Het Klinket-Arnhem - ISU 2 - Utrecht",
@@ -2298,7 +2328,7 @@
                 {
                   "round": 6,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Jain, R. (Reyaansh)",
                   "opponent_team": "Rivers International 2-Arnhem",
                   "team_match": "Rivers International 2-Arnhem - ISU 2 - Utrecht",
@@ -2335,7 +2365,7 @@
                 {
                   "round": 1,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Zulfaliev, E. (Emir)",
                   "opponent_team": "Oostwijzer Cygnus - Zoetermeer",
                   "team_match": "ISU 2 - Utrecht - Oostwijzer Cygnus - Zoetermeer",
@@ -2355,7 +2385,7 @@
                 {
                   "round": 3,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Zheng, Y. (Yu Huan)",
                   "opponent_team": "Talentencampus-Venlo",
                   "team_match": "ISU 2 - Utrecht - Talentencampus-Venlo",
@@ -2365,7 +2395,7 @@
                 {
                   "round": 4,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Smit, J. (Jozua)",
                   "opponent_team": "EKC De Olijfboom-Deventer",
                   "team_match": "ISU 2 - Utrecht - EKC De Olijfboom-Deventer",
@@ -2395,7 +2425,7 @@
                 {
                   "round": 7,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Vinod Kumar, S. (Sumrud)",
                   "opponent_team": "Het Jongleren - Arnhem",
                   "team_match": "ISU 2 - Utrecht - Het Jongleren - Arnhem",
@@ -2432,7 +2462,7 @@
                 {
                   "round": 2,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Dellen van, T. (Thijmen)",
                   "opponent_team": "GSV 1-Groningen",
                   "team_match": "GSV 1-Groningen - ISU 2 - Utrecht",
@@ -2452,7 +2482,7 @@
                 {
                   "round": 5,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Anuk, R. (Rohat)",
                   "opponent_team": "Het Klinket-Arnhem",
                   "team_match": "Het Klinket-Arnhem - ISU 2 - Utrecht",
@@ -2462,7 +2492,7 @@
                 {
                   "round": 6,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Zhang, J. (Jiaming)",
                   "opponent_team": "Rivers International 2-Arnhem",
                   "team_match": "Rivers International 2-Arnhem - ISU 2 - Utrecht",
@@ -2488,7 +2518,7 @@
                 {
                   "round": 1,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Sayar, H. (Hasan)",
                   "opponent_team": "Oostwijzer Cygnus - Zoetermeer",
                   "team_match": "ISU 2 - Utrecht - Oostwijzer Cygnus - Zoetermeer",
@@ -2496,9 +2526,19 @@
                   "points": 1.0
                 },
                 {
-                  "round": 3,
+                  "round": 2,
                   "board": 1,
                   "color": "black",
+                  "opponent": "NO",
+                  "opponent_team": "GSV 1-Groningen",
+                  "team_match": "GSV 1-Groningen - ISU 2 - Utrecht",
+                  "result": "0-1",
+                  "points": 0.0
+                },
+                {
+                  "round": 3,
+                  "board": 1,
+                  "color": "white",
                   "opponent": "Hoogt van der, T. (Timo)",
                   "opponent_team": "Talentencampus-Venlo",
                   "team_match": "ISU 2 - Utrecht - Talentencampus-Venlo",
@@ -2508,7 +2548,7 @@
                 {
                   "round": 4,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Helm van der, R. (Rogier)",
                   "opponent_team": "EKC De Olijfboom-Deventer",
                   "team_match": "ISU 2 - Utrecht - EKC De Olijfboom-Deventer",
@@ -2538,7 +2578,7 @@
                 {
                   "round": 7,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Singh, A. (Advait)",
                   "opponent_team": "Het Jongleren - Arnhem",
                   "team_match": "ISU 2 - Utrecht - Het Jongleren - Arnhem",
@@ -2625,7 +2665,7 @@
                 {
                   "round": 2,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kolah-Chi, K. (Kyan)",
                   "opponent_team": "Het Klinket-Arnhem",
                   "team_match": "GSV 2-Groningen - Het Klinket-Arnhem",
@@ -2635,7 +2675,7 @@
                 {
                   "round": 3,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "NO",
                   "opponent_team": "GSV 1-Groningen",
                   "team_match": "GSV 2-Groningen - GSV 1-Groningen",
@@ -2655,7 +2695,7 @@
                 {
                   "round": 5,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kokkula, A. (Advaith Krishna)",
                   "opponent_team": "Salto International School -Eindhoven",
                   "team_match": "GSV 2-Groningen - Salto International School -Eindhoven",
@@ -2703,7 +2743,7 @@
                 {
                   "round": 1,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Beek van, L. (Lux)",
                   "opponent_team": "CBS de Ark - Zwolle",
                   "team_match": "CBS de Ark - Zwolle - GSV 2-Groningen",
@@ -2733,7 +2773,7 @@
                 {
                   "round": 4,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Melle van, W. (Walden)",
                   "opponent_team": "Joseph Haydn-Groningen",
                   "team_match": "Joseph Haydn-Groningen - GSV 2-Groningen",
@@ -2753,7 +2793,7 @@
                 {
                   "round": 6,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Aishu, A. (Aishu)",
                   "opponent_team": "Dick Bruna-Veldhoven",
                   "team_match": "Dick Bruna-Veldhoven - GSV 2-Groningen",
@@ -2763,7 +2803,7 @@
                 {
                   "round": 7,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Suthan, A. (Asthik)",
                   "opponent_team": "ISU 1 - Utrecht",
                   "team_match": "ISU 1 - Utrecht - GSV 2-Groningen",
@@ -2791,7 +2831,7 @@
                 {
                   "round": 1,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Huisken, T. (Tom)",
                   "opponent_team": "CBS de Ark - Zwolle",
                   "team_match": "CBS de Ark - Zwolle - GSV 2-Groningen",
@@ -2821,7 +2861,7 @@
                 {
                   "round": 4,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Jansen, S.E.E. (Schelte)",
                   "opponent_team": "Joseph Haydn-Groningen",
                   "team_match": "Joseph Haydn-Groningen - GSV 2-Groningen",
@@ -2841,7 +2881,7 @@
                 {
                   "round": 6,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Li, V. (Vince)",
                   "opponent_team": "Dick Bruna-Veldhoven",
                   "team_match": "Dick Bruna-Veldhoven - GSV 2-Groningen",
@@ -2851,7 +2891,7 @@
                 {
                   "round": 7,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Mutta, S. (Sevya Sonit)",
                   "opponent_team": "ISU 1 - Utrecht",
                   "team_match": "ISU 1 - Utrecht - GSV 2-Groningen",
@@ -2889,7 +2929,7 @@
                 {
                   "round": 2,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Wisse, J. (Jens)",
                   "opponent_team": "Het Klinket-Arnhem",
                   "team_match": "GSV 2-Groningen - Het Klinket-Arnhem",
@@ -2899,7 +2939,7 @@
                 {
                   "round": 3,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Nair, P. (Pranav Prasobh)",
                   "opponent_team": "GSV 1-Groningen",
                   "team_match": "GSV 2-Groningen - GSV 1-Groningen",
@@ -2919,7 +2959,7 @@
                 {
                   "round": 5,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Karun, D. (Darshil)",
                   "opponent_team": "Salto International School -Eindhoven",
                   "team_match": "GSV 2-Groningen - Salto International School -Eindhoven",
@@ -8874,7 +8914,7 @@
                 {
                   "round": 1,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Rossem van, J. (Jules)",
                   "opponent_team": "De Tweesprong-Maarssen",
                   "team_match": "De Boschuil - Eindhoven - De Tweesprong-Maarssen",
@@ -8894,7 +8934,7 @@
                 {
                   "round": 3,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kuip van der, S. (Stefan)",
                   "opponent_team": "Bloemcamp Wassenaar",
                   "team_match": "De Boschuil - Eindhoven - Bloemcamp Wassenaar",
@@ -8904,7 +8944,7 @@
                 {
                   "round": 4,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Berveling, J. (Jethro)",
                   "opponent_team": "De Rank-Spijkenisse",
                   "team_match": "De Boschuil - Eindhoven - De Rank-Spijkenisse",
@@ -8934,7 +8974,7 @@
                 {
                   "round": 7,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Rietveld, A.H.J. (Alexander)",
                   "opponent_team": "Margrietschool - Woerden",
                   "team_match": "De Boschuil - Eindhoven - Margrietschool - Woerden",
@@ -8962,7 +9002,7 @@
                 {
                   "round": 1,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Ashmann, E. (Edin)",
                   "opponent_team": "De Tweesprong-Maarssen",
                   "team_match": "De Boschuil - Eindhoven - De Tweesprong-Maarssen",
@@ -8982,7 +9022,7 @@
                 {
                   "round": 3,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Bartels, T. (Tristan)",
                   "opponent_team": "Bloemcamp Wassenaar",
                   "team_match": "De Boschuil - Eindhoven - Bloemcamp Wassenaar",
@@ -8992,7 +9032,7 @@
                 {
                   "round": 4,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Sekowski, F. (Filip)",
                   "opponent_team": "De Rank-Spijkenisse",
                   "team_match": "De Boschuil - Eindhoven - De Rank-Spijkenisse",
@@ -9022,7 +9062,7 @@
                 {
                   "round": 7,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Vergeer, T.J. (Thijs)",
                   "opponent_team": "Margrietschool - Woerden",
                   "team_match": "De Boschuil - Eindhoven - Margrietschool - Woerden",
@@ -9060,7 +9100,7 @@
                 {
                   "round": 2,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Duit, A. (Alessio)",
                   "opponent_team": "HSV-Den Haag",
                   "team_match": "HSV-Den Haag - De Boschuil - Eindhoven",
@@ -9090,7 +9130,7 @@
                 {
                   "round": 5,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Basten-Batenburg van, T. (Timo)",
                   "opponent_team": "Bernard Lievegoed-Maastricht",
                   "team_match": "Bernard Lievegoed-Maastricht - De Boschuil - Eindhoven",
@@ -9100,7 +9140,7 @@
                 {
                   "round": 6,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Gruithuijzen, T. (Thijn)",
                   "opponent_team": "De Korenaar-Helmond",
                   "team_match": "De Korenaar-Helmond - De Boschuil - Eindhoven",
@@ -9148,7 +9188,7 @@
                 {
                   "round": 2,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Yang, Y. (Cheng-Yan Edgar)",
                   "opponent_team": "HSV-Den Haag",
                   "team_match": "HSV-Den Haag - De Boschuil - Eindhoven",
@@ -9178,7 +9218,7 @@
                 {
                   "round": 5,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Linnemann, L. (Lucas)",
                   "opponent_team": "Bernard Lievegoed-Maastricht",
                   "team_match": "Bernard Lievegoed-Maastricht - De Boschuil - Eindhoven",
@@ -9188,7 +9228,7 @@
                 {
                   "round": 6,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Leenen, B. (Bing)",
                   "opponent_team": "De Korenaar-Helmond",
                   "team_match": "De Korenaar-Helmond - De Boschuil - Eindhoven",
@@ -9253,7 +9293,7 @@
                 {
                   "round": 2,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Gruithuijzen, T. (Thijn)",
                   "opponent_team": "De Korenaar-Helmond",
                   "team_match": "De Korenaar-Helmond - Nutsschool Wassenaar",
@@ -9273,7 +9313,7 @@
                 {
                   "round": 4,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Toornman, B. (Bobbie)",
                   "opponent_team": "Jozefschool - Schiedam",
                   "team_match": "Jozefschool - Schiedam - Nutsschool Wassenaar",
@@ -9293,7 +9333,7 @@
                 {
                   "round": 6,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Duijn van, M.J. (Max)",
                   "opponent_team": "De Vogelenzang - Rotterdam",
                   "team_match": "De Vogelenzang - Rotterdam - Nutsschool Wassenaar",
@@ -9331,7 +9371,7 @@
                 {
                   "round": 1,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Weezepoel, S. (Sibbe)",
                   "opponent_team": "Theo Thijssen 1 - Vlissingen",
                   "team_match": "Nutsschool Wassenaar - Theo Thijssen 1 - Vlissingen",
@@ -9351,7 +9391,7 @@
                 {
                   "round": 3,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Aisola, L. (Leo)",
                   "opponent_team": "HSV-Den Haag",
                   "team_match": "Nutsschool Wassenaar - HSV-Den Haag",
@@ -9371,7 +9411,7 @@
                 {
                   "round": 5,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Vergeer, T.J. (Thijs)",
                   "opponent_team": "Margrietschool - Woerden",
                   "team_match": "Nutsschool Wassenaar - Margrietschool - Woerden",
@@ -9391,7 +9431,7 @@
                 {
                   "round": 7,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kuyululu, A.D. (Atlas Derya)",
                   "opponent_team": "Het Quadratum-Rotterdam",
                   "team_match": "Nutsschool Wassenaar - Het Quadratum-Rotterdam",
@@ -9429,7 +9469,7 @@
                 {
                   "round": 2,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Leenen, B. (Bing)",
                   "opponent_team": "De Korenaar-Helmond",
                   "team_match": "De Korenaar-Helmond - Nutsschool Wassenaar",
@@ -9449,7 +9489,7 @@
                 {
                   "round": 4,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Heuvel van den, T. (Thijmen)",
                   "opponent_team": "Jozefschool - Schiedam",
                   "team_match": "Jozefschool - Schiedam - Nutsschool Wassenaar",
@@ -9469,7 +9509,7 @@
                 {
                   "round": 6,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Duijn van, N.A. (Niels)",
                   "opponent_team": "De Vogelenzang - Rotterdam",
                   "team_match": "De Vogelenzang - Rotterdam - Nutsschool Wassenaar",
@@ -9507,7 +9547,7 @@
                 {
                   "round": 1,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Brunings, D. (Dani)",
                   "opponent_team": "Theo Thijssen 1 - Vlissingen",
                   "team_match": "Nutsschool Wassenaar - Theo Thijssen 1 - Vlissingen",
@@ -9527,7 +9567,7 @@
                 {
                   "round": 3,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Narasimhan, L. (Lakshay)",
                   "opponent_team": "HSV-Den Haag",
                   "team_match": "Nutsschool Wassenaar - HSV-Den Haag",
@@ -9547,7 +9587,7 @@
                 {
                   "round": 5,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Rietveld, A.H.J. (Alexander)",
                   "opponent_team": "Margrietschool - Woerden",
                   "team_match": "Nutsschool Wassenaar - Margrietschool - Woerden",
@@ -9567,7 +9607,7 @@
                 {
                   "round": 7,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Bhaskarabhatla, M. (Maithili Millie)",
                   "opponent_team": "Het Quadratum-Rotterdam",
                   "team_match": "Nutsschool Wassenaar - Het Quadratum-Rotterdam",
@@ -9622,7 +9662,7 @@
                 {
                   "round": 2,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Zhang, R.M. (Melody)",
                   "opponent_team": "t Karregat-Eindhoven",
                   "team_match": "Jozefschool - Schiedam - t Karregat-Eindhoven",
@@ -9642,7 +9682,7 @@
                 {
                   "round": 4,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Shen, D. (Daan)",
                   "opponent_team": "Nutsschool Wassenaar",
                   "team_match": "Jozefschool - Schiedam - Nutsschool Wassenaar",
@@ -9672,7 +9712,7 @@
                 {
                   "round": 7,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Rossem van, J. (Jules)",
                   "opponent_team": "De Tweesprong-Maarssen",
                   "team_match": "Jozefschool - Schiedam - De Tweesprong-Maarssen",
@@ -9700,7 +9740,7 @@
                 {
                   "round": 1,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Leeuwen van, W. (Wieger)",
                   "opponent_team": "Bloemcamp Wassenaar",
                   "team_match": "Bloemcamp Wassenaar - Jozefschool - Schiedam",
@@ -9720,7 +9760,7 @@
                 {
                   "round": 3,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Duijn van, M.J. (Max)",
                   "opponent_team": "De Vogelenzang - Rotterdam",
                   "team_match": "De Vogelenzang - Rotterdam - Jozefschool - Schiedam",
@@ -9740,7 +9780,7 @@
                 {
                   "round": 5,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Duit, A. (Alessio)",
                   "opponent_team": "HSV-Den Haag",
                   "team_match": "HSV-Den Haag - Jozefschool - Schiedam",
@@ -9750,7 +9790,7 @@
                 {
                   "round": 6,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Dorrestijn, T. (Tim)",
                   "opponent_team": "Margrietschool - Woerden",
                   "team_match": "Margrietschool - Woerden - Jozefschool - Schiedam",
@@ -9798,7 +9838,7 @@
                 {
                   "round": 2,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Roghair, T. (Tommie)",
                   "opponent_team": "t Karregat-Eindhoven",
                   "team_match": "Jozefschool - Schiedam - t Karregat-Eindhoven",
@@ -9818,7 +9858,7 @@
                 {
                   "round": 4,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Hany, A. (Adam)",
                   "opponent_team": "Nutsschool Wassenaar",
                   "team_match": "Jozefschool - Schiedam - Nutsschool Wassenaar",
@@ -9848,7 +9888,7 @@
                 {
                   "round": 7,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Ashmann, E. (Edin)",
                   "opponent_team": "De Tweesprong-Maarssen",
                   "team_match": "Jozefschool - Schiedam - De Tweesprong-Maarssen",
@@ -9876,7 +9916,7 @@
                 {
                   "round": 1,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Law, A. (Asher)",
                   "opponent_team": "Bloemcamp Wassenaar",
                   "team_match": "Bloemcamp Wassenaar - Jozefschool - Schiedam",
@@ -9896,7 +9936,7 @@
                 {
                   "round": 3,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Duijn van, N.A. (Niels)",
                   "opponent_team": "De Vogelenzang - Rotterdam",
                   "team_match": "De Vogelenzang - Rotterdam - Jozefschool - Schiedam",
@@ -9916,7 +9956,7 @@
                 {
                   "round": 5,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Yang, Y. (Cheng-Yan Edgar)",
                   "opponent_team": "HSV-Den Haag",
                   "team_match": "HSV-Den Haag - Jozefschool - Schiedam",
@@ -9926,7 +9966,7 @@
                 {
                   "round": 6,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Rietveld, C.E.D. (Charlotte)",
                   "opponent_team": "Margrietschool - Woerden",
                   "team_match": "Margrietschool - Woerden - Jozefschool - Schiedam",
@@ -9981,7 +10021,7 @@
                 {
                   "round": 1,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kornet, C. (Christian)",
                   "opponent_team": "Leonardo - Dordrecht",
                   "team_match": "Leonardo - Dordrecht - Margrietschool - Woerden",
@@ -10001,7 +10041,7 @@
                 {
                   "round": 3,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Treijtel, F. (Fynn)",
                   "opponent_team": "WOW - Rotterdam",
                   "team_match": "WOW - Rotterdam - Margrietschool - Woerden",
@@ -10021,7 +10061,7 @@
                 {
                   "round": 5,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Hany, H. (Harun)",
                   "opponent_team": "Nutsschool Wassenaar",
                   "team_match": "Nutsschool Wassenaar - Margrietschool - Woerden",
@@ -10041,7 +10081,7 @@
                 {
                   "round": 7,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Altay, C. (Cagan Deniz)",
                   "opponent_team": "De Boschuil - Eindhoven",
                   "team_match": "De Boschuil - Eindhoven - Margrietschool - Woerden",
@@ -10079,7 +10119,7 @@
                 {
                   "round": 2,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Zijlstra, Y. (Yannick)",
                   "opponent_team": "Het Quadratum-Rotterdam",
                   "team_match": "Margrietschool - Woerden - Het Quadratum-Rotterdam",
@@ -10099,7 +10139,7 @@
                 {
                   "round": 4,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Huynh, A. (Andy)",
                   "opponent_team": "De Vogelenzang - Rotterdam",
                   "team_match": "Margrietschool - Woerden - De Vogelenzang - Rotterdam",
@@ -10119,7 +10159,7 @@
                 {
                   "round": 6,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Ridder de, M. (Mels)",
                   "opponent_team": "Jozefschool - Schiedam",
                   "team_match": "Margrietschool - Woerden - Jozefschool - Schiedam",
@@ -10157,7 +10197,7 @@
                 {
                   "round": 1,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Poberer, L. (Luuk)",
                   "opponent_team": "Leonardo - Dordrecht",
                   "team_match": "Leonardo - Dordrecht - Margrietschool - Woerden",
@@ -10177,7 +10217,7 @@
                 {
                   "round": 3,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Chi, C.J.Q. (Chloë)",
                   "opponent_team": "WOW - Rotterdam",
                   "team_match": "WOW - Rotterdam - Margrietschool - Woerden",
@@ -10197,7 +10237,7 @@
                 {
                   "round": 5,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Shen, I. (Ian)",
                   "opponent_team": "Nutsschool Wassenaar",
                   "team_match": "Nutsschool Wassenaar - Margrietschool - Woerden",
@@ -10217,7 +10257,7 @@
                 {
                   "round": 7,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Jin, H. (Hongyi)",
                   "opponent_team": "De Boschuil - Eindhoven",
                   "team_match": "De Boschuil - Eindhoven - Margrietschool - Woerden",
@@ -10255,7 +10295,7 @@
                 {
                   "round": 2,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Bhaskarabhatla, M. (Maithili Millie)",
                   "opponent_team": "Het Quadratum-Rotterdam",
                   "team_match": "Margrietschool - Woerden - Het Quadratum-Rotterdam",
@@ -10275,7 +10315,7 @@
                 {
                   "round": 4,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Oruc, E. (Ediz)",
                   "opponent_team": "De Vogelenzang - Rotterdam",
                   "team_match": "Margrietschool - Woerden - De Vogelenzang - Rotterdam",
@@ -10295,7 +10335,7 @@
                 {
                   "round": 6,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Ridder de, D. (Dorian)",
                   "opponent_team": "Jozefschool - Schiedam",
                   "team_match": "Margrietschool - Woerden - Jozefschool - Schiedam",
@@ -10350,7 +10390,7 @@
                 {
                   "round": 1,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Ridder de, D. (Dorian)",
                   "opponent_team": "Jozefschool - Schiedam",
                   "team_match": "Bloemcamp Wassenaar - Jozefschool - Schiedam",
@@ -10380,7 +10420,7 @@
                 {
                   "round": 4,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Zhang, R.M. (Melody)",
                   "opponent_team": "t Karregat-Eindhoven",
                   "team_match": "Bloemcamp Wassenaar - t Karregat-Eindhoven",
@@ -10400,7 +10440,7 @@
                 {
                   "round": 6,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Hoenderop, R. (Rafael)",
                   "opponent_team": "De Tweemaster-Kameleon-Oost Souburg",
                   "team_match": "Bloemcamp Wassenaar - De Tweemaster-Kameleon-Oost Souburg",
@@ -10410,7 +10450,7 @@
                 {
                   "round": 7,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Leenen, P. (Pomme)",
                   "opponent_team": "De Korenaar-Helmond",
                   "team_match": "Bloemcamp Wassenaar - De Korenaar-Helmond",
@@ -10448,7 +10488,7 @@
                 {
                   "round": 2,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Velthuis, F. (Francis)",
                   "opponent_team": "‘t Schrijverke - Den Bosch",
                   "team_match": "‘t Schrijverke - Den Bosch - Bloemcamp Wassenaar",
@@ -10458,7 +10498,7 @@
                 {
                   "round": 3,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Altay, C. (Cagan Deniz)",
                   "opponent_team": "De Boschuil - Eindhoven",
                   "team_match": "De Boschuil - Eindhoven - Bloemcamp Wassenaar",
@@ -10478,7 +10518,7 @@
                 {
                   "round": 5,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Berveling, D. (Deacon)",
                   "opponent_team": "De Rank-Spijkenisse",
                   "team_match": "De Rank-Spijkenisse - Bloemcamp Wassenaar",
@@ -10536,7 +10576,7 @@
                 {
                   "round": 2,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Karssen, C. (Chris)",
                   "opponent_team": "‘t Schrijverke - Den Bosch",
                   "team_match": "‘t Schrijverke - Den Bosch - Bloemcamp Wassenaar",
@@ -10546,7 +10586,7 @@
                 {
                   "round": 3,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Jin, H. (Hongyi)",
                   "opponent_team": "De Boschuil - Eindhoven",
                   "team_match": "De Boschuil - Eindhoven - Bloemcamp Wassenaar",
@@ -10566,7 +10606,7 @@
                 {
                   "round": 5,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Vonk, T. (Tim)",
                   "opponent_team": "De Rank-Spijkenisse",
                   "team_match": "De Rank-Spijkenisse - Bloemcamp Wassenaar",
@@ -10614,7 +10654,7 @@
                 {
                   "round": 1,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Ridder de, M. (Mels)",
                   "opponent_team": "Jozefschool - Schiedam",
                   "team_match": "Bloemcamp Wassenaar - Jozefschool - Schiedam",
@@ -10644,7 +10684,7 @@
                 {
                   "round": 4,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Roghair, T. (Tommie)",
                   "opponent_team": "t Karregat-Eindhoven",
                   "team_match": "Bloemcamp Wassenaar - t Karregat-Eindhoven",
@@ -10664,7 +10704,7 @@
                 {
                   "round": 6,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Hoenderop, T. (Tara)",
                   "opponent_team": "De Tweemaster-Kameleon-Oost Souburg",
                   "team_match": "Bloemcamp Wassenaar - De Tweemaster-Kameleon-Oost Souburg",
@@ -10674,7 +10714,7 @@
                 {
                   "round": 7,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kerkhof van der, J. (Joris)",
                   "opponent_team": "De Korenaar-Helmond",
                   "team_match": "Bloemcamp Wassenaar - De Korenaar-Helmond",
@@ -10729,7 +10769,7 @@
                 {
                   "round": 2,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Mohan, M. (Manaswini)",
                   "opponent_team": "De Boschuil - Eindhoven",
                   "team_match": "HSV-Den Haag - De Boschuil - Eindhoven",
@@ -10749,7 +10789,7 @@
                 {
                   "round": 4,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Donkersgoed van, Y. (Ype)",
                   "opponent_team": "Getrudisschool - Utrecht",
                   "team_match": "HSV-Den Haag - Getrudisschool - Utrecht",
@@ -10759,7 +10799,7 @@
                 {
                   "round": 5,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Ridder de, D. (Dorian)",
                   "opponent_team": "Jozefschool - Schiedam",
                   "team_match": "HSV-Den Haag - Jozefschool - Schiedam",
@@ -10779,7 +10819,7 @@
                 {
                   "round": 7,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Oruc, E. (Ediz)",
                   "opponent_team": "De Vogelenzang - Rotterdam",
                   "team_match": "HSV-Den Haag - De Vogelenzang - Rotterdam",
@@ -10807,7 +10847,7 @@
                 {
                   "round": 1,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Nouwels, M. (Myla)",
                   "opponent_team": "De Pijler - Rotterdam",
                   "team_match": "De Pijler - Rotterdam - HSV-Den Haag",
@@ -10827,7 +10867,7 @@
                 {
                   "round": 3,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Hany, H. (Harun)",
                   "opponent_team": "Nutsschool Wassenaar",
                   "team_match": "Nutsschool Wassenaar - HSV-Den Haag",
@@ -10857,7 +10897,7 @@
                 {
                   "round": 6,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kornet, C. (Christian)",
                   "opponent_team": "Leonardo - Dordrecht",
                   "team_match": "Leonardo - Dordrecht - HSV-Den Haag",
@@ -10905,7 +10945,7 @@
                 {
                   "round": 2,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Lalkota, S. (Srikar)",
                   "opponent_team": "De Boschuil - Eindhoven",
                   "team_match": "HSV-Den Haag - De Boschuil - Eindhoven",
@@ -10925,7 +10965,7 @@
                 {
                   "round": 4,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Lubbe van der, S. (Senn)",
                   "opponent_team": "Getrudisschool - Utrecht",
                   "team_match": "HSV-Den Haag - Getrudisschool - Utrecht",
@@ -10935,7 +10975,7 @@
                 {
                   "round": 5,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Ridder de, M. (Mels)",
                   "opponent_team": "Jozefschool - Schiedam",
                   "team_match": "HSV-Den Haag - Jozefschool - Schiedam",
@@ -10955,7 +10995,7 @@
                 {
                   "round": 7,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Huynh, A. (Andy)",
                   "opponent_team": "De Vogelenzang - Rotterdam",
                   "team_match": "HSV-Den Haag - De Vogelenzang - Rotterdam",
@@ -10983,7 +11023,7 @@
                 {
                   "round": 1,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Ayyildiz, K. (Kerem)",
                   "opponent_team": "De Pijler - Rotterdam",
                   "team_match": "De Pijler - Rotterdam - HSV-Den Haag",
@@ -11003,7 +11043,7 @@
                 {
                   "round": 3,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Shen, I. (Ian)",
                   "opponent_team": "Nutsschool Wassenaar",
                   "team_match": "Nutsschool Wassenaar - HSV-Den Haag",
@@ -11033,7 +11073,7 @@
                 {
                   "round": 6,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Poberer, L. (Luuk)",
                   "opponent_team": "Leonardo - Dordrecht",
                   "team_match": "Leonardo - Dordrecht - HSV-Den Haag",
@@ -11088,7 +11128,7 @@
                 {
                   "round": 1,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Putten van der, T. (Tom)",
                   "opponent_team": "‘t Schrijverke - Den Bosch",
                   "team_match": "t Karregat-Eindhoven - ‘t Schrijverke - Den Bosch",
@@ -11108,7 +11148,7 @@
                 {
                   "round": 3,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Rossem van, J. (Jules)",
                   "opponent_team": "De Tweesprong-Maarssen",
                   "team_match": "t Karregat-Eindhoven - De Tweesprong-Maarssen",
@@ -11128,7 +11168,7 @@
                 {
                   "round": 5,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Nes van, J.Z. (Joel)",
                   "opponent_team": "Leonardo - Dordrecht",
                   "team_match": "t Karregat-Eindhoven - Leonardo - Dordrecht",
@@ -11138,7 +11178,7 @@
                 {
                   "round": 6,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Linnemann, R. (Rafaël)",
                   "opponent_team": "Bernard Lievegoed-Maastricht",
                   "team_match": "t Karregat-Eindhoven - Bernard Lievegoed-Maastricht",
@@ -11186,7 +11226,7 @@
                 {
                   "round": 2,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Toornman, B. (Bobbie)",
                   "opponent_team": "Jozefschool - Schiedam",
                   "team_match": "Jozefschool - Schiedam - t Karregat-Eindhoven",
@@ -11206,7 +11246,7 @@
                 {
                   "round": 4,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Leeuwen van, W. (Wieger)",
                   "opponent_team": "Bloemcamp Wassenaar",
                   "team_match": "Bloemcamp Wassenaar - t Karregat-Eindhoven",
@@ -11236,7 +11276,7 @@
                 {
                   "round": 7,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Ensing, R. (Rijk)",
                   "opponent_team": "Getrudisschool - Utrecht",
                   "team_match": "Getrudisschool - Utrecht - t Karregat-Eindhoven",
@@ -11264,7 +11304,7 @@
                 {
                   "round": 1,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Vermeulen, M. (Max)",
                   "opponent_team": "‘t Schrijverke - Den Bosch",
                   "team_match": "t Karregat-Eindhoven - ‘t Schrijverke - Den Bosch",
@@ -11284,7 +11324,7 @@
                 {
                   "round": 3,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Ashmann, E. (Edin)",
                   "opponent_team": "De Tweesprong-Maarssen",
                   "team_match": "t Karregat-Eindhoven - De Tweesprong-Maarssen",
@@ -11304,7 +11344,7 @@
                 {
                   "round": 5,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Zinkweg, N.T. (Nolan)",
                   "opponent_team": "Leonardo - Dordrecht",
                   "team_match": "t Karregat-Eindhoven - Leonardo - Dordrecht",
@@ -11314,7 +11354,7 @@
                 {
                   "round": 6,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Ritzen, T. (Torben)",
                   "opponent_team": "Bernard Lievegoed-Maastricht",
                   "team_match": "t Karregat-Eindhoven - Bernard Lievegoed-Maastricht",
@@ -11362,7 +11402,7 @@
                 {
                   "round": 2,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Heuvel van den, T. (Thijmen)",
                   "opponent_team": "Jozefschool - Schiedam",
                   "team_match": "Jozefschool - Schiedam - t Karregat-Eindhoven",
@@ -11382,7 +11422,7 @@
                 {
                   "round": 4,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Law, A. (Asher)",
                   "opponent_team": "Bloemcamp Wassenaar",
                   "team_match": "Bloemcamp Wassenaar - t Karregat-Eindhoven",
@@ -11412,7 +11452,7 @@
                 {
                   "round": 7,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Postma, S. (Sepp)",
                   "opponent_team": "Getrudisschool - Utrecht",
                   "team_match": "Getrudisschool - Utrecht - t Karregat-Eindhoven",
@@ -11457,7 +11497,7 @@
                 {
                   "round": 1,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Chandra, D. (Dhruv)",
                   "opponent_team": "BS Essesteijn - Voorburg",
                   "team_match": "De Vogelenzang - Rotterdam - BS Essesteijn - Voorburg",
@@ -11477,7 +11517,7 @@
                 {
                   "round": 3,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Ridder de, D. (Dorian)",
                   "opponent_team": "Jozefschool - Schiedam",
                   "team_match": "De Vogelenzang - Rotterdam - Jozefschool - Schiedam",
@@ -11497,7 +11537,7 @@
                 {
                   "round": 5,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Bhaskarabhatla, M. (Maithili Millie)",
                   "opponent_team": "Het Quadratum-Rotterdam",
                   "team_match": "De Vogelenzang - Rotterdam - Het Quadratum-Rotterdam",
@@ -11507,7 +11547,7 @@
                 {
                   "round": 6,
                   "board": 1,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Shen, D. (Daan)",
                   "opponent_team": "Nutsschool Wassenaar",
                   "team_match": "De Vogelenzang - Rotterdam - Nutsschool Wassenaar",
@@ -11555,7 +11595,7 @@
                 {
                   "round": 2,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Bruins-Slot, J. (Jens)",
                   "opponent_team": "De Parel - Terneuzen",
                   "team_match": "De Parel - Terneuzen - De Vogelenzang - Rotterdam",
@@ -11575,7 +11615,7 @@
                 {
                   "round": 4,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Rietveld, C.E.D. (Charlotte)",
                   "opponent_team": "Margrietschool - Woerden",
                   "team_match": "Margrietschool - Woerden - De Vogelenzang - Rotterdam",
@@ -11605,7 +11645,7 @@
                 {
                   "round": 7,
                   "board": 2,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Yang, Y. (Cheng-Yan Edgar)",
                   "opponent_team": "HSV-Den Haag",
                   "team_match": "HSV-Den Haag - De Vogelenzang - Rotterdam",
@@ -11633,7 +11673,7 @@
                 {
                   "round": 1,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Vugt van, R. (Robin)",
                   "opponent_team": "BS Essesteijn - Voorburg",
                   "team_match": "De Vogelenzang - Rotterdam - BS Essesteijn - Voorburg",
@@ -11653,7 +11693,7 @@
                 {
                   "round": 3,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Ridder de, M. (Mels)",
                   "opponent_team": "Jozefschool - Schiedam",
                   "team_match": "De Vogelenzang - Rotterdam - Jozefschool - Schiedam",
@@ -11673,7 +11713,7 @@
                 {
                   "round": 5,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Kuyululu, A.D. (Atlas Derya)",
                   "opponent_team": "Het Quadratum-Rotterdam",
                   "team_match": "De Vogelenzang - Rotterdam - Het Quadratum-Rotterdam",
@@ -11683,7 +11723,7 @@
                 {
                   "round": 6,
                   "board": 3,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Hany, A. (Adam)",
                   "opponent_team": "Nutsschool Wassenaar",
                   "team_match": "De Vogelenzang - Rotterdam - Nutsschool Wassenaar",
@@ -11731,7 +11771,7 @@
                 {
                   "round": 2,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Ozturk, Z. (Zeynep)",
                   "opponent_team": "De Parel - Terneuzen",
                   "team_match": "De Parel - Terneuzen - De Vogelenzang - Rotterdam",
@@ -11751,7 +11791,7 @@
                 {
                   "round": 4,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Dorrestijn, T. (Tim)",
                   "opponent_team": "Margrietschool - Woerden",
                   "team_match": "Margrietschool - Woerden - De Vogelenzang - Rotterdam",
@@ -11781,7 +11821,7 @@
                 {
                   "round": 7,
                   "board": 4,
-                  "color": "black",
+                  "color": "white",
                   "opponent": "Duit, A. (Alessio)",
                   "opponent_team": "HSV-Den Haag",
                   "team_match": "HSV-Den Haag - De Vogelenzang - Rotterdam",
@@ -26800,7 +26840,7 @@
             {
               "round": 3,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Aydinli, E. (Edin)",
               "opponent_team": "GSV 2-Groningen",
               "team_match": "GSV 2-Groningen - GSV 1-Groningen",
@@ -26820,7 +26860,7 @@
             {
               "round": 5,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Li, V. (Vince)",
               "opponent_team": "Dick Bruna-Veldhoven",
               "team_match": "Dick Bruna-Veldhoven - GSV 1-Groningen",
@@ -26866,7 +26906,7 @@
             {
               "round": 1,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Yerramilli, A. (Aisha)",
               "opponent_team": "t Slingertouw-Eindhoven",
               "team_match": "t Slingertouw-Eindhoven - GSV 1-Groningen",
@@ -26896,7 +26936,7 @@
             {
               "round": 4,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Jawahar, D. (Dhruvith)",
               "opponent_team": "ISU 1 - Utrecht",
               "team_match": "GSV 1-Groningen - ISU 1 - Utrecht",
@@ -26906,7 +26946,7 @@
             {
               "round": 6,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Zheng, Y. (Yu Huan)",
               "opponent_team": "Talentencampus-Venlo",
               "team_match": "GSV 1-Groningen - Talentencampus-Venlo",
@@ -26916,7 +26956,7 @@
             {
               "round": 7,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Chaudhuri, A. (Aarini)",
               "opponent_team": "Salto International School -Eindhoven",
               "team_match": "Salto International School -Eindhoven - GSV 1-Groningen",
@@ -26952,7 +26992,7 @@
             {
               "round": 2,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Hemanth Kumar, P. (Purvik)",
               "opponent_team": "ISU 2 - Utrecht",
               "team_match": "GSV 1-Groningen - ISU 2 - Utrecht",
@@ -26962,7 +27002,7 @@
             {
               "round": 3,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Broersma, C.G.A. (Carolina)",
               "opponent_team": "GSV 2-Groningen",
               "team_match": "GSV 2-Groningen - GSV 1-Groningen",
@@ -27018,7 +27058,7 @@
             {
               "round": 1,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Shi, T. (Terry)",
               "opponent_team": "t Slingertouw-Eindhoven",
               "team_match": "t Slingertouw-Eindhoven - GSV 1-Groningen",
@@ -27048,7 +27088,7 @@
             {
               "round": 5,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Aishu, A. (Aishu)",
               "opponent_team": "Dick Bruna-Veldhoven",
               "team_match": "Dick Bruna-Veldhoven - GSV 1-Groningen",
@@ -27058,7 +27098,7 @@
             {
               "round": 7,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Shiralkar, R. (Rudhra)",
               "opponent_team": "Salto International School -Eindhoven",
               "team_match": "Salto International School -Eindhoven - GSV 1-Groningen",
@@ -27087,7 +27127,7 @@
             {
               "round": 2,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Anand, S.R. (Saket Ram)",
               "opponent_team": "ISU 2 - Utrecht",
               "team_match": "GSV 1-Groningen - ISU 2 - Utrecht",
@@ -27107,7 +27147,7 @@
             {
               "round": 4,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Suthan, A. (Aadvik)",
               "opponent_team": "ISU 1 - Utrecht",
               "team_match": "GSV 1-Groningen - ISU 1 - Utrecht",
@@ -27127,7 +27167,7 @@
             {
               "round": 6,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Hoogt van der, T. (Timo)",
               "opponent_team": "Talentencampus-Venlo",
               "team_match": "GSV 1-Groningen - Talentencampus-Venlo",
@@ -27160,7 +27200,7 @@
             {
               "round": 1,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Hoogt van der, T. (Timo)",
               "opponent_team": "Talentencampus-Venlo",
               "team_match": "ISU 1 - Utrecht - Talentencampus-Venlo",
@@ -27180,7 +27220,7 @@
             {
               "round": 3,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Gok, S. (Sem)",
               "opponent_team": "OBS de Windhoek- Almelo",
               "team_match": "ISU 1 - Utrecht - OBS de Windhoek- Almelo",
@@ -27188,9 +27228,19 @@
               "points": 1.0
             },
             {
-              "round": 5,
+              "round": 4,
               "board": 1,
               "color": "black",
+              "opponent": "NO",
+              "opponent_team": "GSV 1-Groningen",
+              "team_match": "GSV 1-Groningen - ISU 1 - Utrecht",
+              "result": "0-1",
+              "points": 0.0
+            },
+            {
+              "round": 5,
+              "board": 1,
+              "color": "white",
               "opponent": "Banasihalli chetan Kum, V. (Vihaan)",
               "opponent_team": "Rivers International 2-Arnhem",
               "team_match": "ISU 1 - Utrecht - Rivers International 2-Arnhem",
@@ -27210,7 +27260,7 @@
             {
               "round": 7,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Sarathbabu, M. (Mrityunjay)",
               "opponent_team": "GSV 2-Groningen",
               "team_match": "ISU 1 - Utrecht - GSV 2-Groningen",
@@ -27248,7 +27298,7 @@
             {
               "round": 2,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Sobota, T. (Tytus)",
               "opponent_team": "Montessori Zuid - Hilversum",
               "team_match": "Montessori Zuid - Hilversum - ISU 1 - Utrecht",
@@ -27268,7 +27318,7 @@
             {
               "round": 4,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Kudernac, T. (Theo)",
               "opponent_team": "GSV 1-Groningen",
               "team_match": "GSV 1-Groningen - ISU 1 - Utrecht",
@@ -27288,7 +27338,7 @@
             {
               "round": 6,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Lenselink, T. (Tom)",
               "opponent_team": "Rivers International 1-Arnhem",
               "team_match": "Rivers International 1-Arnhem - ISU 1 - Utrecht",
@@ -27326,7 +27376,7 @@
             {
               "round": 1,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Zheng, Y. (Yu Huan)",
               "opponent_team": "Talentencampus-Venlo",
               "team_match": "ISU 1 - Utrecht - Talentencampus-Venlo",
@@ -27346,7 +27396,7 @@
             {
               "round": 3,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Özkent, K. (Kaan)",
               "opponent_team": "OBS de Windhoek- Almelo",
               "team_match": "ISU 1 - Utrecht - OBS de Windhoek- Almelo",
@@ -27366,7 +27416,7 @@
             {
               "round": 5,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Zhang, J. (Jiaming)",
               "opponent_team": "Rivers International 2-Arnhem",
               "team_match": "ISU 1 - Utrecht - Rivers International 2-Arnhem",
@@ -27386,7 +27436,7 @@
             {
               "round": 7,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Roemers, L. (Lizenoor)",
               "opponent_team": "GSV 2-Groningen",
               "team_match": "ISU 1 - Utrecht - GSV 2-Groningen",
@@ -27424,7 +27474,7 @@
             {
               "round": 2,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Kozlova, E. (Elizaveta)",
               "opponent_team": "Montessori Zuid - Hilversum",
               "team_match": "Montessori Zuid - Hilversum - ISU 1 - Utrecht",
@@ -27444,7 +27494,7 @@
             {
               "round": 4,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Dellen van, T. (Thijmen)",
               "opponent_team": "GSV 1-Groningen",
               "team_match": "GSV 1-Groningen - ISU 1 - Utrecht",
@@ -27464,7 +27514,7 @@
             {
               "round": 6,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Kibe, S. (Sosuke)",
               "opponent_team": "Rivers International 1-Arnhem",
               "team_match": "Rivers International 1-Arnhem - ISU 1 - Utrecht",
@@ -27529,7 +27579,7 @@
             {
               "round": 2,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Kievit, J.G.S. (Jaap)",
               "opponent_team": "BS St Maartens-Voorburg",
               "team_match": "Salto International School -Eindhoven - BS St Maartens-Voorburg",
@@ -27549,7 +27599,7 @@
             {
               "round": 4,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Gafurov, D. (Damir)",
               "opponent_team": "Dick Bruna-Veldhoven",
               "team_match": "Salto International School -Eindhoven - Dick Bruna-Veldhoven",
@@ -27569,7 +27619,7 @@
             {
               "round": 6,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Kolah-Chi, K. (Kyan)",
               "opponent_team": "Het Klinket-Arnhem",
               "team_match": "Salto International School -Eindhoven - Het Klinket-Arnhem",
@@ -27579,7 +27629,7 @@
             {
               "round": 7,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Kudernac, T. (Theo)",
               "opponent_team": "GSV 1-Groningen",
               "team_match": "Salto International School -Eindhoven - GSV 1-Groningen",
@@ -27607,7 +27657,7 @@
             {
               "round": 1,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Lenselink, T. (Tom)",
               "opponent_team": "Rivers International 1-Arnhem",
               "team_match": "Rivers International 1-Arnhem - Salto International School -Eindhoven",
@@ -27627,7 +27677,7 @@
             {
               "round": 3,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Wilts, J. (Jonathan)",
               "opponent_team": "EKC De Olijfboom-Deventer",
               "team_match": "EKC De Olijfboom-Deventer - Salto International School -Eindhoven",
@@ -27647,7 +27697,7 @@
             {
               "round": 5,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Aydinli, E. (Edin)",
               "opponent_team": "GSV 2-Groningen",
               "team_match": "GSV 2-Groningen - Salto International School -Eindhoven",
@@ -27695,7 +27745,7 @@
             {
               "round": 1,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Kibe, S. (Sosuke)",
               "opponent_team": "Rivers International 1-Arnhem",
               "team_match": "Rivers International 1-Arnhem - Salto International School -Eindhoven",
@@ -27715,7 +27765,7 @@
             {
               "round": 3,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Wijhe van, D. (David)",
               "opponent_team": "EKC De Olijfboom-Deventer",
               "team_match": "EKC De Olijfboom-Deventer - Salto International School -Eindhoven",
@@ -27735,7 +27785,7 @@
             {
               "round": 5,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Broersma, C.G.A. (Carolina)",
               "opponent_team": "GSV 2-Groningen",
               "team_match": "GSV 2-Groningen - Salto International School -Eindhoven",
@@ -27793,7 +27843,7 @@
             {
               "round": 2,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Grguric, K. (Kaya)",
               "opponent_team": "BS St Maartens-Voorburg",
               "team_match": "Salto International School -Eindhoven - BS St Maartens-Voorburg",
@@ -27813,7 +27863,7 @@
             {
               "round": 4,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Kevin, K. (Kevin)",
               "opponent_team": "Dick Bruna-Veldhoven",
               "team_match": "Salto International School -Eindhoven - Dick Bruna-Veldhoven",
@@ -27833,7 +27883,7 @@
             {
               "round": 6,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Alagöz, R. (Roni)",
               "opponent_team": "Het Klinket-Arnhem",
               "team_match": "Salto International School -Eindhoven - Het Klinket-Arnhem",
@@ -27843,7 +27893,7 @@
             {
               "round": 7,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Ma, Y. (Yuan Li)",
               "opponent_team": "GSV 1-Groningen",
               "team_match": "Salto International School -Eindhoven - GSV 1-Groningen",
@@ -27888,7 +27938,7 @@
             {
               "round": 1,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Mutta, S. (Sevya Sonit)",
               "opponent_team": "ISU 1 - Utrecht",
               "team_match": "ISU 1 - Utrecht - Talentencampus-Venlo",
@@ -27908,7 +27958,7 @@
             {
               "round": 3,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Sathish Kumar, Y. (Yazhini)",
               "opponent_team": "ISU 2 - Utrecht",
               "team_match": "ISU 2 - Utrecht - Talentencampus-Venlo",
@@ -27928,7 +27978,7 @@
             {
               "round": 5,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Borsboom, F. (Frederik)",
               "opponent_team": "BS St Maartens-Voorburg",
               "team_match": "BS St Maartens-Voorburg - Talentencampus-Venlo",
@@ -27938,7 +27988,7 @@
             {
               "round": 6,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Kudernac, T. (Theo)",
               "opponent_team": "GSV 1-Groningen",
               "team_match": "GSV 1-Groningen - Talentencampus-Venlo",
@@ -27986,7 +28036,7 @@
             {
               "round": 2,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Dharmadhikari, V. (Vivaan)",
               "opponent_team": "De Gazelle-Arnhem",
               "team_match": "Talentencampus-Venlo - De Gazelle-Arnhem",
@@ -28006,7 +28056,7 @@
             {
               "round": 4,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Çinar Sahin, A. (Aren)",
               "opponent_team": "Rivers International 1-Arnhem",
               "team_match": "Talentencampus-Venlo - Rivers International 1-Arnhem",
@@ -28036,7 +28086,7 @@
             {
               "round": 7,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Alobaid, Z. (Zahed)",
               "opponent_team": "De Fortgens-Vooschoten",
               "team_match": "Talentencampus-Venlo - De Fortgens-Vooschoten",
@@ -28074,7 +28124,7 @@
             {
               "round": 2,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Wolse, T.J. (Thomas)",
               "opponent_team": "De Gazelle-Arnhem",
               "team_match": "Talentencampus-Venlo - De Gazelle-Arnhem",
@@ -28094,7 +28144,7 @@
             {
               "round": 4,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Park, N. (Noah)",
               "opponent_team": "Rivers International 1-Arnhem",
               "team_match": "Talentencampus-Venlo - Rivers International 1-Arnhem",
@@ -28112,9 +28162,19 @@
               "points": 1.0
             },
             {
-              "round": 7,
+              "round": 6,
               "board": 1,
               "color": "black",
+              "opponent": "NO",
+              "opponent_team": "GSV 1-Groningen",
+              "team_match": "GSV 1-Groningen - Talentencampus-Venlo",
+              "result": "0-1",
+              "points": 0.0
+            },
+            {
+              "round": 7,
+              "board": 1,
+              "color": "white",
               "opponent": "Hoogendoorn, J. (Joris)",
               "opponent_team": "De Fortgens-Vooschoten",
               "team_match": "Talentencampus-Venlo - De Fortgens-Vooschoten",
@@ -28142,7 +28202,7 @@
             {
               "round": 1,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Suthan, A. (Asthik)",
               "opponent_team": "ISU 1 - Utrecht",
               "team_match": "ISU 1 - Utrecht - Talentencampus-Venlo",
@@ -28152,7 +28212,7 @@
             {
               "round": 3,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Sathish, A. (Adithya)",
               "opponent_team": "ISU 2 - Utrecht",
               "team_match": "ISU 2 - Utrecht - Talentencampus-Venlo",
@@ -28162,12 +28222,22 @@
             {
               "round": 5,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Borsboom, M. (Matthias)",
               "opponent_team": "BS St Maartens-Voorburg",
               "team_match": "BS St Maartens-Voorburg - Talentencampus-Venlo",
               "result": "½-½",
               "points": 0.5
+            },
+            {
+              "round": 7,
+              "board": 4,
+              "color": "black",
+              "opponent": "NO",
+              "opponent_team": "De Fortgens-Vooschoten",
+              "team_match": "Talentencampus-Venlo - De Fortgens-Vooschoten",
+              "result": "1-0",
+              "points": 1.0
             }
           ],
           "points": 1.5,
@@ -28207,7 +28277,7 @@
             {
               "round": 6,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Ma, Y. (Yuan Li)",
               "opponent_team": "GSV 1-Groningen",
               "team_match": "GSV 1-Groningen - Talentencampus-Venlo",
@@ -28259,7 +28329,7 @@
             {
               "round": 2,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Helm van der, R. (Rogier)",
               "opponent_team": "EKC De Olijfboom-Deventer",
               "team_match": "Joseph Haydn-Groningen - EKC De Olijfboom-Deventer",
@@ -28279,7 +28349,7 @@
             {
               "round": 4,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Sarathbabu, M. (Mrityunjay)",
               "opponent_team": "GSV 2-Groningen",
               "team_match": "Joseph Haydn-Groningen - GSV 2-Groningen",
@@ -28309,7 +28379,7 @@
             {
               "round": 7,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Gok, S. (Sem)",
               "opponent_team": "OBS de Windhoek- Almelo",
               "team_match": "Joseph Haydn-Groningen - OBS de Windhoek- Almelo",
@@ -28337,7 +28407,7 @@
             {
               "round": 1,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Jain, R. (Reyaansh)",
               "opponent_team": "Rivers International 2-Arnhem",
               "team_match": "Rivers International 2-Arnhem - Joseph Haydn-Groningen",
@@ -28357,7 +28427,7 @@
             {
               "round": 4,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Roemers, L. (Lizenoor)",
               "opponent_team": "GSV 2-Groningen",
               "team_match": "Joseph Haydn-Groningen - GSV 2-Groningen",
@@ -28367,7 +28437,7 @@
             {
               "round": 5,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Huisken, T. (Tom)",
               "opponent_team": "CBS de Ark - Zwolle",
               "team_match": "CBS de Ark - Zwolle - Joseph Haydn-Groningen",
@@ -28377,7 +28447,7 @@
             {
               "round": 7,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Özkent, K. (Kaan)",
               "opponent_team": "OBS de Windhoek- Almelo",
               "team_match": "Joseph Haydn-Groningen - OBS de Windhoek- Almelo",
@@ -28403,7 +28473,7 @@
             {
               "round": 1,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Zhang, J. (Jiaming)",
               "opponent_team": "Rivers International 2-Arnhem",
               "team_match": "Rivers International 2-Arnhem - Joseph Haydn-Groningen",
@@ -28433,7 +28503,7 @@
             {
               "round": 5,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Beek van, L. (Lux)",
               "opponent_team": "CBS de Ark - Zwolle",
               "team_match": "CBS de Ark - Zwolle - Joseph Haydn-Groningen",
@@ -28443,7 +28513,7 @@
             {
               "round": 6,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Shi, T. (Terry)",
               "opponent_team": "t Slingertouw-Eindhoven",
               "team_match": "t Slingertouw-Eindhoven - Joseph Haydn-Groningen",
@@ -28490,7 +28560,7 @@
             {
               "round": 2,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Luppen, E. (Ezra)",
               "opponent_team": "EKC De Olijfboom-Deventer",
               "team_match": "Joseph Haydn-Groningen - EKC De Olijfboom-Deventer",
@@ -28500,7 +28570,7 @@
             {
               "round": 3,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Kibe, S. (Sosuke)",
               "opponent_team": "Rivers International 1-Arnhem",
               "team_match": "Rivers International 1-Arnhem - Joseph Haydn-Groningen",
@@ -28557,7 +28627,7 @@
             {
               "round": 3,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Lenselink, T. (Tom)",
               "opponent_team": "Rivers International 1-Arnhem",
               "team_match": "Rivers International 1-Arnhem - Joseph Haydn-Groningen",
@@ -28577,7 +28647,7 @@
             {
               "round": 6,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Yerramilli, A. (Aisha)",
               "opponent_team": "t Slingertouw-Eindhoven",
               "team_match": "t Slingertouw-Eindhoven - Joseph Haydn-Groningen",
@@ -28640,7 +28710,7 @@
             {
               "round": 2,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Mulalic, A. (Amar)",
               "opponent_team": "Het Jongleren - Arnhem",
               "team_match": "Het Jongleren - Arnhem - Rivers International 1-Arnhem",
@@ -28660,7 +28730,7 @@
             {
               "round": 4,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Tran, O. (Olivier)",
               "opponent_team": "Talentencampus-Venlo",
               "team_match": "Talentencampus-Venlo - Rivers International 1-Arnhem",
@@ -28690,7 +28760,7 @@
             {
               "round": 7,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Anuk, R. (Rohat)",
               "opponent_team": "Het Klinket-Arnhem",
               "team_match": "Het Klinket-Arnhem - Rivers International 1-Arnhem",
@@ -28716,7 +28786,7 @@
             {
               "round": 1,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Karun, D. (Darshil)",
               "opponent_team": "Salto International School -Eindhoven",
               "team_match": "Rivers International 1-Arnhem - Salto International School -Eindhoven",
@@ -28736,7 +28806,7 @@
             {
               "round": 3,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Veluwenkamp, R. (Robin)",
               "opponent_team": "Joseph Haydn-Groningen",
               "team_match": "Rivers International 1-Arnhem - Joseph Haydn-Groningen",
@@ -28756,7 +28826,7 @@
             {
               "round": 5,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Bitterling, J. (Jones)",
               "opponent_team": "Montessori Zuid - Hilversum",
               "team_match": "Rivers International 1-Arnhem - Montessori Zuid - Hilversum",
@@ -28766,7 +28836,7 @@
             {
               "round": 6,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Jawahar, D. (Dhruvith)",
               "opponent_team": "ISU 1 - Utrecht",
               "team_match": "Rivers International 1-Arnhem - ISU 1 - Utrecht",
@@ -28812,7 +28882,7 @@
             {
               "round": 2,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Güven, A. (Arina)",
               "opponent_team": "Het Jongleren - Arnhem",
               "team_match": "Het Jongleren - Arnhem - Rivers International 1-Arnhem",
@@ -28832,7 +28902,7 @@
             {
               "round": 4,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Huys, M. (Marijn)",
               "opponent_team": "Talentencampus-Venlo",
               "team_match": "Talentencampus-Venlo - Rivers International 1-Arnhem",
@@ -28862,7 +28932,7 @@
             {
               "round": 7,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Le, L.V.C. (Lucas)",
               "opponent_team": "Het Klinket-Arnhem",
               "team_match": "Het Klinket-Arnhem - Rivers International 1-Arnhem",
@@ -28888,7 +28958,7 @@
             {
               "round": 1,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Kokkula, A. (Advaith Krishna)",
               "opponent_team": "Salto International School -Eindhoven",
               "team_match": "Rivers International 1-Arnhem - Salto International School -Eindhoven",
@@ -28908,7 +28978,7 @@
             {
               "round": 3,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Boomhouwer, R. (Rens)",
               "opponent_team": "Joseph Haydn-Groningen",
               "team_match": "Rivers International 1-Arnhem - Joseph Haydn-Groningen",
@@ -28928,7 +28998,7 @@
             {
               "round": 5,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Kozlov, T. (Timofei)",
               "opponent_team": "Montessori Zuid - Hilversum",
               "team_match": "Rivers International 1-Arnhem - Montessori Zuid - Hilversum",
@@ -28938,7 +29008,7 @@
             {
               "round": 6,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Suthan, A. (Aadvik)",
               "opponent_team": "ISU 1 - Utrecht",
               "team_match": "Rivers International 1-Arnhem - ISU 1 - Utrecht",
@@ -29001,7 +29071,7 @@
             {
               "round": 2,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Nair, P. (Pranav Prasobh)",
               "opponent_team": "GSV 1-Groningen",
               "team_match": "GSV 1-Groningen - ISU 2 - Utrecht",
@@ -29031,7 +29101,7 @@
             {
               "round": 5,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Le, L.V.C. (Lucas)",
               "opponent_team": "Het Klinket-Arnhem",
               "team_match": "Het Klinket-Arnhem - ISU 2 - Utrecht",
@@ -29041,7 +29111,7 @@
             {
               "round": 6,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Jain, R. (Reyaansh)",
               "opponent_team": "Rivers International 2-Arnhem",
               "team_match": "Rivers International 2-Arnhem - ISU 2 - Utrecht",
@@ -29078,7 +29148,7 @@
             {
               "round": 1,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Zulfaliev, E. (Emir)",
               "opponent_team": "Oostwijzer Cygnus - Zoetermeer",
               "team_match": "ISU 2 - Utrecht - Oostwijzer Cygnus - Zoetermeer",
@@ -29098,7 +29168,7 @@
             {
               "round": 3,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Zheng, Y. (Yu Huan)",
               "opponent_team": "Talentencampus-Venlo",
               "team_match": "ISU 2 - Utrecht - Talentencampus-Venlo",
@@ -29108,7 +29178,7 @@
             {
               "round": 4,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Smit, J. (Jozua)",
               "opponent_team": "EKC De Olijfboom-Deventer",
               "team_match": "ISU 2 - Utrecht - EKC De Olijfboom-Deventer",
@@ -29138,7 +29208,7 @@
             {
               "round": 7,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Vinod Kumar, S. (Sumrud)",
               "opponent_team": "Het Jongleren - Arnhem",
               "team_match": "ISU 2 - Utrecht - Het Jongleren - Arnhem",
@@ -29175,7 +29245,7 @@
             {
               "round": 2,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Dellen van, T. (Thijmen)",
               "opponent_team": "GSV 1-Groningen",
               "team_match": "GSV 1-Groningen - ISU 2 - Utrecht",
@@ -29195,7 +29265,7 @@
             {
               "round": 5,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Anuk, R. (Rohat)",
               "opponent_team": "Het Klinket-Arnhem",
               "team_match": "Het Klinket-Arnhem - ISU 2 - Utrecht",
@@ -29205,7 +29275,7 @@
             {
               "round": 6,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Zhang, J. (Jiaming)",
               "opponent_team": "Rivers International 2-Arnhem",
               "team_match": "Rivers International 2-Arnhem - ISU 2 - Utrecht",
@@ -29231,7 +29301,7 @@
             {
               "round": 1,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Sayar, H. (Hasan)",
               "opponent_team": "Oostwijzer Cygnus - Zoetermeer",
               "team_match": "ISU 2 - Utrecht - Oostwijzer Cygnus - Zoetermeer",
@@ -29239,9 +29309,19 @@
               "points": 1.0
             },
             {
-              "round": 3,
+              "round": 2,
               "board": 1,
               "color": "black",
+              "opponent": "NO",
+              "opponent_team": "GSV 1-Groningen",
+              "team_match": "GSV 1-Groningen - ISU 2 - Utrecht",
+              "result": "0-1",
+              "points": 0.0
+            },
+            {
+              "round": 3,
+              "board": 1,
+              "color": "white",
               "opponent": "Hoogt van der, T. (Timo)",
               "opponent_team": "Talentencampus-Venlo",
               "team_match": "ISU 2 - Utrecht - Talentencampus-Venlo",
@@ -29251,7 +29331,7 @@
             {
               "round": 4,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Helm van der, R. (Rogier)",
               "opponent_team": "EKC De Olijfboom-Deventer",
               "team_match": "ISU 2 - Utrecht - EKC De Olijfboom-Deventer",
@@ -29281,7 +29361,7 @@
             {
               "round": 7,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Singh, A. (Advait)",
               "opponent_team": "Het Jongleren - Arnhem",
               "team_match": "ISU 2 - Utrecht - Het Jongleren - Arnhem",
@@ -29368,7 +29448,7 @@
             {
               "round": 2,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Kolah-Chi, K. (Kyan)",
               "opponent_team": "Het Klinket-Arnhem",
               "team_match": "GSV 2-Groningen - Het Klinket-Arnhem",
@@ -29378,7 +29458,7 @@
             {
               "round": 3,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "NO",
               "opponent_team": "GSV 1-Groningen",
               "team_match": "GSV 2-Groningen - GSV 1-Groningen",
@@ -29398,7 +29478,7 @@
             {
               "round": 5,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Kokkula, A. (Advaith Krishna)",
               "opponent_team": "Salto International School -Eindhoven",
               "team_match": "GSV 2-Groningen - Salto International School -Eindhoven",
@@ -29446,7 +29526,7 @@
             {
               "round": 1,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Beek van, L. (Lux)",
               "opponent_team": "CBS de Ark - Zwolle",
               "team_match": "CBS de Ark - Zwolle - GSV 2-Groningen",
@@ -29476,7 +29556,7 @@
             {
               "round": 4,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Melle van, W. (Walden)",
               "opponent_team": "Joseph Haydn-Groningen",
               "team_match": "Joseph Haydn-Groningen - GSV 2-Groningen",
@@ -29496,7 +29576,7 @@
             {
               "round": 6,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Aishu, A. (Aishu)",
               "opponent_team": "Dick Bruna-Veldhoven",
               "team_match": "Dick Bruna-Veldhoven - GSV 2-Groningen",
@@ -29506,7 +29586,7 @@
             {
               "round": 7,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Suthan, A. (Asthik)",
               "opponent_team": "ISU 1 - Utrecht",
               "team_match": "ISU 1 - Utrecht - GSV 2-Groningen",
@@ -29534,7 +29614,7 @@
             {
               "round": 1,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Huisken, T. (Tom)",
               "opponent_team": "CBS de Ark - Zwolle",
               "team_match": "CBS de Ark - Zwolle - GSV 2-Groningen",
@@ -29564,7 +29644,7 @@
             {
               "round": 4,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Jansen, S.E.E. (Schelte)",
               "opponent_team": "Joseph Haydn-Groningen",
               "team_match": "Joseph Haydn-Groningen - GSV 2-Groningen",
@@ -29584,7 +29664,7 @@
             {
               "round": 6,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Li, V. (Vince)",
               "opponent_team": "Dick Bruna-Veldhoven",
               "team_match": "Dick Bruna-Veldhoven - GSV 2-Groningen",
@@ -29594,7 +29674,7 @@
             {
               "round": 7,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Mutta, S. (Sevya Sonit)",
               "opponent_team": "ISU 1 - Utrecht",
               "team_match": "ISU 1 - Utrecht - GSV 2-Groningen",
@@ -29632,7 +29712,7 @@
             {
               "round": 2,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Wisse, J. (Jens)",
               "opponent_team": "Het Klinket-Arnhem",
               "team_match": "GSV 2-Groningen - Het Klinket-Arnhem",
@@ -29642,7 +29722,7 @@
             {
               "round": 3,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Nair, P. (Pranav Prasobh)",
               "opponent_team": "GSV 1-Groningen",
               "team_match": "GSV 2-Groningen - GSV 1-Groningen",
@@ -29662,7 +29742,7 @@
             {
               "round": 5,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Karun, D. (Darshil)",
               "opponent_team": "Salto International School -Eindhoven",
               "team_match": "GSV 2-Groningen - Salto International School -Eindhoven",
@@ -29727,7 +29807,7 @@
             {
               "round": 1,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Rossem van, J. (Jules)",
               "opponent_team": "De Tweesprong-Maarssen",
               "team_match": "De Boschuil - Eindhoven - De Tweesprong-Maarssen",
@@ -29747,7 +29827,7 @@
             {
               "round": 3,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Kuip van der, S. (Stefan)",
               "opponent_team": "Bloemcamp Wassenaar",
               "team_match": "De Boschuil - Eindhoven - Bloemcamp Wassenaar",
@@ -29757,7 +29837,7 @@
             {
               "round": 4,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Berveling, J. (Jethro)",
               "opponent_team": "De Rank-Spijkenisse",
               "team_match": "De Boschuil - Eindhoven - De Rank-Spijkenisse",
@@ -29787,7 +29867,7 @@
             {
               "round": 7,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Rietveld, A.H.J. (Alexander)",
               "opponent_team": "Margrietschool - Woerden",
               "team_match": "De Boschuil - Eindhoven - Margrietschool - Woerden",
@@ -29815,7 +29895,7 @@
             {
               "round": 1,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Ashmann, E. (Edin)",
               "opponent_team": "De Tweesprong-Maarssen",
               "team_match": "De Boschuil - Eindhoven - De Tweesprong-Maarssen",
@@ -29835,7 +29915,7 @@
             {
               "round": 3,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Bartels, T. (Tristan)",
               "opponent_team": "Bloemcamp Wassenaar",
               "team_match": "De Boschuil - Eindhoven - Bloemcamp Wassenaar",
@@ -29845,7 +29925,7 @@
             {
               "round": 4,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Sekowski, F. (Filip)",
               "opponent_team": "De Rank-Spijkenisse",
               "team_match": "De Boschuil - Eindhoven - De Rank-Spijkenisse",
@@ -29875,7 +29955,7 @@
             {
               "round": 7,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Vergeer, T.J. (Thijs)",
               "opponent_team": "Margrietschool - Woerden",
               "team_match": "De Boschuil - Eindhoven - Margrietschool - Woerden",
@@ -29913,7 +29993,7 @@
             {
               "round": 2,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Duit, A. (Alessio)",
               "opponent_team": "HSV-Den Haag",
               "team_match": "HSV-Den Haag - De Boschuil - Eindhoven",
@@ -29943,7 +30023,7 @@
             {
               "round": 5,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Basten-Batenburg van, T. (Timo)",
               "opponent_team": "Bernard Lievegoed-Maastricht",
               "team_match": "Bernard Lievegoed-Maastricht - De Boschuil - Eindhoven",
@@ -29953,7 +30033,7 @@
             {
               "round": 6,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Gruithuijzen, T. (Thijn)",
               "opponent_team": "De Korenaar-Helmond",
               "team_match": "De Korenaar-Helmond - De Boschuil - Eindhoven",
@@ -30001,7 +30081,7 @@
             {
               "round": 2,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Yang, Y. (Cheng-Yan Edgar)",
               "opponent_team": "HSV-Den Haag",
               "team_match": "HSV-Den Haag - De Boschuil - Eindhoven",
@@ -30031,7 +30111,7 @@
             {
               "round": 5,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Linnemann, L. (Lucas)",
               "opponent_team": "Bernard Lievegoed-Maastricht",
               "team_match": "Bernard Lievegoed-Maastricht - De Boschuil - Eindhoven",
@@ -30041,7 +30121,7 @@
             {
               "round": 6,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Leenen, B. (Bing)",
               "opponent_team": "De Korenaar-Helmond",
               "team_match": "De Korenaar-Helmond - De Boschuil - Eindhoven",
@@ -30106,7 +30186,7 @@
             {
               "round": 2,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Gruithuijzen, T. (Thijn)",
               "opponent_team": "De Korenaar-Helmond",
               "team_match": "De Korenaar-Helmond - Nutsschool Wassenaar",
@@ -30126,7 +30206,7 @@
             {
               "round": 4,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Toornman, B. (Bobbie)",
               "opponent_team": "Jozefschool - Schiedam",
               "team_match": "Jozefschool - Schiedam - Nutsschool Wassenaar",
@@ -30146,7 +30226,7 @@
             {
               "round": 6,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Duijn van, M.J. (Max)",
               "opponent_team": "De Vogelenzang - Rotterdam",
               "team_match": "De Vogelenzang - Rotterdam - Nutsschool Wassenaar",
@@ -30184,7 +30264,7 @@
             {
               "round": 1,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Weezepoel, S. (Sibbe)",
               "opponent_team": "Theo Thijssen 1 - Vlissingen",
               "team_match": "Nutsschool Wassenaar - Theo Thijssen 1 - Vlissingen",
@@ -30204,7 +30284,7 @@
             {
               "round": 3,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Aisola, L. (Leo)",
               "opponent_team": "HSV-Den Haag",
               "team_match": "Nutsschool Wassenaar - HSV-Den Haag",
@@ -30224,7 +30304,7 @@
             {
               "round": 5,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Vergeer, T.J. (Thijs)",
               "opponent_team": "Margrietschool - Woerden",
               "team_match": "Nutsschool Wassenaar - Margrietschool - Woerden",
@@ -30244,7 +30324,7 @@
             {
               "round": 7,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Kuyululu, A.D. (Atlas Derya)",
               "opponent_team": "Het Quadratum-Rotterdam",
               "team_match": "Nutsschool Wassenaar - Het Quadratum-Rotterdam",
@@ -30282,7 +30362,7 @@
             {
               "round": 2,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Leenen, B. (Bing)",
               "opponent_team": "De Korenaar-Helmond",
               "team_match": "De Korenaar-Helmond - Nutsschool Wassenaar",
@@ -30302,7 +30382,7 @@
             {
               "round": 4,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Heuvel van den, T. (Thijmen)",
               "opponent_team": "Jozefschool - Schiedam",
               "team_match": "Jozefschool - Schiedam - Nutsschool Wassenaar",
@@ -30322,7 +30402,7 @@
             {
               "round": 6,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Duijn van, N.A. (Niels)",
               "opponent_team": "De Vogelenzang - Rotterdam",
               "team_match": "De Vogelenzang - Rotterdam - Nutsschool Wassenaar",
@@ -30360,7 +30440,7 @@
             {
               "round": 1,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Brunings, D. (Dani)",
               "opponent_team": "Theo Thijssen 1 - Vlissingen",
               "team_match": "Nutsschool Wassenaar - Theo Thijssen 1 - Vlissingen",
@@ -30380,7 +30460,7 @@
             {
               "round": 3,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Narasimhan, L. (Lakshay)",
               "opponent_team": "HSV-Den Haag",
               "team_match": "Nutsschool Wassenaar - HSV-Den Haag",
@@ -30400,7 +30480,7 @@
             {
               "round": 5,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Rietveld, A.H.J. (Alexander)",
               "opponent_team": "Margrietschool - Woerden",
               "team_match": "Nutsschool Wassenaar - Margrietschool - Woerden",
@@ -30420,7 +30500,7 @@
             {
               "round": 7,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Bhaskarabhatla, M. (Maithili Millie)",
               "opponent_team": "Het Quadratum-Rotterdam",
               "team_match": "Nutsschool Wassenaar - Het Quadratum-Rotterdam",
@@ -30475,7 +30555,7 @@
             {
               "round": 2,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Zhang, R.M. (Melody)",
               "opponent_team": "t Karregat-Eindhoven",
               "team_match": "Jozefschool - Schiedam - t Karregat-Eindhoven",
@@ -30495,7 +30575,7 @@
             {
               "round": 4,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Shen, D. (Daan)",
               "opponent_team": "Nutsschool Wassenaar",
               "team_match": "Jozefschool - Schiedam - Nutsschool Wassenaar",
@@ -30525,7 +30605,7 @@
             {
               "round": 7,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Rossem van, J. (Jules)",
               "opponent_team": "De Tweesprong-Maarssen",
               "team_match": "Jozefschool - Schiedam - De Tweesprong-Maarssen",
@@ -30553,7 +30633,7 @@
             {
               "round": 1,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Leeuwen van, W. (Wieger)",
               "opponent_team": "Bloemcamp Wassenaar",
               "team_match": "Bloemcamp Wassenaar - Jozefschool - Schiedam",
@@ -30573,7 +30653,7 @@
             {
               "round": 3,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Duijn van, M.J. (Max)",
               "opponent_team": "De Vogelenzang - Rotterdam",
               "team_match": "De Vogelenzang - Rotterdam - Jozefschool - Schiedam",
@@ -30593,7 +30673,7 @@
             {
               "round": 5,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Duit, A. (Alessio)",
               "opponent_team": "HSV-Den Haag",
               "team_match": "HSV-Den Haag - Jozefschool - Schiedam",
@@ -30603,7 +30683,7 @@
             {
               "round": 6,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Dorrestijn, T. (Tim)",
               "opponent_team": "Margrietschool - Woerden",
               "team_match": "Margrietschool - Woerden - Jozefschool - Schiedam",
@@ -30651,7 +30731,7 @@
             {
               "round": 2,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Roghair, T. (Tommie)",
               "opponent_team": "t Karregat-Eindhoven",
               "team_match": "Jozefschool - Schiedam - t Karregat-Eindhoven",
@@ -30671,7 +30751,7 @@
             {
               "round": 4,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Hany, A. (Adam)",
               "opponent_team": "Nutsschool Wassenaar",
               "team_match": "Jozefschool - Schiedam - Nutsschool Wassenaar",
@@ -30701,7 +30781,7 @@
             {
               "round": 7,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Ashmann, E. (Edin)",
               "opponent_team": "De Tweesprong-Maarssen",
               "team_match": "Jozefschool - Schiedam - De Tweesprong-Maarssen",
@@ -30729,7 +30809,7 @@
             {
               "round": 1,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Law, A. (Asher)",
               "opponent_team": "Bloemcamp Wassenaar",
               "team_match": "Bloemcamp Wassenaar - Jozefschool - Schiedam",
@@ -30749,7 +30829,7 @@
             {
               "round": 3,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Duijn van, N.A. (Niels)",
               "opponent_team": "De Vogelenzang - Rotterdam",
               "team_match": "De Vogelenzang - Rotterdam - Jozefschool - Schiedam",
@@ -30769,7 +30849,7 @@
             {
               "round": 5,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Yang, Y. (Cheng-Yan Edgar)",
               "opponent_team": "HSV-Den Haag",
               "team_match": "HSV-Den Haag - Jozefschool - Schiedam",
@@ -30779,7 +30859,7 @@
             {
               "round": 6,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Rietveld, C.E.D. (Charlotte)",
               "opponent_team": "Margrietschool - Woerden",
               "team_match": "Margrietschool - Woerden - Jozefschool - Schiedam",
@@ -30834,7 +30914,7 @@
             {
               "round": 1,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Kornet, C. (Christian)",
               "opponent_team": "Leonardo - Dordrecht",
               "team_match": "Leonardo - Dordrecht - Margrietschool - Woerden",
@@ -30854,7 +30934,7 @@
             {
               "round": 3,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Treijtel, F. (Fynn)",
               "opponent_team": "WOW - Rotterdam",
               "team_match": "WOW - Rotterdam - Margrietschool - Woerden",
@@ -30874,7 +30954,7 @@
             {
               "round": 5,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Hany, H. (Harun)",
               "opponent_team": "Nutsschool Wassenaar",
               "team_match": "Nutsschool Wassenaar - Margrietschool - Woerden",
@@ -30894,7 +30974,7 @@
             {
               "round": 7,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Altay, C. (Cagan Deniz)",
               "opponent_team": "De Boschuil - Eindhoven",
               "team_match": "De Boschuil - Eindhoven - Margrietschool - Woerden",
@@ -30932,7 +31012,7 @@
             {
               "round": 2,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Zijlstra, Y. (Yannick)",
               "opponent_team": "Het Quadratum-Rotterdam",
               "team_match": "Margrietschool - Woerden - Het Quadratum-Rotterdam",
@@ -30952,7 +31032,7 @@
             {
               "round": 4,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Huynh, A. (Andy)",
               "opponent_team": "De Vogelenzang - Rotterdam",
               "team_match": "Margrietschool - Woerden - De Vogelenzang - Rotterdam",
@@ -30972,7 +31052,7 @@
             {
               "round": 6,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Ridder de, M. (Mels)",
               "opponent_team": "Jozefschool - Schiedam",
               "team_match": "Margrietschool - Woerden - Jozefschool - Schiedam",
@@ -31010,7 +31090,7 @@
             {
               "round": 1,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Poberer, L. (Luuk)",
               "opponent_team": "Leonardo - Dordrecht",
               "team_match": "Leonardo - Dordrecht - Margrietschool - Woerden",
@@ -31030,7 +31110,7 @@
             {
               "round": 3,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Chi, C.J.Q. (Chloë)",
               "opponent_team": "WOW - Rotterdam",
               "team_match": "WOW - Rotterdam - Margrietschool - Woerden",
@@ -31050,7 +31130,7 @@
             {
               "round": 5,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Shen, I. (Ian)",
               "opponent_team": "Nutsschool Wassenaar",
               "team_match": "Nutsschool Wassenaar - Margrietschool - Woerden",
@@ -31070,7 +31150,7 @@
             {
               "round": 7,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Jin, H. (Hongyi)",
               "opponent_team": "De Boschuil - Eindhoven",
               "team_match": "De Boschuil - Eindhoven - Margrietschool - Woerden",
@@ -31108,7 +31188,7 @@
             {
               "round": 2,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Bhaskarabhatla, M. (Maithili Millie)",
               "opponent_team": "Het Quadratum-Rotterdam",
               "team_match": "Margrietschool - Woerden - Het Quadratum-Rotterdam",
@@ -31128,7 +31208,7 @@
             {
               "round": 4,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Oruc, E. (Ediz)",
               "opponent_team": "De Vogelenzang - Rotterdam",
               "team_match": "Margrietschool - Woerden - De Vogelenzang - Rotterdam",
@@ -31148,7 +31228,7 @@
             {
               "round": 6,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Ridder de, D. (Dorian)",
               "opponent_team": "Jozefschool - Schiedam",
               "team_match": "Margrietschool - Woerden - Jozefschool - Schiedam",
@@ -31203,7 +31283,7 @@
             {
               "round": 1,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Ridder de, D. (Dorian)",
               "opponent_team": "Jozefschool - Schiedam",
               "team_match": "Bloemcamp Wassenaar - Jozefschool - Schiedam",
@@ -31233,7 +31313,7 @@
             {
               "round": 4,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Zhang, R.M. (Melody)",
               "opponent_team": "t Karregat-Eindhoven",
               "team_match": "Bloemcamp Wassenaar - t Karregat-Eindhoven",
@@ -31253,7 +31333,7 @@
             {
               "round": 6,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Hoenderop, R. (Rafael)",
               "opponent_team": "De Tweemaster-Kameleon-Oost Souburg",
               "team_match": "Bloemcamp Wassenaar - De Tweemaster-Kameleon-Oost Souburg",
@@ -31263,7 +31343,7 @@
             {
               "round": 7,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Leenen, P. (Pomme)",
               "opponent_team": "De Korenaar-Helmond",
               "team_match": "Bloemcamp Wassenaar - De Korenaar-Helmond",
@@ -31301,7 +31381,7 @@
             {
               "round": 2,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Velthuis, F. (Francis)",
               "opponent_team": "‘t Schrijverke - Den Bosch",
               "team_match": "‘t Schrijverke - Den Bosch - Bloemcamp Wassenaar",
@@ -31311,7 +31391,7 @@
             {
               "round": 3,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Altay, C. (Cagan Deniz)",
               "opponent_team": "De Boschuil - Eindhoven",
               "team_match": "De Boschuil - Eindhoven - Bloemcamp Wassenaar",
@@ -31331,7 +31411,7 @@
             {
               "round": 5,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Berveling, D. (Deacon)",
               "opponent_team": "De Rank-Spijkenisse",
               "team_match": "De Rank-Spijkenisse - Bloemcamp Wassenaar",
@@ -31389,7 +31469,7 @@
             {
               "round": 2,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Karssen, C. (Chris)",
               "opponent_team": "‘t Schrijverke - Den Bosch",
               "team_match": "‘t Schrijverke - Den Bosch - Bloemcamp Wassenaar",
@@ -31399,7 +31479,7 @@
             {
               "round": 3,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Jin, H. (Hongyi)",
               "opponent_team": "De Boschuil - Eindhoven",
               "team_match": "De Boschuil - Eindhoven - Bloemcamp Wassenaar",
@@ -31419,7 +31499,7 @@
             {
               "round": 5,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Vonk, T. (Tim)",
               "opponent_team": "De Rank-Spijkenisse",
               "team_match": "De Rank-Spijkenisse - Bloemcamp Wassenaar",
@@ -31467,7 +31547,7 @@
             {
               "round": 1,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Ridder de, M. (Mels)",
               "opponent_team": "Jozefschool - Schiedam",
               "team_match": "Bloemcamp Wassenaar - Jozefschool - Schiedam",
@@ -31497,7 +31577,7 @@
             {
               "round": 4,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Roghair, T. (Tommie)",
               "opponent_team": "t Karregat-Eindhoven",
               "team_match": "Bloemcamp Wassenaar - t Karregat-Eindhoven",
@@ -31517,7 +31597,7 @@
             {
               "round": 6,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Hoenderop, T. (Tara)",
               "opponent_team": "De Tweemaster-Kameleon-Oost Souburg",
               "team_match": "Bloemcamp Wassenaar - De Tweemaster-Kameleon-Oost Souburg",
@@ -31527,7 +31607,7 @@
             {
               "round": 7,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Kerkhof van der, J. (Joris)",
               "opponent_team": "De Korenaar-Helmond",
               "team_match": "Bloemcamp Wassenaar - De Korenaar-Helmond",
@@ -31582,7 +31662,7 @@
             {
               "round": 2,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Mohan, M. (Manaswini)",
               "opponent_team": "De Boschuil - Eindhoven",
               "team_match": "HSV-Den Haag - De Boschuil - Eindhoven",
@@ -31602,7 +31682,7 @@
             {
               "round": 4,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Donkersgoed van, Y. (Ype)",
               "opponent_team": "Getrudisschool - Utrecht",
               "team_match": "HSV-Den Haag - Getrudisschool - Utrecht",
@@ -31612,7 +31692,7 @@
             {
               "round": 5,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Ridder de, D. (Dorian)",
               "opponent_team": "Jozefschool - Schiedam",
               "team_match": "HSV-Den Haag - Jozefschool - Schiedam",
@@ -31632,7 +31712,7 @@
             {
               "round": 7,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Oruc, E. (Ediz)",
               "opponent_team": "De Vogelenzang - Rotterdam",
               "team_match": "HSV-Den Haag - De Vogelenzang - Rotterdam",
@@ -31660,7 +31740,7 @@
             {
               "round": 1,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Nouwels, M. (Myla)",
               "opponent_team": "De Pijler - Rotterdam",
               "team_match": "De Pijler - Rotterdam - HSV-Den Haag",
@@ -31680,7 +31760,7 @@
             {
               "round": 3,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Hany, H. (Harun)",
               "opponent_team": "Nutsschool Wassenaar",
               "team_match": "Nutsschool Wassenaar - HSV-Den Haag",
@@ -31710,7 +31790,7 @@
             {
               "round": 6,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Kornet, C. (Christian)",
               "opponent_team": "Leonardo - Dordrecht",
               "team_match": "Leonardo - Dordrecht - HSV-Den Haag",
@@ -31758,7 +31838,7 @@
             {
               "round": 2,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Lalkota, S. (Srikar)",
               "opponent_team": "De Boschuil - Eindhoven",
               "team_match": "HSV-Den Haag - De Boschuil - Eindhoven",
@@ -31778,7 +31858,7 @@
             {
               "round": 4,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Lubbe van der, S. (Senn)",
               "opponent_team": "Getrudisschool - Utrecht",
               "team_match": "HSV-Den Haag - Getrudisschool - Utrecht",
@@ -31788,7 +31868,7 @@
             {
               "round": 5,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Ridder de, M. (Mels)",
               "opponent_team": "Jozefschool - Schiedam",
               "team_match": "HSV-Den Haag - Jozefschool - Schiedam",
@@ -31808,7 +31888,7 @@
             {
               "round": 7,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Huynh, A. (Andy)",
               "opponent_team": "De Vogelenzang - Rotterdam",
               "team_match": "HSV-Den Haag - De Vogelenzang - Rotterdam",
@@ -31836,7 +31916,7 @@
             {
               "round": 1,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Ayyildiz, K. (Kerem)",
               "opponent_team": "De Pijler - Rotterdam",
               "team_match": "De Pijler - Rotterdam - HSV-Den Haag",
@@ -31856,7 +31936,7 @@
             {
               "round": 3,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Shen, I. (Ian)",
               "opponent_team": "Nutsschool Wassenaar",
               "team_match": "Nutsschool Wassenaar - HSV-Den Haag",
@@ -31886,7 +31966,7 @@
             {
               "round": 6,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Poberer, L. (Luuk)",
               "opponent_team": "Leonardo - Dordrecht",
               "team_match": "Leonardo - Dordrecht - HSV-Den Haag",
@@ -31941,7 +32021,7 @@
             {
               "round": 1,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Putten van der, T. (Tom)",
               "opponent_team": "‘t Schrijverke - Den Bosch",
               "team_match": "t Karregat-Eindhoven - ‘t Schrijverke - Den Bosch",
@@ -31961,7 +32041,7 @@
             {
               "round": 3,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Rossem van, J. (Jules)",
               "opponent_team": "De Tweesprong-Maarssen",
               "team_match": "t Karregat-Eindhoven - De Tweesprong-Maarssen",
@@ -31981,7 +32061,7 @@
             {
               "round": 5,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Nes van, J.Z. (Joel)",
               "opponent_team": "Leonardo - Dordrecht",
               "team_match": "t Karregat-Eindhoven - Leonardo - Dordrecht",
@@ -31991,7 +32071,7 @@
             {
               "round": 6,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Linnemann, R. (Rafaël)",
               "opponent_team": "Bernard Lievegoed-Maastricht",
               "team_match": "t Karregat-Eindhoven - Bernard Lievegoed-Maastricht",
@@ -32039,7 +32119,7 @@
             {
               "round": 2,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Toornman, B. (Bobbie)",
               "opponent_team": "Jozefschool - Schiedam",
               "team_match": "Jozefschool - Schiedam - t Karregat-Eindhoven",
@@ -32059,7 +32139,7 @@
             {
               "round": 4,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Leeuwen van, W. (Wieger)",
               "opponent_team": "Bloemcamp Wassenaar",
               "team_match": "Bloemcamp Wassenaar - t Karregat-Eindhoven",
@@ -32089,7 +32169,7 @@
             {
               "round": 7,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Ensing, R. (Rijk)",
               "opponent_team": "Getrudisschool - Utrecht",
               "team_match": "Getrudisschool - Utrecht - t Karregat-Eindhoven",
@@ -32117,7 +32197,7 @@
             {
               "round": 1,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Vermeulen, M. (Max)",
               "opponent_team": "‘t Schrijverke - Den Bosch",
               "team_match": "t Karregat-Eindhoven - ‘t Schrijverke - Den Bosch",
@@ -32137,7 +32217,7 @@
             {
               "round": 3,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Ashmann, E. (Edin)",
               "opponent_team": "De Tweesprong-Maarssen",
               "team_match": "t Karregat-Eindhoven - De Tweesprong-Maarssen",
@@ -32157,7 +32237,7 @@
             {
               "round": 5,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Zinkweg, N.T. (Nolan)",
               "opponent_team": "Leonardo - Dordrecht",
               "team_match": "t Karregat-Eindhoven - Leonardo - Dordrecht",
@@ -32167,7 +32247,7 @@
             {
               "round": 6,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Ritzen, T. (Torben)",
               "opponent_team": "Bernard Lievegoed-Maastricht",
               "team_match": "t Karregat-Eindhoven - Bernard Lievegoed-Maastricht",
@@ -32215,7 +32295,7 @@
             {
               "round": 2,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Heuvel van den, T. (Thijmen)",
               "opponent_team": "Jozefschool - Schiedam",
               "team_match": "Jozefschool - Schiedam - t Karregat-Eindhoven",
@@ -32235,7 +32315,7 @@
             {
               "round": 4,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Law, A. (Asher)",
               "opponent_team": "Bloemcamp Wassenaar",
               "team_match": "Bloemcamp Wassenaar - t Karregat-Eindhoven",
@@ -32265,7 +32345,7 @@
             {
               "round": 7,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Postma, S. (Sepp)",
               "opponent_team": "Getrudisschool - Utrecht",
               "team_match": "Getrudisschool - Utrecht - t Karregat-Eindhoven",
@@ -32310,7 +32390,7 @@
             {
               "round": 1,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Chandra, D. (Dhruv)",
               "opponent_team": "BS Essesteijn - Voorburg",
               "team_match": "De Vogelenzang - Rotterdam - BS Essesteijn - Voorburg",
@@ -32330,7 +32410,7 @@
             {
               "round": 3,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Ridder de, D. (Dorian)",
               "opponent_team": "Jozefschool - Schiedam",
               "team_match": "De Vogelenzang - Rotterdam - Jozefschool - Schiedam",
@@ -32350,7 +32430,7 @@
             {
               "round": 5,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Bhaskarabhatla, M. (Maithili Millie)",
               "opponent_team": "Het Quadratum-Rotterdam",
               "team_match": "De Vogelenzang - Rotterdam - Het Quadratum-Rotterdam",
@@ -32360,7 +32440,7 @@
             {
               "round": 6,
               "board": 1,
-              "color": "black",
+              "color": "white",
               "opponent": "Shen, D. (Daan)",
               "opponent_team": "Nutsschool Wassenaar",
               "team_match": "De Vogelenzang - Rotterdam - Nutsschool Wassenaar",
@@ -32408,7 +32488,7 @@
             {
               "round": 2,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Bruins-Slot, J. (Jens)",
               "opponent_team": "De Parel - Terneuzen",
               "team_match": "De Parel - Terneuzen - De Vogelenzang - Rotterdam",
@@ -32428,7 +32508,7 @@
             {
               "round": 4,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Rietveld, C.E.D. (Charlotte)",
               "opponent_team": "Margrietschool - Woerden",
               "team_match": "Margrietschool - Woerden - De Vogelenzang - Rotterdam",
@@ -32458,7 +32538,7 @@
             {
               "round": 7,
               "board": 2,
-              "color": "black",
+              "color": "white",
               "opponent": "Yang, Y. (Cheng-Yan Edgar)",
               "opponent_team": "HSV-Den Haag",
               "team_match": "HSV-Den Haag - De Vogelenzang - Rotterdam",
@@ -32486,7 +32566,7 @@
             {
               "round": 1,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Vugt van, R. (Robin)",
               "opponent_team": "BS Essesteijn - Voorburg",
               "team_match": "De Vogelenzang - Rotterdam - BS Essesteijn - Voorburg",
@@ -32506,7 +32586,7 @@
             {
               "round": 3,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Ridder de, M. (Mels)",
               "opponent_team": "Jozefschool - Schiedam",
               "team_match": "De Vogelenzang - Rotterdam - Jozefschool - Schiedam",
@@ -32526,7 +32606,7 @@
             {
               "round": 5,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Kuyululu, A.D. (Atlas Derya)",
               "opponent_team": "Het Quadratum-Rotterdam",
               "team_match": "De Vogelenzang - Rotterdam - Het Quadratum-Rotterdam",
@@ -32536,7 +32616,7 @@
             {
               "round": 6,
               "board": 3,
-              "color": "black",
+              "color": "white",
               "opponent": "Hany, A. (Adam)",
               "opponent_team": "Nutsschool Wassenaar",
               "team_match": "De Vogelenzang - Rotterdam - Nutsschool Wassenaar",
@@ -32584,7 +32664,7 @@
             {
               "round": 2,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Ozturk, Z. (Zeynep)",
               "opponent_team": "De Parel - Terneuzen",
               "team_match": "De Parel - Terneuzen - De Vogelenzang - Rotterdam",
@@ -32604,7 +32684,7 @@
             {
               "round": 4,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Dorrestijn, T. (Tim)",
               "opponent_team": "Margrietschool - Woerden",
               "team_match": "Margrietschool - Woerden - De Vogelenzang - Rotterdam",
@@ -32634,7 +32714,7 @@
             {
               "round": 7,
               "board": 4,
-              "color": "black",
+              "color": "white",
               "opponent": "Duit, A. (Alessio)",
               "opponent_team": "HSV-Den Haag",
               "team_match": "HSV-Den Haag - De Vogelenzang - Rotterdam",
@@ -35417,5 +35497,5 @@
       "player_count": 5
     }
   ],
-  "games_fetched_at": "2026-06-15T08:04:09Z"
+  "games_fetched_at": "2026-06-15T12:43:36Z"
 }
