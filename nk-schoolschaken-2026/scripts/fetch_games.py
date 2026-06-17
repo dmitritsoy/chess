@@ -11,7 +11,6 @@ from pathlib import Path
 from typing import Any
 
 import requests
-from bs4 import BeautifulSoup
 
 from games_parser import (
     attach_games_to_players,
@@ -36,10 +35,9 @@ PARSER_BY_SEMIFINAL = {
 
 
 def semifinal_teams_for_games(tournament: dict[str, Any], semifinal: dict[str, Any]) -> list[dict[str, Any]]:
-    limit = tournament.get("qualifiers_per_semifinal", 8)
-    teams = [team for team in semifinal.get("teams", []) if team.get("qualified")]
+    teams = list(semifinal.get("teams", []))
     teams.sort(key=lambda team: team.get("rank") or 999)
-    return teams[:limit]
+    return teams
 
 
 def fetch_html(session: requests.Session, url: str) -> str:
@@ -95,7 +93,6 @@ def copy_games_by_name(source_team: dict, target_team: dict) -> None:
 
 def enrich_tournament(tournament: dict, session: requests.Session) -> int:
     team_count = 0
-    qualifiers = tournament.get("qualifiers_per_semifinal", 8)
 
     for semifinal in tournament["semifinals"]:
         parser = PARSER_BY_SEMIFINAL.get(semifinal["id"], "knsb")
@@ -104,7 +101,7 @@ def enrich_tournament(tournament: dict, session: requests.Session) -> int:
             team_count += 1
             print(
                 f"  [{semifinal['id']}] {team['name']} "
-                f"({index}/{len(teams)} top-{qualifiers})"
+                f"({index}/{len(teams)})"
             )
             if parser == "knsb":
                 raw_games = fetch_knsb_team_games(session, team)
@@ -142,13 +139,8 @@ def main() -> int:
         return 1
 
     tournament = json.loads(args.input.read_text(encoding="utf-8"))
-    per_semifinal = tournament.get("qualifiers_per_semifinal", 8)
-    semifinal_count = len(tournament.get("semifinals", []))
-    teams_to_fetch = per_semifinal * semifinal_count
-    print(
-        f"Fetching games for top {per_semifinal} teams per semifinal "
-        f"({teams_to_fetch} teams total)..."
-    )
+    teams_to_fetch = sum(len(semi.get("teams", [])) for semi in tournament.get("semifinals", []))
+    print(f"Fetching games for {teams_to_fetch} teams...")
 
     session = requests.Session()
     team_count = enrich_tournament(tournament, session)

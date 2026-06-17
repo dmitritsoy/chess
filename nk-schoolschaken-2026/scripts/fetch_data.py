@@ -80,6 +80,7 @@ class Semifinal:
     system: str
     url: str
     teams: list[Team]
+    player_roster: list[dict[str, Any]] | None = None
 
 
 def fetch_html(session: requests.Session, url: str) -> str:
@@ -231,6 +232,92 @@ def knsb_parse_board_usage(soup: BeautifulSoup) -> dict[str, list[int]]:
     return usage
 
 
+def sevilla_player_list_url(html: str, base_url: str) -> str:
+    soup = BeautifulSoup(html, "html.parser")
+    for link in soup.find_all("a", href=True):
+        if re.search(r"PLst\.html$", link["href"], re.IGNORECASE):
+            return urljoin(base_url, link["href"])
+    return urljoin(base_url, "Grp1-PLst.html")
+
+
+def sevilla_parse_player_list(html: str) -> dict[str, list[dict[str, Any]]]:
+    """Map team page href -> roster entries with name, player_id, and list rating."""
+    soup = BeautifulSoup(html, "html.parser")
+    table = soup.find("table", id="PlayerListTable") or soup.find(
+        "table", class_="PlayerListTable"
+    )
+    if not table:
+        return {}
+
+    ids_by_team: dict[str, list[dict[str, Any]]] = {}
+    current_team: str | None = None
+
+    for row in table.find_all("tr"):
+        classes = row.get("class", [])
+        if "PlayerListHeader" in classes:
+            continue
+        if row.find("td", class_="PlayerListTitle"):
+            continue
+
+        cells = row.find_all("td")
+        if len(cells) < 3:
+            continue
+
+        name_cell = cells[1]
+        team_link = name_cell.find("a", href=True)
+        if team_link:
+            current_team = team_link["href"]
+            ids_by_team.setdefault(current_team, [])
+            continue
+
+        if not current_team:
+            continue
+
+        name = clean_text(name_cell.get_text())
+        player_id = clean_text(cells[2].get_text())
+        if name and player_id:
+            rating = parse_int(cells[6].get_text()) if len(cells) > 6 else None
+            ids_by_team[current_team].append(
+                {
+                    "name": name,
+                    "player_id": player_id,
+                    "rating": rating if rating and rating > 0 else None,
+                }
+            )
+
+    return ids_by_team
+
+
+def sevilla_team_player_id_map(
+    players: list[dict[str, Any]],
+) -> dict[str, str]:
+    return {player["name"].casefold(): player["player_id"] for player in players}
+
+
+def build_sevilla_player_roster(
+    semifinal_id: str,
+    raw_teams: list[dict[str, Any]],
+    player_list_by_team: dict[str, list[dict[str, Any]]],
+) -> list[dict[str, Any]]:
+    team_names = {raw["id"]: raw["name"] for raw in raw_teams}
+    roster: list[dict[str, Any]] = []
+    for team_id, players in player_list_by_team.items():
+        team_name = team_names.get(team_id)
+        if not team_name:
+            continue
+        for player in players:
+            roster.append(
+                {
+                    "name": player["name"],
+                    "player_id": player["player_id"],
+                    "rating": player.get("rating"),
+                    "team_id": f"{semifinal_id}-{team_id}",
+                    "team_name": team_name,
+                }
+            )
+    return roster
+
+
 def sevilla_parse_ranking(html: str, base_url: str) -> list[dict[str, Any]]:
     soup = BeautifulSoup(html, "html.parser")
     teams: list[dict[str, Any]] = []
@@ -284,7 +371,10 @@ def sevilla_parse_ranking(html: str, base_url: str) -> list[dict[str, Any]]:
     return teams
 
 
-def sevilla_parse_team(html: str) -> tuple[int | None, list[Player]]:
+def sevilla_parse_team(
+    html: str,
+    player_ids: dict[str, str] | None = None,
+) -> tuple[int | None, list[Player]]:
     soup = BeautifulSoup(html, "html.parser")
     team_rating: int | None = None
 
@@ -316,6 +406,7 @@ def sevilla_parse_team(html: str) -> tuple[int | None, list[Player]]:
                 games=games,
                 points=score,
                 tpr=tpr if tpr and tpr > 0 else None,
+                player_id=(player_ids or {}).get(name.casefold()),
             )
         )
 
@@ -342,13 +433,25 @@ def build_semifinal(
                 print(f"  loaded {index + 1}/{len(raw_teams)} teams")
     elif parser == "sevilla":
         raw_teams = sevilla_parse_ranking(html, config["base_url"])
+        player_list_url = sevilla_player_list_url(html, config["base_url"])
+        time.sleep(REQUEST_DELAY)
+        player_list_html = fetch_html(session, player_list_url)
+        player_list_by_team = sevilla_parse_player_list(player_list_html)
+        player_roster = build_sevilla_player_roster(
+            semifinal_id,
+            raw_teams,
+            player_list_by_team,
+        )
         for index, raw in enumerate(raw_teams):
             if not raw["source_url"]:
                 raw["players"] = []
                 continue
             time.sleep(REQUEST_DELAY)
             team_html = fetch_html(session, raw["source_url"])
-            team_rating, players = sevilla_parse_team(team_html)
+            team_player_ids = sevilla_team_player_id_map(
+                player_list_by_team.get(raw["id"], [])
+            )
+            team_rating, players = sevilla_parse_team(team_html, team_player_ids)
             raw["team_rating"] = team_rating
             raw["players"] = players
             if (index + 1) % 6 == 0:
@@ -382,6 +485,7 @@ def build_semifinal(
         system=config["system"],
         url=config["url"],
         teams=teams,
+        player_roster=player_roster if parser == "sevilla" else None,
     )
 
 
@@ -434,11 +538,12 @@ def to_json(semifinals: list[Semifinal]) -> dict[str, Any]:
                 "summary": summarize_players(
                     [team for team in semifinal.teams if team.qualified]
                 ),
-                "teams": [
-                    team_to_dict(team)
-                    for team in semifinal.teams
-                    if team.qualified
-                ],
+                **(
+                    {"player_roster": semifinal.player_roster}
+                    if semifinal.player_roster
+                    else {}
+                ),
+                "teams": [team_to_dict(team) for team in semifinal.teams],
             }
             for semifinal in semifinals
         ],

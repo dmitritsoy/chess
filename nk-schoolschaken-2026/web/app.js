@@ -84,6 +84,15 @@ function mergeRatings(tournament, ratings) {
     for (const team of semifinal.teams) {
       applyRatingsToTeam(team, ratings);
     }
+    for (const player of semifinal.player_roster || []) {
+      const entry = ratings.players?.[playerStorageKey(player)];
+      if (!entry) continue;
+      if (entry.knsb_relatienummer != null) player.knsb_relatienummer = entry.knsb_relatienummer;
+      if (entry.knsb_classic != null) player.knsb_classic = entry.knsb_classic;
+      if (entry.knsb_rapid != null) player.knsb_rapid = entry.knsb_rapid;
+      if (entry.ratingviewer_url) player.ratingviewer_url = entry.ratingviewer_url;
+      if (entry.resolved_name) player.resolved_name = entry.resolved_name;
+    }
   }
 
   for (const team of tournament.finalists) {
@@ -398,6 +407,21 @@ function getPlayerLookup() {
         for (const player of team.players) {
           playerLookup.set(player.name.toLowerCase(), { team: teamWithMeta, player });
         }
+      }
+      for (const player of semifinal.player_roster || []) {
+        const key = player.name.toLowerCase();
+        if (playerLookup.has(key)) {
+          continue;
+        }
+        playerLookup.set(key, {
+          team: {
+            id: player.team_id,
+            name: player.team_name,
+            semifinal_id: semifinal.id,
+            semifinal_name: semifinal.name,
+          },
+          player,
+        });
       }
     }
   }

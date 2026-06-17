@@ -8,7 +8,6 @@ import time
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
-from urllib.parse import quote
 
 import requests
 
@@ -94,39 +93,14 @@ class KnsbRatingService:
         list_id = self.classic_list_id or 181
         return f"{RATINGVIEWER_BASE}/lists/{list_id}/players/{relatienummer}"
 
-    def _search_query(self, name: str) -> str:
-        paren_match = re.search(r"\(([^)]+)\)", name)
-        if "," in name and paren_match:
-            achternaam = name.split("(")[0].split(",")[0].strip()
-            voornaam = paren_match.group(1).strip()
-            return f"{voornaam} {achternaam}"
-        return re.sub(r"\s+", " ", name).strip()
-
-    def _pick_search_result(self, name: str, results: list[dict[str, Any]]) -> dict[str, Any] | None:
-        if not results:
+    @staticmethod
+    def _relatienummer_from_player_id(player_id: str) -> int | None:
+        """Almere/Sevilla stores KNSB relatienummer in player_id; Netstand uses its own IDs."""
+        if not player_id.isdigit():
             return None
-        if len(results) == 1:
-            return results[0]
-
-        query = self._search_query(name).casefold()
-        tokens = [token for token in re.split(r"[\s,()]+", query) if token]
-
-        def score(result: dict[str, Any]) -> int:
-            candidate = " ".join(
-                part
-                for part in [
-                    result.get("voornaam", ""),
-                    result.get("tussenvoegsels") or "",
-                    result.get("achternaam", ""),
-                ]
-                if part
-            ).casefold()
-            return sum(1 for token in tokens if token in candidate)
-
-        ranked = sorted(results, key=score, reverse=True)
-        if ranked and score(ranked[0]) > 0:
-            return ranked[0]
-        return None
+        if player_id.startswith("24"):
+            return None
+        return int(player_id)
 
     def resolve_relatienummer(self, name: str, player_id: str | None = None) -> int | None:
         if player_id and str(player_id) in PLAYER_OVERRIDES:
@@ -141,36 +115,33 @@ class KnsbRatingService:
             }
             return relatienummer
 
-        cache_key = f"netstand:{player_id}" if player_id else f"name:{name}"
-        cached = self.cache["players"].get(cache_key)
-        if cached and "relatienummer" in cached:
-            return cached["relatienummer"]
+        cache_key = f"netstand:{player_id}" if player_id else None
+        if cache_key:
+            cached = self.cache["players"].get(cache_key)
+            if cached and "relatienummer" in cached:
+                return cached["relatienummer"]
 
         relatienummer: int | None = None
         if player_id and str(player_id) != "-1":
-            time.sleep(REQUEST_DELAY)
-            response = self.session.get(
-                f"{NETSTAND_BASE}/players/view/{player_id}",
-                timeout=30,
-                headers={"User-Agent": "NK-Schoolschaak-Stats/1.0"},
-            )
-            response.raise_for_status()
-            match = RELATIENUMMER_RE.search(response.text)
-            if match:
-                relatienummer = int(match.group(1))
+            relatienummer = self._relatienummer_from_player_id(str(player_id))
+            if relatienummer is None:
+                time.sleep(REQUEST_DELAY)
+                response = self.session.get(
+                    f"{NETSTAND_BASE}/players/view/{player_id}",
+                    timeout=30,
+                    headers={"User-Agent": "NK-Schoolschaak-Stats/1.0"},
+                )
+                response.raise_for_status()
+                match = RELATIENUMMER_RE.search(response.text)
+                if match:
+                    relatienummer = int(match.group(1))
 
-        if relatienummer is None:
-            query = quote(self._search_query(name))
-            results = self._get_json(f"{RATINGVIEWER_BASE}/players/find.json?query={query}")
-            picked = self._pick_search_result(name, results)
-            if picked:
-                relatienummer = picked["relatienummer"]
-
-        self.cache["players"][cache_key] = {
-            "name": name,
-            "player_id": player_id,
-            "relatienummer": relatienummer,
-        }
+        if cache_key:
+            self.cache["players"][cache_key] = {
+                "name": name,
+                "player_id": player_id,
+                "relatienummer": relatienummer,
+            }
         return relatienummer
 
     def _metrics_for(self, relatienummer: int) -> list[dict[str, Any]]:
@@ -318,6 +289,8 @@ def build_ratings(tournament: dict[str, Any], service: KnsbRatingService) -> dic
             for player in team["players"]:
                 store_player(player)
             team_stats[team["id"]] = update_team_knsb_stats(team, player_entries)
+        for player in semifinal.get("player_roster", []):
+            store_player(player)
 
     for team in tournament["finalists"]:
         for player in team["players"]:
