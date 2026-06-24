@@ -1,0 +1,350 @@
+:root {
+  --bg: #f7f5f0;
+  --surface: #ffffff;
+  --text: #1c1c28;
+  --muted: #6e6e82;
+  --border: #e2dfd6;
+  --accent: #2c4a6e;
+  --gain: #1b6b45;
+  --loss: #a12828;
+  --shadow: 0 8px 32px rgba(28, 28, 40, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Segoe UI", system-ui, sans-serif;
+  line-height: 1.5;
+}
+
+.app {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 1rem 1.25rem 1rem;
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+header p {
+  margin: 0.35rem 0 0;
+  color: var(--muted);
+  font-size: 1rem;
+}
+
+.matchup {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: end;
+  gap: 0.75rem;
+}
+
+.swap-btn {
+  align-self: center;
+  margin-bottom: 1.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  padding: 0;
+  border: 2px solid var(--border);
+  border-radius: 50%;
+  background: var(--surface);
+  color: var(--muted);
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+  transition: border-color 0.15s, color 0.15s, transform 0.15s;
+}
+
+.swap-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.swap-btn:active {
+  transform: scale(0.94);
+}
+
+.swap-btn:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 4px rgba(44, 74, 110, 0.12), var(--shadow);
+}
+
+.rating-field {
+  display: grid;
+  gap: 0.5rem;
+}
+
+.rating-field span {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.rating-field input {
+  width: 100%;
+  font: inherit;
+  font-size: 2.25rem;
+  font-weight: 600;
+  text-align: center;
+  padding: 1rem 0.5rem;
+  border: 2px solid var(--border);
+  border-radius: 16px;
+  background: var(--surface);
+  color: var(--text);
+  box-shadow: var(--shadow);
+  transition: border-color 0.15s, box-shadow 0.15s;
+  -moz-appearance: textfield;
+}
+
+.rating-field input::-webkit-outer-spin-button,
+.rating-field input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.rating-field input::placeholder {
+  color: #c8c4bb;
+  font-weight: 500;
+}
+
+.rating-field input:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 4px rgba(44, 74, 110, 0.12), var(--shadow);
+}
+
+.advanced-toggle {
+  margin: 1.25rem auto 0;
+  padding: 0;
+  border: none;
+  background: none;
+  color: var(--muted);
+  font: inherit;
+  font-size: 0.8rem;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.advanced-toggle:hover {
+  color: var(--text);
+}
+
+.advanced[hidden] {
+  display: none;
+}
+
+.advanced:not([hidden]) {
+  display: grid;
+  gap: 1rem;
+}
+
+.advanced {
+  margin-top: 0.75rem;
+  padding: 1rem 1.25rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+
+.advanced-explain h2,
+.advanced-explain h3 {
+  margin: 0 0 0.5rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.advanced-explain h3 {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+}
+
+.advanced-explain a {
+  color: var(--accent);
+}
+
+.advanced-explain p {
+  margin: 0 0 0.65rem;
+  font-size: 0.88rem;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+.advanced-explain p:last-child {
+  margin-bottom: 0;
+}
+
+.advanced-explain strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.advanced-explain ul {
+  margin: 0 0 0.65rem;
+  padding-left: 1.2rem;
+  font-size: 0.88rem;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+.advanced-explain li + li {
+  margin-top: 0.35rem;
+}
+
+.formula {
+  padding: 0.55rem 0.75rem;
+  background: var(--bg);
+  border-radius: 8px;
+  font-family: ui-monospace, Consolas, monospace;
+  font-size: 0.82rem !important;
+  color: var(--text) !important;
+  text-align: center;
+}
+
+.k-factor-row,
+.advanced label {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  padding-top: 0.25rem;
+  border-top: 1px solid var(--border);
+}
+
+.advanced input {
+  width: 4.5rem;
+  font: inherit;
+  padding: 0.4rem 0.5rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  text-align: center;
+}
+
+.hint {
+  margin: 0;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.notice {
+  margin: 2rem 0 0;
+  padding: 0.85rem 1rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--muted);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+
+.results {
+  margin-top: 2.5rem;
+  flex: 1;
+}
+
+.meta {
+  margin: 0 0 1rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.meta strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.outcomes {
+  display: grid;
+  gap: 0.75rem;
+}
+
+@media (min-width: 520px) {
+  .outcomes {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.outcome {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 1.25rem 1rem;
+  text-align: center;
+  box-shadow: var(--shadow);
+}
+
+.outcome h2 {
+  margin: 0;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.outcome .delta {
+  margin: 0.4rem 0 0.15rem;
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+}
+
+.outcome .new-rating {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.outcome.gain .delta {
+  color: var(--gain);
+}
+
+.outcome.loss .delta {
+  color: var(--loss);
+}
+
+@media (max-width: 420px) {
+  .matchup {
+    grid-template-columns: 1fr auto 1fr;
+    gap: 0.5rem;
+  }
+
+  .swap-btn {
+    width: 2.25rem;
+    height: 2.25rem;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .rating-field input {
+    font-size: 1.65rem;
+    padding: 0.85rem 0.35rem;
+  }
+}

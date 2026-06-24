@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ELO Calculator</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="app">
+      <section class="matchup">
+        <label class="rating-field">
+          <span>Your rating</span>
+          <input
+            id="player-rating"
+            type="number"
+            inputmode="numeric"
+            min="0"
+            step="1"
+            placeholder="1750"
+          />
+        </label>
+
+        <button
+          type="button"
+          id="swap-btn"
+          class="swap-btn"
+          aria-label="Swap your rating and opponent rating"
+          title="Swap ratings"
+        >
+          ⇄
+        </button>
+
+        <label class="rating-field">
+          <span>Opponent</span>
+          <input
+            id="opponent-rating"
+            type="number"
+            inputmode="numeric"
+            min="0"
+            step="1"
+            placeholder="1682"
+          />
+        </label>
+      </section>
+
+      <button type="button" id="advanced-toggle" class="advanced-toggle" aria-expanded="false">
+        How it works
+      </button>
+
+      <section id="advanced" class="advanced" hidden>
+        <div class="advanced-explain">
+          <h2>How ratings are calculated</h2>
+          <p>
+            This calculator uses the <strong>KNSB</strong> (Dutch chess federation) system.
+            For each game, your rating changes by:
+          </p>
+          <p class="formula">rating change = K × (your score − expected score)</p>
+          <ul>
+            <li><strong>Your score</strong> — 1 for a win, ½ for a draw, 0 for a loss.</li>
+            <li>
+              <strong>Expected score</strong> — how much you were expected to score, based on
+              the rating difference (your rating minus the opponent’s). It is computed with the
+              KNSB normal-distribution formula (standard deviation 2000÷7).
+            </li>
+            <li><strong>K</strong> — the development factor (verversingsfactor). It depends on age and how many rated games you have played.</li>
+          </ul>
+          <p>
+            The result is rounded to one decimal place. Games against an unrated opponent
+            (rating 0) do not change your rating.
+          </p>
+
+          <h3>What is K? What is Nv?</h3>
+          <p>
+            <strong>K</strong> is the <em>verversingsfactor</em> (development factor): how many
+            rating points you gain or lose per game for a given surprise. A higher K means
+            bigger swings.
+          </p>
+          <p>
+            <strong>Nv</strong> is the number of rated games your current published rating is
+            based on (your rating history, capped at 100).
+          </p>
+          <ul>
+            <li>
+              <strong>Youth</strong> (junior categories through category A), rating ≤ 2100:
+              if Nv &lt; 30, K = 216 ÷ √Nv (higher when you are new); from Nv ≥ 30 onward,
+              K = <strong>40</strong>.
+            </li>
+            <li>
+              <strong>Adults</strong>, rating ≤ 2100: if Nv &lt; 75, K = 216 ÷ √Nv; from
+              Nv ≥ 75 onward, K = <strong>25</strong>.
+            </li>
+          </ul>
+          <p>
+            So <strong>40 for youth (Nv ≥ 30)</strong> means an established junior player
+            uses K = 40. The calculator defaults to 40; change it below if yours is different
+            (you can look up your K on
+            <a href="https://ratingviewer.nl" target="_blank" rel="noopener">ratingviewer.nl</a>).
+          </p>
+        </div>
+
+        <label class="k-factor-row">
+          K-factor
+          <input id="k-factor" type="number" min="1" step="1" value="40" />
+        </label>
+        <p class="hint">Default 40 (youth, Nv ≥ 30). Adults with Nv ≥ 75 typically use 25.</p>
+      </section>
+
+      <p id="notice" class="notice" hidden>Unrated opponent — no rating change.</p>
+
+      <section id="results" class="results" hidden>
+        <p class="meta">
+          Expected score <strong id="expected-pct"></strong>
+        </p>
+        <div class="outcomes" id="outcomes"></div>
+      </section>
+    </main>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
